@@ -15,10 +15,10 @@ _**Appendix Table 1**: Team Member Communication Modes_
 
 |Name                 | First Choice Communication | Second Choice Communication | Third Choice Communication |
 |---------------------|----------------------------|-----------------------------|----------------------------|
-|Member 1 |  ? | ? | ? |
-|Member 2 |  ? | ? | ? |
-|Member 3 |  ? | ? | ? |
-|Member 4 |  ? | ? | ? |
+|Levi Addink |  Discord | Text | Email |
+|Kelton Jensen |  ? | ? | ? |
+|Hafsa Kaysan |  ? | ? | ? |
+|Michael Kim |  ? | ? | ? |
 
 ### Main Method for Group Communication
 
@@ -35,29 +35,29 @@ _**Appendix Table 2**: Weekly Schedule_
 
 | Time | Sunday | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday |
 | :------: | :----: | :----: | :----: | :----: | :----: | :----: | :-----: |
-| 8:00 AM | - | - | M | - | M | - | - |
-| 9:00 AM | - | F | M | - | M | - | - |
-| 10:00 AM | - | B | M | - | M | - | - |
-| 11:00 AM | - | B | M | - | M | - | - |
-| 12:00 PM | Z | B, Z | M | - | M | - | - |
-| 1:00 PM | Z, F |  | M | - | M | - | - |
-| 2:00 PM | Z, F | - | M | - | M | - | - |
-| 3:00 PM | Z | - | M | - | M | - | - |
-| 4:00 PM | - | - | M | - | M | - | - |
-| 5:00 PM | - | - | M | - | M | - | - |
-| 6:00 PM | - | - | M | - | M | - | - |
-| 7:00 PM | - | - | M | - | M | - | - |
-| 8:00 PM | - | - | M | - | M | - | - |
-| 9:00 PM | - | - | M | - | M | - | - |
+| 8:00 AM | - | - | - | - | - | L | L |
+| 9:00 AM | - | - | - | - | - | L | L |
+| 10:00 AM | - | - | - | - | - | L | L |
+| 11:00 AM | - | - | - | - | - | L | L |
+| 12:00 PM | - | - | - | - | - | L | L |
+| 1:00 PM | - |  | - | - | - | L | L |
+| 2:00 PM | - | - | - | - | L | L | L |
+| 3:00 PM | L | L | L | L | L | L | L |
+| 4:00 PM | L | L | L | L | L | L | L |
+| 5:00 PM | L | L | L | L | L | L | L |
+| 6:00 PM | L | L | L | L | L | L | L |
+| 7:00 PM | L | L | L | L | L | L | L |
+| 8:00 PM | L | L | L | L | L | L | L |
+| 9:00 PM | L | L | L | L | L | L | L |
 
 _**Table Legend for Appendix Table 2**_
 
 | Name | Abbreviation |
 | ----- | :------: |
-| Bill | B |
-| Mary | M |
-| Zane | Z |
-| Felicity | F |
+| Levi Addink | L |
+| Kelton Jensen | K |
+| Hafsa Kaysan | H |
+| Michael Kim | M |
 
 
 ## Meeting Coordination
@@ -85,5 +85,5 @@ Need to add content!!
 
 ## Signatures
 
-Need to add content!!
+Levi Addink
 
