@@ -7,12 +7,11 @@ tags:
 
 ## Team Goals
 
-List at least five shared goals that reflect a successful product with regard to EGR3X4. Focus on team / product goals that are deeper than "getting an A".
-1) A fully functioning product that increases/betters a specific aspect of said product
-2) Shared communication throughout the entire project to ensure each team member is aware of the goals and progress
-3) Demonstrate understanding of microchip products and software
-4) Make sure each team member is pulling their own weight in their respective responsibilities
-5) Ask question or attend office hours if all members are lost
+1. Produce a fully functioning product that increases/betters a specific aspect of said product
+1. Engage in shared communication throughout the entire project to ensure each team member is aware of the goals and progress
+1. Create a design that demonstrates understanding of microchip products and software
+1. Ensure team members are fufilling their respective responsibilities and assist each other when able 
+1. Do further research, ask questions, and/or attend office hours if members are lost 
 
 ## Communication Channels
 
@@ -27,15 +26,15 @@ _**Appendix Table 1**: Team Member Communication Modes_
 
 ### Main Method for Group Communication
 
-Based on the information provided on in the "Team Member Communication Modes," the group primary method of communication is Discord. We have created a group dm to easily send messages images and links. Instructor correspondance will be done by the Assignment leader, or whoever is able via email, and important information with be relayed back to the group dm.
+Based on the information provided on in the _Team Member Communication Modes_, the group primary method of communication is Discord. We have created a direct messaging chat to easily send messages, images, and links. Instructor correspondance will be primarily done by the Assignment leader, and important information will be relayed back to the group chat.
  
 ## Communication Procedures
 
-1. How will your team communicate?
-   Our team will be mainly comminacating using discord on calls or text chat
-2. How will you handle instructor correspondence? Who is responsible? How will that be communicated with/back to the group?
+1. How will your team communicate?<br>
+   Our team will be mainly comminacating using discord in virtual calls or text chat.
+2. How will you handle instructor correspondence? Who is responsible? How will that be communicated with/back to the group?<br>
    We will keep our instructor up to date either through in person conversations or over email, we will distribute responisbility
-   accordingly, all information will need to be fully communicated through discord to ensure everyone is on the same page
+   accordingly, all information will need to be fully communicated through discord to ensure everyone is on the same page.
 
 ## Meeting Schedule
 
@@ -70,13 +69,13 @@ _**Table Legend for Appendix Table 2**_
 
 ## Meeting Coordination
 
-1. What method will you use to remind yourselves of meetings (a shared calendar?)
-   Everyone is responsible to mark down important meetings in their own respective ways
-1. How will your team go about changing or adding meeting times?
-   All will be communicated either through discord or in person class time
-1. What's the preferred format for meetings (face-to-face or virtually)?
+1. What method will you use to remind yourselves of meetings (a shared calendar?)<br>
+   Everyone is responsible to mark down important meetings in their own respective ways.
+1. How will your team go about changing or adding meeting times?<br>
+   All will be communicated either through discord or in-person class time and recorded by Meeting recorder.
+1. What's the preferred format for meetings (face-to-face or virtually)?<br>
    The preferred format is dependent on the topic and we will adjust accordingly
-1. Are there any other procedures that your team feels are necessary?
+1. Are there any other procedures that your team feels are necessary?<br>
    N/A
 
 ## Roles & Responsibilities
@@ -92,8 +91,8 @@ _**Appendix Table 2**: Project Roles and Duties_
 
 ## Conflict Recognition & Resolution
 
-In the event of any conflict we will resolve it as adults and colleages
-If the event is severe, professor involvement will be utilized
+In the event of any conflict we will resolve it as adults and colleages.
+If the conflict is severe, professor involvement will be utilized.
 
 
 ## Signatures
