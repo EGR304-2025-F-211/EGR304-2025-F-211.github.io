@@ -36,19 +36,19 @@ _**Appendix Table 2**: Weekly Schedule_
 | Time | Sunday | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday |
 | :------: | :----: | :----: | :----: | :----: | :----: | :----: | :-----: |
 | 8:00 AM | - | - | - | - | - | L | LK |
-| 9:00 AM | - | H | H | H | H | L | LK |
-| 10:00 AM | M | MH | H | H | MH | L | LK |
-| 11:00 AM | MH | MH | H | H | MH | LH | LKH |
+| 9:00 AM | H | - | H | - | H | LH | LKH |
+| 10:00 AM | MH | MH | - | H | M | LH | LKH |
+| 11:00 AM | MH | MH | - | H | M | LH | LKH |
 | 12:00 PM | H | H | - | H | M | LH | LKH |
-| 1:00 PM | H | - | - | H | - | LH | LKMH |
+| 1:00 PM | - | - | - | - | - | L | LKM |
 | 2:00 PM | M | - | - | M | L | L | LKM |
-| 3:00 PM | LKM | L | LMH | L | LH | LKH | LKMH |
-| 4:00 PM | LKM | L | LMH | L | LH | LKH | LKMH |
-| 5:00 PM | LKM | LM | LM | LM | L | LKM | LM |
-| 6:00 PM | LKM | LM | LM | LM | L | LKM | LM |
+| 3:00 PM | LKM | L | LM | L | L | LK | LKM |
+| 4:00 PM | LKM | L | LM | L | L | LK | LKM |
+| 5:00 PM | LKMH | LMH | LMH | LMH | LH | LKMH | LMH |
+| 6:00 PM | LKMH | LMH | LMH | LMH | LH | LKMH | LMH |
 | 7:00 PM | LKMH | LMH | LMH | LMH | LH | LKMH | LMH |
-| 8:00 PM | LKMH | LMH | LMH | LH | LH | LKMH | LMH |
-| 9:00 PM | LKMH | LH | LH | LH | LH | LKMH | LMH |
+| 8:00 PM | LKM | LM | LM | L | L | LKM | LM |
+| 9:00 PM | LKM | L | L | L | L | LKM | LM |
 
 _**Table Legend for Appendix Table 2**_
 
@@ -85,7 +85,7 @@ Need to add content!!
 
 ## Signatures
 
-Levi Addink
-Kelton Jensen
-Michael Kim
-
+Levi Addink<br>
+Kelton Jensen<br>
+Michael Kim<br>
+Hafsa Kaysan<br>
