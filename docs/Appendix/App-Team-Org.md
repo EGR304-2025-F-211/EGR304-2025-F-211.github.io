@@ -17,7 +17,7 @@ _**Appendix Table 1**: Team Member Communication Modes_
 |---------------------|----------------------------|-----------------------------|----------------------------|
 |Levi Addink |  Discord | Text | Email |
 |Kelton Jensen |  Discord | Text | Email |
-|Hafsa Kaysan |  ? | ? | ? |
+|Hafsa Kaysan |  Discord | Email | Text |
 |Michael Kim |  Discord | Email | Text |
 
 ### Main Method for Group Communication
@@ -36,19 +36,19 @@ _**Appendix Table 2**: Weekly Schedule_
 | Time | Sunday | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday |
 | :------: | :----: | :----: | :----: | :----: | :----: | :----: | :-----: |
 | 8:00 AM | - | - | - | - | - | L | LK |
-| 9:00 AM | - | - | - | - | - | L | LK |
-| 10:00 AM | M | M | - | - | M | L | LK |
-| 11:00 AM | M | M | - | - | M | L | LK |
-| 12:00 PM | - | - | - | - | M | L | LK |
-| 1:00 PM | - |  | - | - | - | L | LKM |
-| 2:00 PM | M| - | - | M | L | L | LKM |
-| 3:00 PM | LKM | L | LM | L | L | LK | LKM |
-| 4:00 PM | LKM | L | LM | L | L | LK | LKM |
+| 9:00 AM | - | H | H | H | H | L | LK |
+| 10:00 AM | M | MH | H | H | MH | L | LK |
+| 11:00 AM | MH | MH | H | H | MH | LH | LKH |
+| 12:00 PM | H | H | - | H | M | LH | LKH |
+| 1:00 PM | H | - | - | H | - | LH | LKMH |
+| 2:00 PM | M | - | - | M | L | L | LKM |
+| 3:00 PM | LKM | L | LMH | L | LH | LKH | LKMH |
+| 4:00 PM | LKM | L | LMH | L | LH | LKH | LKMH |
 | 5:00 PM | LKM | LM | LM | LM | L | LKM | LM |
 | 6:00 PM | LKM | LM | LM | LM | L | LKM | LM |
-| 7:00 PM | LKM | LM | LM | LM | L | LKM | LM |
-| 8:00 PM | LKM | LM | LM | L | L | LKM | LM |
-| 9:00 PM | LKM | L | L | L | L | LKM | LM |
+| 7:00 PM | LKMH | LMH | LMH | LMH | LH | LKMH | LMH |
+| 8:00 PM | LKMH | LMH | LMH | LH | LH | LKMH | LMH |
+| 9:00 PM | LKMH | LH | LH | LH | LH | LKMH | LMH |
 
 _**Table Legend for Appendix Table 2**_
 
