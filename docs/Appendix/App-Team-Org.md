@@ -110,7 +110,12 @@ If a team member repeatedly fails to contribute to the project, misses meetings,
 ## Conflict Recognition & Resolution
 
 In the event of any conflict we will resolve it as adults and colleages.
-If the conflict is severe, professor involvement will be utilized.
+
+Any conflict between team members should be resolved via civil discussion between the indiividuals involved. If there are conflicting views on a decision to be taken during a project, majority opinion will determine the route to take.
+
+Issues with team roles or responsibilities can be sorted out via discussion as a group, changing roles, tasks, or plans as need be.  
+
+If a team member believes a conflict to be severe enough, professor involvement can be utilized via the pink slips system.
 
 
 ## Signatures
