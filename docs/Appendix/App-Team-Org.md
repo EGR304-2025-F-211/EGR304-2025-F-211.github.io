@@ -89,6 +89,15 @@ _**Appendix Table 2**: Project Roles and Duties_
 | Assignment leader (Michael Kim) | Coordinates the team's work on a given assignment to Canvas before the due date                                                           |
 | Project monitor (Hafsa Kaysan)   | Tracks the team's progress relative to the project schedule (Gantt chart) and keeps team members apprised of deadlines and project status |
 
+Initial team member roles are shown above in Table 2, roles will be changed every 3 weeks to ensure that each team member will have each role at least once.
+New roles will be decided via volunteering, and repeat roles will not be allowed. If team members are unable to fufill their roles or simply wish to switch they can switch roles with another willing team member.
+
+Although there are team roles, team members are encoraged to assist other team members with role related tasks.
+
+Team activites, meetings, and milestones will be tracked via discord events.
+
+The technical responsibilities of the team members will be determined by roles and volunteering. If there is a task that needs to be done, parts of that task will be claimed by team members.
+
 ## Conflict Recognition & Resolution
 
 In the event of any conflict we will resolve it as adults and colleages.
