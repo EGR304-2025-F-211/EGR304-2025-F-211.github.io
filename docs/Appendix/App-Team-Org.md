@@ -22,7 +22,7 @@ _**Appendix Table 1**: Team Member Communication Modes_
 
 ### Main Method for Group Communication
 
-Based on the information provided on in the "Team Member Communication Modes," the group primary method of communication is Discord. We have created a group dm to easily send messages images and links. Instructor correspondance will be done by the Assignment leader, or whoever is able via email, and important information with be related back to the group dm.
+Based on the information provided on in the "Team Member Communication Modes," the group primary method of communication is Discord. We have created a group dm to easily send messages images and links. Instructor correspondance will be done by the Assignment leader, or whoever is able via email, and important information with be relayed back to the group dm.
  
 ## Communication Procedures
 
