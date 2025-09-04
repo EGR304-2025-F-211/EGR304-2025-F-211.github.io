@@ -16,7 +16,7 @@ _**Appendix Table 1**: Team Member Communication Modes_
 |Name                 | First Choice Communication | Second Choice Communication | Third Choice Communication |
 |---------------------|----------------------------|-----------------------------|----------------------------|
 |Levi Addink |  Discord | Text | Email |
-|Kelton Jensen |  ? | ? | ? |
+|Kelton Jensen |  Discord | Text | Email |
 |Hafsa Kaysan |  ? | ? | ? |
 |Michael Kim |  ? | ? | ? |
 
@@ -35,20 +35,20 @@ _**Appendix Table 2**: Weekly Schedule_
 
 | Time | Sunday | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday |
 | :------: | :----: | :----: | :----: | :----: | :----: | :----: | :-----: |
-| 8:00 AM | - | - | - | - | - | L | L |
-| 9:00 AM | - | - | - | - | - | L | L |
-| 10:00 AM | - | - | - | - | - | L | L |
-| 11:00 AM | - | - | - | - | - | L | L |
-| 12:00 PM | - | - | - | - | - | L | L |
-| 1:00 PM | - |  | - | - | - | L | L |
-| 2:00 PM | - | - | - | - | L | L | L |
-| 3:00 PM | L | L | L | L | L | L | L |
-| 4:00 PM | L | L | L | L | L | L | L |
-| 5:00 PM | L | L | L | L | L | L | L |
-| 6:00 PM | L | L | L | L | L | L | L |
-| 7:00 PM | L | L | L | L | L | L | L |
-| 8:00 PM | L | L | L | L | L | L | L |
-| 9:00 PM | L | L | L | L | L | L | L |
+| 8:00 AM | - | - | - | - | - | L | LK |
+| 9:00 AM | - | - | - | - | - | L | LK |
+| 10:00 AM | - | - | - | - | - | L | LK |
+| 11:00 AM | - | - | - | - | - | L | LK |
+| 12:00 PM | - | - | - | - | - | L | LK |
+| 1:00 PM | - |  | - | - | - | L | LK |
+| 2:00 PM | - | - | - | - | L | L | LK |
+| 3:00 PM | LK | L | L | L | L | LK | LK |
+| 4:00 PM | LK | L | L | L | L | LK | LK |
+| 5:00 PM | LK | L | L | L | L | LK | L |
+| 6:00 PM | LK | L | L | L | L | LK | L |
+| 7:00 PM | LK | L | L | L | L | LK | L |
+| 8:00 PM | LK | L | L | L | L | LK | L |
+| 9:00 PM | LK | L | L | L | L | LK | L |
 
 _**Table Legend for Appendix Table 2**_
 
@@ -86,4 +86,5 @@ Need to add content!!
 ## Signatures
 
 Levi Addink
+Kelton Jensen
 
