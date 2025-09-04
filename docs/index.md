@@ -11,7 +11,7 @@ tags:
 Semester and Year<br>
 <font size="4">Arizona State University<br>
 **EGR 304**<br>
-Professor Name<br>
+Professor Nichols<br>
   
 
 </center>
