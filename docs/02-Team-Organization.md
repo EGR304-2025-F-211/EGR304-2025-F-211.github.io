@@ -7,9 +7,11 @@ tags:
 
 ## Team Charter
 
-From the ... which can be reviewed in ["Appendix: Team Organization"](https://embedded-systems-design.github.io/EGR304TeamTemplate/Appendix/App-Team-Org/), the team's charter formed to be (showing ASU's Charter as an Example):
+From the team goals which can be reviewed in ["Appendix: Team Organization"](https://embedded-systems-design.github.io/EGR304TeamTemplate/Appendix/App-Team-Org/), the team's charter formed to be (showing ASU's Charter as an Example):
 
-> "ASU is a comprehensive public research university, measured not by whom it excludes, but by whom it includes and how they succeed; advancing research and discovery of public value; and assuming fundamental responsibility for the economic, social, cultural and overall health of the communities it serves." (ASU's Charter)
+> "Team 211 is a group focused on teamwork, communication, and collaboration. We will ensure each team member contributes to team assignments and learns the neccesary skills for said assignments; and we strive to complete our work to the best of our abilities and in a punctual manner." (Team 211's Charter)
+
+This charter was agreed upon because all of our team members value teamwork and effort, and it aligns with our team goals in the "Appendix: Team Orginazation" section. We created this charter to reflect both of those in a short concise paragraph.
 
 ## Product Mission Statement
 
