@@ -98,6 +98,15 @@ Team activites, meetings, and milestones will be tracked via discord events.
 
 The technical responsibilities of the team members will be determined by roles and volunteering. If there is a task that needs to be done, parts of that task will be claimed by team members.
 
+## Team Coordination & Accountability
+In order to prevent assignments from falling behind each team member should be aware of the due dates and upcoming assignments, the project monitor will help with this, but ultimatly the responsability to be aware of upcoming assignments will come down to the individual. When an assignment is completed all team members will give it look over and send confirmation in the discord that the assignment appears complete, the Assignment leader will then submit it on canvas.
+
+Tasks assigned during projects should, in most cases, align with the abilites of the team members, however if a team member does not have the needed skills or abilities to complete a task they are encouraged to seek assistance from other team members.
+
+Any feedback given during the project will be relayed via discord to ensure that all members recive the information.
+
+If a team member repeatedly fails to contribute to the project, misses meetings, or is in some other way detrimental to the projects progress, team members are able to issue pink slips as detailed in the class syllabus. This is up to individual discretion.
+
 ## Conflict Recognition & Resolution
 
 In the event of any conflict we will resolve it as adults and colleages.
