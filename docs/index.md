@@ -5,10 +5,10 @@ tags:
 - tag2
 ---
 <center>
-<font size="8">Project Name<br>
+<font size="8">Organization, Charter, and Repository<br>
 <font size="5">Team 211<br>
 **Submission: month, DD, YYYY**<br>
-Semester and Year<br>
+Fall 2025<br>
 <font size="4">Arizona State University<br>
 **EGR 304**<br>
 Professor Nichols<br>
@@ -26,7 +26,7 @@ Professor Nichols<br>
 
 | **Team Member**        |**Ind Datasheet Links** |
 | ---------------------- | -----------------------|
-| Name #1                | [JohnDoe.GitHub](https://embedded-systems-design.github.io/EGR304DataSheetTemplate/) |
-| Name #2                | link |
-| Name #3                | link |
-| Name #4                | link |
+| Levi Addink                | [Blobiathan.GitHub](https://blobiathan.github.io/) |
+| Kelton Jensen                | [kjensen37.GitHub](https://kjensen37.github.io/) |
+| Hafsa Kaysan                | [HFSKSN.GitHub](https://hfsksn.github.io/) |
+| Michael Kim                | [mjkim21-dev.GitHub](https://mjkim21-dev.github.io/) |
