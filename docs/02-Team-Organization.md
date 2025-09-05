@@ -16,3 +16,5 @@ This charter was agreed upon because all of our team members value teamwork and 
 ## Product Mission Statement
 
  > "Team 211 product's mission is to competently utilize the materials, tools, and knowledge provided by EGR 304 to help households save water, energy, and time in an innovative way."
+
+This mission statement was agreed upon because it combined the ideals of our charter and team goals, with the design project of this class, to design a device to save water energy and time.
