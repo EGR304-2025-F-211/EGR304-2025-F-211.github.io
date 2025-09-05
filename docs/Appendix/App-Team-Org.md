@@ -70,11 +70,11 @@ _**Table Legend for Appendix Table 2**_
 ## Meeting Coordination
 
 1. What method will you use to remind yourselves of meetings (a shared calendar?)<br>
-   Everyone is responsible to mark down important meetings in their own respective ways.
+   Everyone is responsible for marking down important meetings in their own respective ways.
 1. How will your team go about changing or adding meeting times?<br>
    All will be communicated either through discord or in-person class time and recorded by Meeting recorder.
 1. What's the preferred format for meetings (face-to-face or virtually)?<br>
-   The preferred format is dependent on the topic and we will adjust accordingly
+   The preferred format is dependent on the topic, and we will adjust accordingly
 1. Are there any other procedures that your team feels are necessary?<br>
    N/A
 
@@ -86,32 +86,32 @@ _**Appendix Table 2**: Project Roles and Duties_
 | :---------------- | :---------------------------------------------------------------------------------------------------------------------------------------- |
 | Meeting leader (Levi Addink)    | Schedules team meetings, creates and distributes an agenda for each meeting, and runs each meeting                                        |
 | Meeting recorder (Kelton Jensen)  | Takes minutes of each team meeting, including attendance, and records action items and to whom they are assigned                          |
-| Assignment leader (Michael Kim) | Coordinates the team's work on a given assignment to Canvas before the due date                                                           |
+| Assignment leader (Michael Kim) | Coordinates the team's work on a given assignment on Canvas before the due date                                                           |
 | Project monitor (Hafsa Kaysan)   | Tracks the team's progress relative to the project schedule (Gantt chart) and keeps team members apprised of deadlines and project status |
 
 Initial team member roles are shown above in Table 2, roles will be changed every 3 weeks to ensure that each team member will have each role at least once.
-New roles will be decided via volunteering, and repeat roles will not be allowed. If team members are unable to fufill their roles or simply wish to switch they can switch roles with another willing team member.
+New roles will be decided via volunteering, and repeat roles will not be allowed. If team members are unable to fulfill their roles or simply wish to switch, they can switch roles with another willing team member.
 
 Although there are team roles, team members are encoraged to assist other team members with role related tasks.
 
-Team activites, meetings, and milestones will be tracked via discord events.
+Team activities, meetings, and milestones will be tracked via Discord events.
 
 The technical responsibilities of the team members will be determined by roles and volunteering. If there is a task that needs to be done, parts of that task will be claimed by team members.
 
 ## Team Coordination & Accountability
-In order to prevent assignments from falling behind each team member should be aware of the due dates and upcoming assignments, the project monitor will help with this, but ultimatly the responsability to be aware of upcoming assignments will come down to the individual. When an assignment is completed all team members will give it look over and send confirmation in the discord that the assignment appears complete, the Assignment leader will then submit it on canvas.
+To prevent assignments from falling behind, each team member should be aware of the due dates and upcoming assignments, the project monitor will help with this, but ultimatly the responsability to be aware of upcoming assignments will come down to the individual. When an assignment is complete,d all team members will give it look over and send confirmation in the discord that the assignment appears complete, the Assignment leader will then submit it on canvas.
 
-Tasks assigned during projects should, in most cases, align with the abilites of the team members, however if a team member does not have the needed skills or abilities to complete a task they are encouraged to seek assistance from other team members.
+Tasks assigned during projects should, in most cases, align with the abilities of the team members; however, if a team member does not have the needed skills or abilities to complete a task, they are encouraged to seek assistance from other team members.
 
-Any feedback given during the project will be relayed via discord to ensure that all members recive the information.
+Any feedback given during the project will be relayed via Discord to ensure that all members receive the information.
 
-If a team member repeatedly fails to contribute to the project, misses meetings, or is in some other way detrimental to the projects progress, team members are able to issue pink slips as detailed in the class syllabus. This is up to individual discretion.
+If a team member repeatedly fails to contribute to the project, misses meetings, or is in some other way detrimental to the project's progress, team members can issue pink slips as detailed in the class syllabus. This is up to individual discretion.
 
 ## Conflict Recognition & Resolution
 
-In the event of any conflict we will resolve it as adults and colleages.
+In the event of any conflict, we will resolve it as adults and colleagues.
 
-Any conflict between team members should be resolved via civil discussion between the indiividuals involved. If there are conflicting views on a decision to be taken during a project, majority opinion will determine the route to take.
+Any conflict between team members should be resolved via civil discussion between the indiividuals involved. If there are conflicting views on a decision to be taken during a project, the majority opinion will determine the route to take.
 
 Issues with team roles or responsibilities can be sorted out via discussion as a group, changing roles, tasks, or plans as need be.  
 
