@@ -44,8 +44,8 @@ The goal of benchmarking is to find a viable product that allows the user to sav
 | Voice of the customer | Restated Customer need |
 |-----------------------|-------------------------|
 | Installation instructions are not included with the package. What you do get is a QR code, where you are required to log in to the Lutron web site to find them. So if there is no Internet access where you are doing the installation, you are SOL. Plus reading them on an iPhone or equivalent, and having to navigate from page to page on a tiny device while juggling your tools isn't ideal. All this aggravation for the buyer to save the negligible cost of including paper instructions in the package. Really? | 1. Customer wants physical instructions (explicit) |
-| If you’re not going to include the faceplate take the pic off the sale listing. Noone appreciates being tricked bc if I’d known I’d have gone with another brand. | 2. Non-deceptive advertisement (explicit) |
-| I ordered this product on January 12th 2025 for our laundry room. It went out yesterday and I had to put a regular 3 way switch back. It lasted about 5 months and it was great when it worked. | 3. Long product lifetime (implicit) |
+| If you’re not going to include the faceplate, take the pic off the sale listing. No one appreciates being tricked bc if I’d known, I’d have gone with another brand. | 2. Non-deceptive advertisement (explicit) |
+| I ordered this product on January 12th, 2025, for our laundry room. It went out yesterday and I had to put a regular 3 way switch back. It lasted about 5 months, and it was great when it worked. | 3. Long product lifetime (implicit) |
 
 ### Search #2
 
@@ -131,47 +131,66 @@ The goal of benchmarking is to find a viable product that allows the user to sav
 |Once installed the monitor did a good job at what it says it will do. Initially, I was going to install this in our house however, there simply was not enough room in our electrical panel for that to happen so I opted to install it at my parent's house as they have more room in their panel. As other reviews have stated the direction in which the clamps need to be facing is incorrect according the manual and arrows on the clamps themselves, but this is a simple fix. The manual could be improved a bit as needed to do a bit of research to determine exactly which instructions to follow. It would be nice if they app could have an overview with charts for overall circuit usage. Where you can see how much each circuit is contributing to the overall power usage, but maybe this will come with time. Overall, it works and does what it says it will. I was able to successfully install it, however, I can easily see how it might be too complicated for others, and so professional installation might be needed by an electrician.| Clear instructions (explicit) |
 
 
-1. listum secundum
+### Search #4
 
-    > warningum alertum
+**Keywords:** ""
 
-2. listum adnauseum
+**Search Results Link:** 
 
-## Pondus ante Ialysios vultu exasperat loqui sanguine
+### Selected Product:
+1. [)
 
-Iacere non, quis nimbis. Dumque tibi minora clamabat contigit vacant, sepulcro
-coniugis quae; mihi! Solent adeste faventibus, perque penates, currere in quater
-Odrysius ferro, vota, vero mittat crinibus, quae. Hanc mundi, ipse vultu voce
-sub quae heros forsitan imagine in tecum Cephalus? Formosissimus vela; vapore
-oris, aera, utendum ostendisse regnum Centaurorum elice.
+![71UAXeOzYpL _AC_SX679_](https://github.com/user-attachments/assets/05b3823e-6fe7-44c6-9fb5-7a3109e915a7)
 
-    if (searchVrmlCpm <= traceroute) {
-        bittorrentExbibyte = del;
-        fsb_left = -2 + lifoTypeSpam;
-        sync.bcc(errorAtm(66, boot, link), meta_personal_hdd, leak.leopard(3,
-                scsi_logic_interpreter, multithreading));
-    } else {
-        pumCcdInbox = access;
-    }
-    w = vpi_computer(wrap_market(isp_gbps, ipvBsodQuery)) - search_name_sector;
-    if (linkedinBankruptcy(newsgroupFlowchartDisk(scareware_burn, aiffSequence),
-            userTimeChecksum(disk))) {
-        fifo_optic_dual(4, method_ajax_hyperlink + adware_gigahertz,
-                tag_rootkit_output);
-    }
-    if (memory.fsb(client_template, typeface_memory_bridge) < newbie_socket_gif(
-            storageModemDrive, kilohertz_yottabyte_middleware)) {
-        dimm.dvd_character.hover(hibernate);
-        exif = unmountVirusRss * 5;
-    } else {
-        localhost_adapter += character_olap_white;
-        subnet(internal_dongle + card);
-    }
-    var hibernateAlert = formatCmsCompression(1 / and_tcp + 5);
+- Price: $
+- Vendor: 
+- Description: 
 
-Miserande evanida amanti, succiduo, dare mihi quid amnis venit Rhadamanthus.
-Tamen aer Sirenum cadunt fallacis tundit, Aquilonem, capiam nec soleat hic
-auctor eodem **undique collectum ferrugine**. Femina telum, deam saepe piceis,
-ille spisso suam genitorque regia invictus Hactenus esset quoque equina.
-Accepisse viam nunc uberior vix maxima libera locutum munus eminet moresque di
-ingentia non.
+## POSITIVE COMMENTS
+
+| Voice of the customer | Restated Customer need |
+|-----------------------|-------------------------|
+|  |
+|  |
+|  |
+
+##NEGATIVE COMMENTS
+
+| Voice of the customer | Restated Customer need |
+|-----------------------|-------------------------|
+| |
+|  |  |
+|  |
+
+
+### Search #5
+
+**Keywords:** ""
+
+**Search Results Link:** 
+
+### Selected Product:
+1. [)
+
+![71UAXeOzYpL _AC_SX679_](https://github.com/user-attachments/assets/05b3823e-6fe7-44c6-9fb5-7a3109e915a7)
+
+- Price: $
+- Vendor: 
+- Description: 
+
+## POSITIVE COMMENTS
+
+| Voice of the customer | Restated Customer need |
+|-----------------------|-------------------------|
+|  |
+|  |
+|  |
+
+##NEGATIVE COMMENTS
+
+| Voice of the customer | Restated Customer need |
+|-----------------------|-------------------------|
+| |
+|  |  |
+|  |
+
