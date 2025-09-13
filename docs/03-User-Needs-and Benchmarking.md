@@ -5,17 +5,16 @@ tags:
 - tag2
 ---
 
-## Et poposcerat rursus ad magnus premit
+## Benchmarking 
 
-Lorem markdownum gradus, qui largis, nec pater pleno: fatum. Adspexit cursus
-cur, aut in adhuc crimina **habebat**: pro.
+The goal of benchmarking is to find a viable product that allows the user to save water, energy, and time in household appliances.
 
-- Et ducimus
-- Prosecta hinc nix vidi rettulit cum sitim
-- Has in tonitribus tenebrae Romane mirantum resupina
-- Figuras et dextram
+- Dishwasher
+- Laundry Machine
+- Refrigerator
+- Water Heaters
 
-## Esse quoque sedem plena nunc iecur
+## Voices of the Customers Benchmarking
 
 Possemque suos dumque. Deum recta rogantem, inquinat facta gigantas; ego nisi
 mea. Nec tamen quae gravem, potens, [cognoscendo
