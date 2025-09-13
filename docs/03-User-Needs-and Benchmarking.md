@@ -107,8 +107,6 @@ The goal of benchmarking is to find a viable product that allows the user to sav
 | I got all the connections set up and confirmed all devices were connected only to determine that this water detector does NOT detect water. Any device like this I need to be reliable 100% of the time, 0% doesn't cut it, Would not recommend. | Reliability (explicit) |
 | I never got around to installing or testing the actual sensor. The gateway emits a high-pitched noise when the blue light is on (always once connected to wi-fi) that was unbearable (turn up the volume on the video, it's subtle, but very annoying). This may be ok for some people if the gateway is in a room that isn't accessed often, but my gateway would have been in an area that we spend at leased some time exercising in. I ordered the H5058's instead and they seem to work fine. | Product should be non-obtrusive |
 
-##Search #4
-
 2. [Smart Home Energy Monitor Supports Home Assistant]([url](https://www.amazon.com/Supports-Assistant-Real-Time-Consumption-Electricity/dp/B0DJNV3GPR?crid=2569RJYODRGP0&dib=eyJ2IjoiMSJ9.zMca8Y-99-LFzNkju0oACII_9jhcgYmJZW1N92pK7iRQ-xTDsappKRrZVWTit3Z8omEA-WOCt5T4K6n3GvddOlgaoIpZHBLPqVwnJzIGWP8.PNSUaYfsWAv2aGQ8wpgba-JO52f12dmeo4mez0CVogE&dib_tag=se&keywords=home%2Bsmart%2Bdevice&qid=1757729330&sprefix=home%2Bsmart%2Bdevic%2Caps%2C206&sr=8-55&xpid=iHsb7JPfnHgIn&th=1))
 ![71H84Z2uP6L _AC_SL1500_](https://github.com/user-attachments/assets/6992c8cd-44ba-40b3-ae2f-d4b93db54ec9)
 
@@ -133,7 +131,7 @@ The goal of benchmarking is to find a viable product that allows the user to sav
 |Once installed the monitor did a good job at what it says it will do. Initially, I was going to install this in our house however, there simply was not enough room in our electrical panel for that to happen so I opted to install it at my parent's house as they have more room in their panel. As other reviews have stated the direction in which the clamps need to be facing is incorrect according the manual and arrows on the clamps themselves, but this is a simple fix. The manual could be improved a bit as needed to do a bit of research to determine exactly which instructions to follow. It would be nice if they app could have an overview with charts for overall circuit usage. Where you can see how much each circuit is contributing to the overall power usage, but maybe this will come with time. Overall, it works and does what it says it will. I was able to successfully install it, however, I can easily see how it might be too complicated for others, and so professional installation might be needed by an electrician.| Clear instructions (explicit) |
 
 
-### Search #5
+### Search #4
 
 **Keywords:** ""
 
@@ -165,7 +163,7 @@ The goal of benchmarking is to find a viable product that allows the user to sav
 |  |
 
 
-### Search #6
+### Search #5
 
 **Keywords:** ""
 
