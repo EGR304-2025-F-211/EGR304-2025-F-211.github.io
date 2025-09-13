@@ -33,12 +33,14 @@ The goal of benchmarking is to find a viable product that allows the user to sav
 
 POSITIVIE COMMENTS
 |Voice of the customer                 |Restated Customer need                 |
+| -----------------------------------: | :------------------------------------ | 
 |                                      |                                       |
 |                                      |                                       |
 |                                      |                                       |
 
 NEGATIVE COMMENTS
 |Voice of the customer                 |Restated Customer need                 |
+| -----------------------------------: | :------------------------------------ | 
 |                                      |                                       |
 |                                      |                                       |
 |                                      |                                       |
