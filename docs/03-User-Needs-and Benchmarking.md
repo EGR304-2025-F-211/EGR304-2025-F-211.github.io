@@ -37,14 +37,15 @@ The goal of benchmarking is to find a viable product that allows the user to sav
 |-----------------------|-------------------------|
 | We bought this switch to replace the mechanical one in the garage, since we were all too often leaving it on all day after driving out. This switch was easy to wire, looks good for a motion sensor, and more importantly, it just works every time. Now we never need to think about lighting when leaving or coming home; the garage is always well-lit when we need it to be. | 1. The device is easy to set up, reliable, and "looks good" (explicit) |
 | Very effective. Easy to install | 2. Device is effective and easy to install (explicit) |
-| Easy to install and allow the lights to come on without hands by just entering the room. Goes off quickly after motion has ended. Fits any single conventional light switch so it can be used for both 1/4 and 1/2 bathrooms perfectly. | 3. Does its job well and integrates well into the home |
+| Easy to install and allow the lights to come on without hands by just entering the room. Goes off quickly after motion has ended. Fits any single conventional light switch so it can be used for both 1/4 and 1/2 bathrooms perfectly. | 3. Does it's job well and integrates well into the home (explicit) |
 
 NEGATIVE COMMENTS
-|Voice of the customer                 |Restated Customer need                 |
-| ----------------------------------- | ------------------------------------ | 
-|                                      |                                       |
-|                                      |                                       |
-|                                      |                                       |
+| Voice of the customer | Restated Customer need |
+|-----------------------|-------------------------|
+| Installation instructions are not included with the package. What you do get is a QR code, where you are required to log in to the Lutron web site to find them. So if there is no Internet access where you are doing the installation, you are SOL. Plus reading them on an iPhone or equivalent, and having to navigate from page to page on a tiny device while juggling your tools isn't ideal. All this aggravation for the buyer to save the negligible cost of including paper instructions in the package. Really? | 1. Customer wants physical instructions (explicit)  |
+|  If you’re not going to include the faceplate take the pic off the sale listing. Noone appreciates being tricked bc if I’d known I’d have gone with another brand.  | 2. Non-deceptive advertisement (explicit) |
+|  I ordered this product on January 12th 2025 for our laundry room. It went out yesterday and I had to put a regular 3 way switch back. It lasted about 5 months and it was great when it worked.  | 3. Long product lifetime (implicit) |
+
 2. listum secundum
 
     > warningum alertum
