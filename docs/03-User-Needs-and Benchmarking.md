@@ -107,6 +107,33 @@ The goal of benchmarking is to find a viable product that allows the user to sav
 | I got all the connections set up and confirmed all devices were connected only to determine that this water detector does NOT detect water. Any device like this I need to be reliable 100% of the time, 0% doesn't cut it, Would not recommend. | Reliability (explicit) |
 | I never got around to installing or testing the actual sensor. The gateway emits a high-pitched noise when the blue light is on (always once connected to wi-fi) that was unbearable (turn up the volume on the video, it's subtle, but very annoying). This may be ok for some people if the gateway is in a room that isn't accessed often, but my gateway would have been in an area that we spend at leased some time exercising in. I ordered the H5058's instead and they seem to work fine. | Product should be non-obtrusive |
 
+2. [Smart Home Energy Monitor Supports Home Assistant]([url](https://www.amazon.com/Supports-Assistant-Real-Time-Consumption-Electricity/dp/B0DJNV3GPR?crid=2569RJYODRGP0&dib=eyJ2IjoiMSJ9.zMca8Y-99-LFzNkju0oACII_9jhcgYmJZW1N92pK7iRQ-xTDsappKRrZVWTit3Z8omEA-WOCt5T4K6n3GvddOlgaoIpZHBLPqVwnJzIGWP8.PNSUaYfsWAv2aGQ8wpgba-JO52f12dmeo4mez0CVogE&dib_tag=se&keywords=home%2Bsmart%2Bdevice&qid=1757729330&sprefix=home%2Bsmart%2Bdevic%2Caps%2C206&sr=8-55&xpid=iHsb7JPfnHgIn&th=1))
+![71H84Z2uP6L _AC_SL1500_](https://github.com/user-attachments/assets/6992c8cd-44ba-40b3-ae2f-d4b93db54ec9)
+
+- Price: $161
+- Vendor: Amazon
+- Description:  Real-Time Accurate Energy Consumption Tracking, Electricity Usage Monitor with 16x60A Circuit Sensors, 36-Month History, Solar Metering, 2.4G
+
+## POSITIVE COMMENTS
+
+| Voice of the customer | Restated Customer need |
+|-----------------------|-------------------------|
+| This product feels well designed and made. The installation takes some effort and patience to fit all the sensors in the electrical panel. One certainly want to make sure clearly label everything. Once installed, it works fairly well. The software is pretty easy to use and the usage numbers are pretty close to my power bill. I really like its integration with Home Assistant. | Accuracy and ease of use (explicit) |
+| Only been using this smart home energy monitor for a few weeks and it seems to be working well so far. It is nice to be able to see the energy consumption for your home. Installation seemed to be straightforward, and anything I had trouble figuring out was answered in the installation manual. However, after installation and looking at the readings on my app, they seemed to be showing up with negative values, indicating that the circuit sensors were installed backwards. Luckily, I found out that you can adjust the circuit factors to -1 to reverse the reading to show positive consumption. Also, during the installation, I tried to pull out the Wi-Fi antenna from the module after unscrewing it and it broke off. The construction of the antenna seems to be very fragile. It would be nice if this was constructed with more durability to prevent this. I ended up purchasing a replacement antenna and it worked. | Durability (explicit) |
+| Works great! I bought it so that I could monitor my home's power usage via Home Assistant and I'm getting all the data that I need. Installation was a breeze (just please be very careful and, if you are uncomfortable working with live power, turn off your home's breaker). | Easue of installation (explicit) |
+
+## NEGATIVE COMMENTS
+
+| Voice of the customer | Restated Customer need |
+|-----------------------|-------------------------|
+| The app for this product is garbage. It has little to no functionailty. It is hard to name your channels as the appliances/circuits you are monitoring. You are unable to combine 240 V devices on two different phases into a combined output. The circuit multiplier screen on the app is very glichy, and doesn't work. When you want to output the data to a spreadsheet it doesn't carry over the names of your circuits, but just A1, B1, C1 as generic descriptions. Because of how the device is designed you can only monitor 5 devices on one phase of your panel, and then the remaining 11 channels have to monitor only devices on the remaining phase. For example if you have 7 devices on the A phase you want to monitor, and 6 devices on theB phase you have to pick the top circuits because you have to choose 5 on one and 11 on the other. Therefore you can't choose the top 16 devices you want to monitor. | Good user interface (explicit) |
+| Even after double checking and triple checking, values are either wrong or reversed | Reliability (explicit)|
+|Once installed the monitor did a good job at what it says it will do. Initially, I was going to install this in our house however, there simply was not enough room in our electrical panel for that to happen so I opted to install it at my parent's house as they have more room in their panel.
+As other reviews have stated the direction in which the clamps need to be facing is incorrect according the manual and arrows on the clamps themselves, but this is a simple fix. The manual could be improved a bit as needed to do a bit of research to determine exactly which instructions to follow.
+It would be nice if they app could have an overview with charts for overall circuit usage. Where you can see how much each circuit is contributing to the overall power usage, but maybe this will come with time.
+Overall, it works and does what it says it will. I was able to successfully install it, however, I can easily see how it might be too complicated for others, and so professional installation might be needed by an electrician.| Clear instructions (explicit) |
+
+
 1. listum secundum
 
     > warningum alertum
