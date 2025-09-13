@@ -133,34 +133,33 @@ The goal of benchmarking is to find a viable product that allows the user to sav
 
 ### Search #4
 
-**Keywords:** ""
+**Keywords:** "smart sensor device"
 
-**Search Results Link:** 
+**Search Results Link:** https://www.amazon.com/s?k=smart+sensor+device&page=4&crid=1SRV67KY9URZB&qid=1757804881&sprefix=smart+sensor+devic%2Caps%2C228&xpid=7aGqHns8psuR6&ref=sr_pg_4
 
 ### Selected Product:
-1. [)
+1. [Moen Flo Smart Water Monitor and Automatic Shutoff Sensor]([url](https://www.amazon.com/Moen-900-001-4-Inch-Smart-Shutoff/dp/B00C03D01Q?crid=1SRV67KY9URZB&dib=eyJ2IjoiMSJ9.G3S89Hnk4DUecVklWoAV0kaqQ3p1rxVxfDJ4dS8LxoCvVoLONeJr05sexaXj3FhIjRyEZsnRXEj7xd8g0qHnU0dVH56JInRRJ7XGankbAl8-9Gi-6Zn85Wh0UchTGLznSvPCzUnrgX9AVrli2ENQl8sEl4ADdTcwWGOybD3paoSH9PiSeRNBtP3VRtGD_jdqvqkQtWG3WdDGjHS8KhfvwilgDair0YF7xRvWmh7NUiA.nPXkLy6loiXe0pbSxMVmntXSnEZGsp_U2aYA8K_rtsU&dib_tag=se&keywords=smart%2Bsensor%2Bdevice&qid=1757804887&sprefix=smart%2Bsensor%2Bdevic%2Caps%2C228&sr=8-68&xpid=7aGqHns8psuR6&th=1))
+![71NO-bIFYLL _AC_SL1500_](https://github.com/user-attachments/assets/24926fc8-d225-4a62-9146-db1aec60ad16)
 
-![)
-
-- Price: $
-- Vendor: 
-- Description: 
+- Price: $549
+- Vendor: Amazon
+- Description: Prevent the risk of water damage by monitoring your home with the Flo Smart Water Monitor and Shutoff. Offers a protective approach to leak detection, safeguarding against the hidden dangers that water leaks can pose. This innovative device continuously monitors the pressure and flow rate of the water moving through your home's pipes, detecting leaks as small as a drop per minute - anywhere in your home. 
 
 ## POSITIVE COMMENTS
 
 | Voice of the customer | Restated Customer need |
 |-----------------------|-------------------------|
-|  |
-|  |
-|  |
+| I’m really happy with the Moen Flo Smart Water Shutoff Valve. It gives me peace of mind knowing that if there is ever a leak, it will automatically shut the water off before any damage happens. The app makes it simple to check water usage and I get instant notifications if something unusual is going on. The unit itself feels sturdy and well built, so I know it will last. Installation took a little effort, but once it was in place everything worked perfectly. The app is easy to use and makes managing alerts straightforward. Overall this has been a great purchase and I would definitely recommend it to anyone who wants extra protection for their home and an easy way to monitor water use. | Ease of use and robustness (explicit) |
+|The installation was straightforward if you know basic plumbing, sizing, etc. the app setup was a breeze and I am hoping this saves me from any more water damage. My whole downstairs flooded and I bought this to help prevent that from happening again. I love that it gives you PSI counts, the GPM counts, and also the temperature of the water. It is currently still “learning” my habits for our family and I hope it works as good as it says. This links right up to my ring dashboard as well for easy on and off. I added an image to show that I installed it right after my main shut off valve in case I need to do any warranty claims for it. I also recommend doing the $5 a month for 5 year warranty on the device.| Peace of mind (implicit) |
+|I had this installed five years ago, and it truly saved us while we were on vacation. We were on a 7-day cruise when a pipe burst upstairs at 3:37 AM, causing water to pour out from the bathroom. Thankfully, the system detected the issue, shut off the water to the entire house, and immediately alerted us—first by text, then with a phone call. This gave us a chance to check whether it was a false alarm. I quickly pulled up our hallway camera and saw water gushing from the bathroom, flooding our wood floors. But thanks to the Flo, the damage was limited. Just imagine if water had been running like that for the entire week—we would’ve come home to a disaster. I can’t tell you how relieved I was. I recommend this to everyone. Funny enough, I told all my family and close friends, but not one of them ended up installing it. Oh well. Just a heads-up—this unit can be installed outdoors, but I protected mine with an enclosure to shield it from the Florida sun and rain. Hopefully, that gives you an idea for how to protect yours too.| Reliability (explicit) |
 
 ##NEGATIVE COMMENTS
 
 | Voice of the customer | Restated Customer need |
 |-----------------------|-------------------------|
-| |
-|  |  |
-|  |
+|On the surface, the Flo Smart Water Monitor and Shutoff Valve seems like a great idea — a device that prevents water damage by monitoring for leaks. However, after using it for over a year (forced by my insurance company), I’ve realized it's a crude product with a simplistic design and a surprisingly unintelligent software system. The device frequently generates false alarms, causing more inconvenience than protection. For example, my wife and daughter were taking showers after returning from Japan, and the device decided that was “abnormal” usage and shut off our entire home’s water. Another time, I was woken up at 3 AM because it thought our regular sprinkler system was unusual activity. And during visits from guests, the water was abruptly turned off. Worse yet, the system gives the user no meaningful control or customization. Only the user truly understands what’s normal for their household. Water use varies daily, but this device forces rigid, one-size-fits-all rules that often don’t reflect reality. To make matters worse, the device requires constant power and internet access, which are not always available where your main water line enters the home. Meeting these requirements can be very costly, especially if electrical outlets or Wi-Fi coverage need to be extended or upgraded just for this device. In summary, this device is frustrating, intrusive, expensive to install, and poorly thought out. It doesn't make your home smarter — it just makes daily life more complicated.| 1. Reliability and affordable price (explicit) |
+|I bought the Flo device in 2021, at that time it made a lot of sense to have something that would watch over water flow, catch leaks and drips, and notify me. The installation, by a professional plumber, cost more than the price of the device itself, but I wanted it done right, considering it was going to control the main water supply to our home. It worked well for a couple of years, then started malfunctioning (such as leak alarms when there were none, etc). We were away from home for some time and chose to turn the valve off but left the device on. On return, it would not open when signaled on the app. Tech Support was not able to operate the valve remotely either. They asked me to me to open it manually, which I did. If I wanted continued monitoring, Tech Support advised me to buy a new device ($499 plus tax) as well as an extended warrantee. I decided to live with it, because at that time, the flow monitoring part was working fine, and in case there was a problem, I would still get the alert, just not able to shut it off remotely. The other day, I started getting alerts that the device was off line. Upon checking I could see that it had power, but the power connector was filled with water, and the box itself was quite warm. I pulled off the power supply, dried the connector and plugged it back in. The device was totally dead. This was disappointing. I dont expect a mission-critical device, which controls water flow into the house, to die in 3 years. I would not recommend it, because it is not reliable, and after spending over $1.4K for the device and install, I don't expect it to fail so soon.| 2. Reliability and longevity (explicit) |
+|Another good reason why this product has such a low rating: It is very important that you read their documents, you are giving away too many rights! It is a binding contract! This product is controlling the water supply to your home! The only way you can read the terms and conditions to use the app and connected products is to download the Moen Flo-Smart Water Monitor app on your phone, go through some procedures, and then good luck trying to read the tiny print of the Terms of Use and Privacy Policy for the Moen Mobile Applications and Connected Products on your phone. I called Moen to request a link (can’t find it online) so I can read it on my computer. I also printed it up, 13 pages of double-space 12 font text. Some examples: Section 6 (i): “You are giving Moen and its designees perpetual, irrevocable…..right to exploit the User Content and any person’s property (physical, personal, and indicia) contained therein……without any payment or other consideration of any kind…..” Section 9. Warranty and Limitation of Liability: THE PRODUCTS AND SERVICES AND THE CONTENT ARE MADE AVAILABLE FOR YOUR CONVENIENCE ON “AS-IS,” “AS AVAILABLE” AND “"WITH ALL FAULTS BASIS, WITHOUT ANY WARRANTIES OF ANY KIND. I wasted a lot of my time researching the product, wasted a plumber’s time to come out and tell me how much to install it, packing it up to send it back, and gave up reading the rest of this nonsense. There has to be a better product out there.| 3. Clear and trustworthy policies |
 
 
 ### Search #5
