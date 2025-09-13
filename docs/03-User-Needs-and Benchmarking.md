@@ -31,12 +31,13 @@ The goal of benchmarking is to find a viable product that allows the user to sav
 - Vendor: Amazon
 - Description: This versatile switch is ideal for use in bathrooms, laundry rooms, kitchens, and garages, providing energy savings and ease of use. This sensor effortlessly integrates light automation into any room, turning lights on upon entering and off upon exiting. Program your lights to turn off 1, 5, 15, or 30 minutes after you leave, or opt for the motion sensor to operate in vacancy-only mode, turning off lights when a room is unoccupied.
 
-POSITIVIE COMMENTS
-|Voice of the customer                 |Restated Customer need                 |
-| ----------------------------------- | ------------------------------------ | 
-|We bought this switch to replace the mechanical one in the garage, since we were all too often leaving it on all day after driving out. This switch was easy to wire, looks good for a motion sensor, and more importantly, it just works every time. Now we never need to think about lighting when leaving or coming home; the garage is always well-lit when we need it to be.|1. The device is easy to set up, reliable, and "looks good" (explicit)                                       |
-|Very effective. Easy to install                                        |2. Device is effective and easy to install (explicit)                                       |
-|Easy to install and allow the lights to come on without hands by just entering the room. Goes off quickly after motion has ended. Fits any single conventional light switch so it can be used for both 1/4 and 1/2 bathrooms perfectly.                                      |3. Does it's job well and integrates well into the home                                        |
+## POSITIVE COMMENTS
+
+| Voice of the customer | Restated Customer need |
+|-----------------------|-------------------------|
+| We bought this switch to replace the mechanical one in the garage, since we were all too often leaving it on all day after driving out. This switch was easy to wire, looks good for a motion sensor, and more importantly, it just works every time. Now we never need to think about lighting when leaving or coming home; the garage is always well-lit when we need it to be. | 1. The device is easy to set up, reliable, and "looks good" (explicit) |
+| Very effective. Easy to install | 2. Device is effective and easy to install (explicit) |
+| Easy to install and allow the lights to come on without hands by just entering the room. Goes off quickly after motion has ended. Fits any single conventional light switch so it can be used for both 1/4 and 1/2 bathrooms perfectly. | 3. Does its job well and integrates well into the home |
 
 NEGATIVE COMMENTS
 |Voice of the customer                 |Restated Customer need                 |
