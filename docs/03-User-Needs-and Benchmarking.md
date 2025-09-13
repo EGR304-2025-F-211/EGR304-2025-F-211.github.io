@@ -77,6 +77,35 @@ The goal of benchmarking is to find a viable product that allows the user to sav
 | The wire does not conform to my freezer seal. Our alarm kept going off leading us to think there was a problem with our freezer. We paid Frigidaire $350 for a guaranteed fix and the technician proved the wire was breaking the seal enough where warm air was getting in and causing the temperature to spike. He moved the monitor and our problem was solved. Ironic that the issue this alarm caused me was more expensive than the problem I was trying to prevent. | 2. Functionality (Explicit) |
 | This Govee wifi connected refrigerator thermometer is highly inaccurate. Alarm kept going off all the time. I purchase a good old fashioned thermometer with a dial and it was way more accurate. Terrible purchase! | 3. Reliability (explicit) |
 
+### Search #3
+
+**Keywords:** home smart sensor
+
+**Search Results Link:** https://www.amazon.com/s?k=home+smart+sensor&crid=2D7W4C3LUN966&sprefix=home+smart+senso%2Caps%2C203&ref=nb_sb_noss_2
+
+### Selected Product:
+1. [GoveeLife Upgraded Smart Water Leak Detector]([url](https://www.amazon.com/GoveeLife-Upgraded-Detector-Ultra-Long-Basement/dp/B0DQLFC3Q6?crid=2D7W4C3LUN966&dib=eyJ2IjoiMSJ9.KEm0dO1vve0ZTavA8cWMYmXGS3vxWCRDQQWEZDi8oPQEJmXsPuwixpxKU-IzwghacTlF5E6ElqFku6ixQ4zsgibiYsoMx3i6RaeR6_rKjJ4Aynnu0KPWxRXF2kUq4Z2NS1Qn2DkBph0_qgwFCvssGm2HH1zDiJrOr-JT22DJq83QGwKqrhVii2WR4_pSub_6KplLOcNDitWGz884i7vCLwG9_o5d4OwierfqupJW0tQ.9Zqck2Qsq5_9I_q2RLEgrtobg9axcgJIiDYz29WoDcU&dib_tag=se&keywords=home%2Bsmart%2Bsensor&qid=1757728079&sprefix=home%2Bsmart%2Bsenso%2Caps%2C203&sr=8-3&th=1))
+![61ocRSrpStL _AC_SL1500_](https://github.com/user-attachments/assets/7273d9ae-8240-42b2-9caa-98104b56c303)
+
+- Price: $56
+- Vendor: Amazon
+- Description: GoveeLife Leak Detector is easy to install, easy to connect to the APP, and synchronizes with every water sensor in real time to cover every corner of your home.
+
+## POSITIVE COMMENTS
+
+| Voice of the customer | Restated Customer need |
+|-----------------------|-------------------------|
+| We have had numerous leaks in our home. It’s all part of homeownership but these give us a little peace of mind. Very easy to set up. Literally put batteries in, set them in areas you may experience a leak. The app works great too. If it detects water, the device itself alarms (loudly) and the app alerts you too! Nice to have if you’re not home. It comes with a “home” unit that simply plugs into a standard outlet and receives the signal from the individual sensors. I placed one under the kitchen sink, near the water heater, and under a bathroom sink. They are a good value for the money and have a slick design. | Peace of mind (explicit) |
+| Honestly this was super easy to setup and is amazingly accurate! I dropped a couple of drips on it and it immediately worked and sent alerts to my phone, email and did the audible tone. It connected easily to the WiFi and is super durable. This is a great product!!! | Ease of use (explicit) |
+| It works- I was leaving to run some errands and the alarms went off on my phone, I really thought it must be a false alarm- sweat from the pipes or something but I went back home and it was a real flood- pipe leak flooding the basement, the alarms on the units were going off - I would recommend these alarms. | Reliability (implicit) |
+
+## NEGATIVE COMMENTS
+
+| Voice of the customer | Restated Customer need |
+|-----------------------|-------------------------|
+| Buyer beware! I bought two of these based on the reviews I read on Amazon. When I received them, it was impossible to connect them to my Wi-Fi network, and continue to be impossible, even though I researched it online. To add insult to injury, when I set up the return, I noticed they did not refund the entire amount, but charged me $20 for shipping. Disgraceful and the seller should refund the entire amount or Amazon should refund it. I won’t be duped again. | Good customer service (explicit) |
+| I got all the connections set up and confirmed all devices were connected only to determine that this water detector does NOT detect water. Any device like this I need to be reliable 100% of the time, 0% doesn't cut it, Would not recommend. | Reliability (explicit) |
+| I never got around to installing or testing the actual sensor. The gateway emits a high-pitched noise when the blue light is on (always once connected to wi-fi) that was unbearable (turn up the volume on the video, it's subtle, but very annoying). This may be ok for some people if the gateway is in a room that isn't accessed often, but my gateway would have been in an area that we spend at leased some time exercising in. I ordered the H5058's instead and they seem to work fine. | Product should be non-obtrusive |
 
 1. listum secundum
 
