@@ -16,13 +16,13 @@ The goal of benchmarking is to find a viable product that allows the user to sav
 
 ## Voices of the Customers Benchmarking
 
-# Search #1
+### Search #1
 
 **Keywords:** "auto light switch"
 
 **Search Results Link:** https://www.amazon.com/s?k=auto+light+switch&crid=1J29X3CK4KA4O&sprefix=auto+light+switch%2Caps%2C307
 
-# Selected Products
+### Selected Product:
 1. [Lutron Maestro Motion Sensor Light Switch]([url](https://www.amazon.com/Lutron-Maestro-Required-Single-Pole-MS-OPS2-WH/dp/B005WM3ALC?crid=1J29X3CK4KA4O&dib=eyJ2IjoiMSJ9.-Vrw-JDL5Rz2KBpMS8vHz4m-4uND2N1Hkuy3LXPZsU_voi4d323hK7KJPB9mddbCRpRNicksUMfRbnLqp-yb9hC624UQoqTkSM_fwNg-s6Lim6cg5RSqMn5iH4ikqhLKENnu175V9qacg2aB36oSO7BrcVgZO93bN7Ul_lHku0KxKxAA4rE3O8-8QmKBuC5tW2POPF5MX8hsFvr3ZqCWDGYw5TLLIkl6Ee2s9Fs62fE0qZeiZPVIY1I_ezhRaDOCwbemWqb6ThYTKYkP-d3c_pH5TS2udqzulsMwzUNppC4.nn9WGRSyUHaw8xc21oPj1G1AOn8-BNuLWcA2I_QXhjg&dib_tag=se&keywords=auto%2Blight%2Bswitch&qid=1757723745&sprefix=auto%2Blight%2Bswitch%2Caps%2C307&sr=8-6&th=1))
 
 ![71UAXeOzYpL _AC_SX679_](https://github.com/user-attachments/assets/05b3823e-6fe7-44c6-9fb5-7a3109e915a7)
@@ -39,18 +39,50 @@ The goal of benchmarking is to find a viable product that allows the user to sav
 | Very effective. Easy to install | 2. Device is effective and easy to install (explicit) |
 | Easy to install and allow the lights to come on without hands by just entering the room. Goes off quickly after motion has ended. Fits any single conventional light switch so it can be used for both 1/4 and 1/2 bathrooms perfectly. | 3. Does it's job well and integrates well into the home (explicit) |
 
-NEGATIVE COMMENTS
+##NEGATIVE COMMENTS
+
 | Voice of the customer | Restated Customer need |
 |-----------------------|-------------------------|
 | Installation instructions are not included with the package. What you do get is a QR code, where you are required to log in to the Lutron web site to find them. So if there is no Internet access where you are doing the installation, you are SOL. Plus reading them on an iPhone or equivalent, and having to navigate from page to page on a tiny device while juggling your tools isn't ideal. All this aggravation for the buyer to save the negligible cost of including paper instructions in the package. Really? | 1. Customer wants physical instructions (explicit) |
 | If you’re not going to include the faceplate take the pic off the sale listing. Noone appreciates being tricked bc if I’d known I’d have gone with another brand. | 2. Non-deceptive advertisement (explicit) |
 | I ordered this product on January 12th 2025 for our laundry room. It went out yesterday and I had to put a regular 3 way switch back. It lasted about 5 months and it was great when it worked. | 3. Long product lifetime (implicit) |
 
-2. listum secundum
+### Search #2
+
+**Keywords:** "refrigerator monitoring device"
+
+**Search Results Link:** https://www.amazon.com/s?k=refrigerator+monitoring+device&crid=YRJ3I5DLS9SQ&sprefix=refrigerator+mon%2Caps%2C214&ref=nb_sb_ss_saint-en-prefix-wq_2_16
+
+### Selected Product:
+1. [GoveeLife WiFi Refrigerator Thermometer with Alarm]([url](https://www.amazon.com/GoveeLife-Refrigerator-Thermometer-Wireless-Temperature/dp/B0DZCQFZB6?crid=YRJ3I5DLS9SQ&dib=eyJ2IjoiMSJ9.aFPV6ggxqoOpsnJKexIKRBHREkxZENPmAFywm1wWfsxtlCcwxVDCY47OfyiFV5tdS3mzFhouHEr4KRwiOo407bZ2FYHfOAZ6yxF979Ombg5G7zKZlKmmVD2MQLtRq1aJLi28TbGRlMnxHwIHhAyPKrS3Jj1AX8QKpULTW-JW13U9kaWW5qRWH7i5dSae1wivhYCz_fESxvn7C0w7qXtst-pxpySaEPl4QObjQ7rYz565JjiBhqhd7HEYe-Z0vIZFcplA66ca00ngbWubeQIBhIOcJDgwl4BdeacTUiA2Q8k.UgIcCqMXeZlqcKuhlupMM-C1iPVbOWozSOFP402DvTg&dib_tag=se&keywords=refrigerator%2Bmonitoring%2Bdevice&qid=1757726473&sprefix=refrigerator%2Bmon%2Caps%2C214&sr=8-6&th=1))
+![61t3i7iKw6L _SL1500_](https://github.com/user-attachments/assets/b934f293-a0b4-4c51-9b86-4ae3ccc47112)
+
+- Price: $30
+- Vendor: Amazon
+- Description: GoveeLife Smart Thermometer R1 Lite, setup is quick and easy. In just 5 minutes, you're ready to go - no complicated tools, no hassle. Equipped with a high sensitivity NTC probe, this thermometer delivers percise temperature readings to keep your food fresh and safe. With our smart app, you can easily monitor your fridge's temperature in real time. If something goes wrong, you'll know instantly. A built in buzzer, app notifications, and even email alerts ensure that you never miss a critical temperature change, even when you're not home.
+
+## POSITIVE COMMENTS
+
+| Voice of the customer | Restated Customer need |
+|-----------------------|-------------------------|
+| Both freezers are now monitored 24/7 after freezer door left open and I lost lots of $$. Alarms are configured for temperature outside of range that you set. I can see temps on my iPhone when I’m not home. Best item I have purchased in a long time. So easy to setup that this senior had no issues. Love love love! | 1. Easy setup (explicit) Financially beneficial (implicit) |
+| It is very handy to have the readings sent to the app. This thermometer gives you the peace of mind that your food won't be thawing. Easy to use/understand the functions on the app. You can set your own temp alarms to alert you when you feel the temp would be too warm. You can set a time frame to get the alert in case you are in and out of the freezer a lot on a given day. It gives you readings of past hours, weeks, months. Happy with the purchase. | 2. Peace of mind (explicit) |
+| If you're renting this is a must have for if or when your landlord special apartment doesn't want to acknowledge issues. Great to have if your fridge is having issues to be able to show maintenance time stamps of when the issues start. Anytime we've run into a hiccup with any Govee product their customer service is amazing. | 3. Good customer service (explicit) |
+
+## NEGATIVE COMMENTS
+
+| Voice of the customer | Restated Customer need |
+|-----------------------|-------------------------|
+| Returned. Was too complicated for this old lady to use them. I am not very tech savvy. Maybe good for younger folks. | 1. Simple to use (explicit)|
+| The wire does not conform to my freezer seal. Our alarm kept going off leading us to think there was a problem with our freezer. We paid Frigidaire $350 for a guaranteed fix and the technician proved the wire was breaking the seal enough where warm air was getting in and causing the temperature to spike. He moved the monitor and our problem was solved. Ironic that the issue this alarm caused me was more expensive than the problem I was trying to prevent. | 2. Functionality (Explicit) |
+| This Govee wifi connected refrigerator thermometer is highly inaccurate. Alarm kept going off all the time. I purchase a good old fashioned thermometer with a dial and it was way more accurate. Terrible purchase! | 3. Reliability (explicit) |
+
+
+1. listum secundum
 
     > warningum alertum
 
-3. listum adnauseum
+2. listum adnauseum
 
 ## Pondus ante Ialysios vultu exasperat loqui sanguine
 
