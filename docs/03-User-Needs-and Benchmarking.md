@@ -170,8 +170,6 @@ Inital list of user needs:
 Sorted user needs:
 [SortedUserNeeds.pdf](https://github.com/user-attachments/files/22354129/SortedUserNeeds.pdf)
 
-User needs ranking:
-
-Our team decided to rank our user needs group in order of the ones that most appeared on our list.
+**User needs ranking:**
 <img width="1167" height="423" alt="image" src="https://github.com/user-attachments/assets/3c7df2bc-a68e-470c-8c83-2b5c0b73f5a8" />
 We decided that the most important aspects of the device, were likely to be the ones mentioned the most. So we ordered our rankings based on it, with Utility in first, followed by convenience, robustness, safety, and cost.
