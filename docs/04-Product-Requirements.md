@@ -24,9 +24,9 @@ This product aims to design a device capable of saving water, electricity, and t
 ## Use Cases
 
 **User Story #1: Dan**
-Dan is a 67-year-old retired accountant who owns a small home with a lawn and garden. Dan has an automated sprinkler system to provide his plants with plenty of water during the hot Arizona summers, but he worries that with all the water systems he has, one of them is bound to spring a leak eventually. Knowing this, Dan purchases a water monitoring device to ensure that he will be aware of any possible leaks before they get out of control.
+Dan is a 67-year-old retired accountant who owns a small home with a lawn and garden. Dan has an automated sprinkler system to provide his plants with plenty of water during the hot Arizona summers. For the sake of his water bill, Dan wants to monitor his water usage, but more importantly his water quality. Dan wants to make sure both he and his plants have healthy clean water to drink.
 
-With his new water monitoring system Dan can leave the house with peace of mind and the confidence that he will not be returning to find his garden flooded. Dan has already been alerted of a small leak, and discovered a pair of faulty sprinkler heads. Knowing that the system detected this leak gives him confidence that in the case of disaster, his plants and water bill will remain safe and protected.
+Because of this Dan purchases our water monitoring system and can rest assured that both he and his plants are reciving high quality water. Dan can also use the device to monitor his water usuage to determine how best to care for his garden.
 
 **User Story #2: Erin**
 Erin is a 42-year-old who owns a home in the pheonix area. During the summers Erin does her best to limit her water usage to keep her water bill low. Despite her best attempts it's difficult for Erin to get a gauge on just how much water she is using, and if her attempts to limit her usage are doing much at all. Because of this Erin installs a water monitoring system to get a better idea of the data.
