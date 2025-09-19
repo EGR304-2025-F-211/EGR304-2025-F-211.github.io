@@ -20,15 +20,10 @@ This product aims to design a device capable of saving water, electricity, and t
 - **Target purchaser** Target group profile with special attention to homeowners with high water usage or environmental concerns.
 - **Customer service** Prefers easy-to-install, low maitenence, useful device.
 - **Marketing & Sales division** Looks for unique selling points around the user experience and installation process.
-- **Retailers** Prefer products that can withstand a wide range of storage conditions including variations in temperature, vibration, humidity, and atmospheric pressure, and have a strong and compact, theft, and vandalism-proof packaging. (Need to adjust)
+- **Retailers** Prefer smart home type products with an emphasis in reducing environmental impact.
 
 
 ## Use Cases
-
-**User Story #1: Jenna**
-Jenna is a 33-year-old executive who regularly visits a bar for lunch to blow off some steam. The bar is often loud with people, but it is paramount that she can hold business conversations over the phone there. Then again, she does not want to miss out on the atmosphere and be able to hear the waiters as well. Her new Apple wireless earphones allow her to switch instantly between a mode where she can fully focus on the phone conversation and a mode where the phone call and environmental sound are seamlessly combined. They also allow her to rapidly adjust the volume on the earbuds themselves without having to take out her phone.
-
-Jenna occasionally visits the bar in the evenings. She is a big fan of the L.A. Lakers, and whenever they play, she streams the live footage through her phone. Her new earbuds allow her to easily switch to hearing everything around her and streaming the match commentary without having to ever take the earbuds out.  She sometimes gets compliments on how stylish the earbuds look on her, and she wouldn’t want to miss out on hearing those either. (*must have 2 use cases, also we'll need to make a new use case 1)
 
 **User Story #1: Dan**
 Dan is a 67-year-old retired accountant who owns a small home with a lawn and garden. Dan has an automated sprinkler system to provide his plants with plenty of water during the hot Arizona summers, but he worries that with all the water systems he has, one of them is bound to spring a leak eventually. Knowing this, Dan purchases a water monitoring device to ensure that he will be aware of any possible leaks before they get out of control.
@@ -36,10 +31,9 @@ Dan is a 67-year-old retired accountant who owns a small home with a lawn and ga
 With his new water monitoring system Dan can leave the house with peace of mind and the confidence that he will not be returning to find his garden flooded. Dan has already been alerted of a small leak, and discovered a pair of faulty sprinkler heads. Knowing that the system detected this leak gives him confidence that in the case of disaster, his plants and water bill will remain safe and protected.
 
 **User Story #2: Erin**
-Erin is a 42-year-old (JOB) who owns a home in the pheonix area. During the summers Erin does her best to limit her water usage to keep her water bill low. Despite her best attempts it's difficult for Erin to get a gauge on just how much water she is using, and if her attempts to limit her usage are doing much at all. Because of this Erin installs a water monitoring system to get a better idea of the data.
+Erin is a 42-year-old who owns a home in the pheonix area. During the summers Erin does her best to limit her water usage to keep her water bill low. Despite her best attempts it's difficult for Erin to get a gauge on just how much water she is using, and if her attempts to limit her usage are doing much at all. Because of this Erin installs a water monitoring system to get a better idea of the data.
 
 Using this system Erin can find out just how much water she is saving, and is thankful for the clarity that the system provides. As an added bonus Erin's home is now protected from problematic leaks which would certainly drive her bill up even more.
-
 
 ## Aspects
 
@@ -55,8 +49,8 @@ The new product design will be based on a filter with the addition of sensors ba
   
 3. **Interactivity & User Experience**
       * 3.1 The product shall be straightforward and simple to operate
-      * 3.2 The product shall have...
-      * 3.3 The product shall have visual feedback for clarity (change)
+      * 3.2 The product shall have indicators for power and operation
+      * 3.3 The product shall come packaged with a user manual
     
 5. **Customization**
       * 5.1 The product shall have different modes of operation
