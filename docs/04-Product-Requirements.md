@@ -63,8 +63,8 @@ The new product design will be based on a filter with the addition of sensors ba
   
 ## Requirement Criteria Specifications
 
-* 1.1.1 - Regulate system power from 9 volts to 5 volts
-* 1.1.2 - Provide an over-amperage project to not exceed 1.5 amps.
+* 1.1.1 - The Device must filter water and include a sensing function to read water content.
+* 1.1.2 - The device must be able to read user input and effectively execute tasks.
 * 1.1.3 - Must be able to communicate with an app or program to log data
 * 1.1.4 - 
 
