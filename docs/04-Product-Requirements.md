@@ -51,15 +51,15 @@ The new product design will be based on a filter with the addition of sensors ba
       * 3.3 The product shall come packaged with a user manual
     
 5. **Customization**
-      * 5.1 The product shall have different modes of operation
-      * 5.2 The device shall have customizable settings
+      * 4.1 The product shall have different modes of operation
+      * 4.2 The device shall have customizable settings
 
 6. **Manufacturing**
-      * 6.1 The product shall be made of mainly standard components
+      * 5.1 The product shall be made of mainly standard components
 
 7. **Safety**
-      * 7.1 The product shall operate at safe voltages
-      * 7.2 The product shall not have exposed wires or components
+      * 6.1 The product shall operate at safe voltages
+      * 6.2 The product shall not have exposed wires or components
   
 ## Requirement Criteria Specifications
 
