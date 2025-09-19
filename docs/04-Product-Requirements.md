@@ -47,6 +47,7 @@ The new product design will be based on a filter with the addition of sensors ba
 2. **Software / Functionality**
       * 2.1 The product shall use several sensors to collect data to relay back to the user (P8)
       * 2.2 The product shall have several microcontrollers communicating with one another (P8)
+      * 2.3 The product shall be able to detect issues and troubleshoot them (P8)
   
 3. **Interactivity & User Experience**
       * 3.1 The product shall be straightforward and simple to operate (P8)
@@ -59,6 +60,7 @@ The new product design will be based on a filter with the addition of sensors ba
 
 6. **Manufacturing**
       * 5.1 The product shall be made of mainly standard components (P8)
+      * 5.2 The product shall be made of non-carcinogenic materials (P8) 
 
 7. **Safety**
       * 6.1 The product shall operate at safe voltages (P10)
