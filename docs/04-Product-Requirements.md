@@ -66,13 +66,15 @@ The new product design will be based on a filter with the addition of sensors ba
       * 5.1 The product shall be made of mainly standard components (P8)
       * 5.2 The product shall be made of non-carcinogenic materials (P8)
       * 5.3 The product shall be recycleable (P6)
+      * 5.4 The product shall be made of materials that do not easily degrade under standard conditions (P10)
+      * 5.5 
 
 7. **Safety**
       * 6.1 The product shall operate at safe voltages (P10)
       * 6.2 The product shall not have exposed wires or components (P10)
       * 6.3 The product shall be child/pet safe (P6)
       * 6.4 The product shall have proper hazard labeling (P8)
-      * 6.5 The product 
+      * 6.5 The product shall be able to alert the user if there is an issue to prevent damage or harm (P8)
   
 ## Requirement Criteria Specifications
 
