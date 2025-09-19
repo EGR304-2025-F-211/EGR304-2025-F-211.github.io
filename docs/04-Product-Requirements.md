@@ -44,16 +44,21 @@ The new product design will be based on a filter with the addition of sensors ba
      * 1.2 The product shall be durable enough to withstand the elements of the earth. (P8)
      * 1.3 The product shall be compact and able to be mounted in tight spaces. (P8)
      * 1.4 The product shall be designed to be waterproof (P10)
+     * 1.5
   
 2. **Software / Functionality**
       * 2.1 The product shall use several sensors to collect data to relay back to the user (P8)
       * 2.2 The product shall have several microcontrollers communicating with one another (P8)
       * 2.3 The product shall be able to detect issues and troubleshoot them (P8)
+      * 2.4
+      * 2.5
   
 3. **Interactivity & User Experience**
       * 3.1 The product shall be straightforward and simple to operate (P8)
       * 3.2 The product shall have indicators for power and operation (P10)
       * 3.3 The product shall come packaged with a user manual (P6)
+      * 3.4
+      * 3.5
     
 5. **Customization**
       * 4.1 The product shall have different modes of operation based on user input (P6)
@@ -67,7 +72,7 @@ The new product design will be based on a filter with the addition of sensors ba
       * 5.2 The product shall be made of non-carcinogenic materials (P8)
       * 5.3 The product shall be recycleable (P6)
       * 5.4 The product shall be made of materials that do not easily degrade under standard conditions (P10)
-      * 5.5 
+      * 5.5 The product 
 
 7. **Safety**
       * 6.1 The product shall operate at safe voltages (P10)
