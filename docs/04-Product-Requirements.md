@@ -57,11 +57,13 @@ The new product design will be based on a filter with the addition of sensors ba
     
 5. **Customization**
       * 4.1 The product shall have different modes of operation (P6)
-      * 4.2 The device shall have customizable settings (P4)
+      * 4.2 The product shall have customizable settings (P4)
+      * 4.3 The product shall have accessibility features (P6)
 
 6. **Manufacturing**
       * 5.1 The product shall be made of mainly standard components (P8)
       * 5.2 The product shall be made of non-carcinogenic materials (P8)
+      * 5.3 The product shall be recycleable (P6)
 
 7. **Safety**
       * 6.1 The product shall operate at safe voltages (P10)
