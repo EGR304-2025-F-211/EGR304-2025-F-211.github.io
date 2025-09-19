@@ -17,7 +17,7 @@ This product aims to design a device capable of saving water, electricity, and t
 ## Stakeholders
 
 - **Target group** Residents of the Phoenix area who own homes.
-- **Target purchaser** Target group profile with special attention to Full Nest I and Full Nest II mothers. (change this)
+- **Target purchaser** Target group profile with special attention to homeowners with high water usage or environmental concerns.
 - **Customer service** Prefers easy-to-install, low maitenence, useful device.
 - **Marketing & Sales division** Looks for unique selling points around the user experience and installation process.
 - **Retailers** Prefer products that can withstand a wide range of storage conditions including variations in temperature, vibration, humidity, and atmospheric pressure, and have a strong and compact, theft, and vandalism-proof packaging. (Need to adjust)
@@ -34,6 +34,12 @@ Jenna occasionally visits the bar in the evenings. She is a big fan of the L.A. 
 Dan is a 67-year-old retired accountant who owns a small home with a lawn and garden. Dan has an automated sprinkler system to provide his plants with plenty of water during the hot Arizona summers, but he worries that with all the water systems he has, one of them is bound to spring a leak eventually. Knowing this, Dan purchases a water monitoring device to ensure that he will be aware of any possible leaks before they get out of control.
 
 With his new water monitoring system Dan can leave the house with peace of mind and the confidence that he will not be returning to find his garden flooded. Dan has already been alerted of a small leak, and discovered a pair of faulty sprinkler heads. Knowing that the system detected this leak gives him confidence that in the case of disaster, his plants and water bill will remain safe and protected.
+
+**User Story #2: Erin**
+Erin is a 42-year-old (JOB) who owns a home in the pheonix area. During the summers Erin does her best to limit her water usage to keep her water bill low. Despite her best attempts it's difficult for Erin to get a gauge on just how much water she is using, and if her attempts to limit her usage are doing much at all. Because of this Erin installs a water monitoring system to get a better idea of the data.
+
+Using this system Erin can find out just how much water she is saving, and is thankful for the clarity that the system provides. As an added bonus Erin's home is now protected from problematic leaks which would certainly drive her bill up even more.
+
 
 ## Aspects
 
@@ -56,9 +62,10 @@ The new product design will be based on a filter with the addition of sensors ba
       * 5.1 The product will have different modes of operation
       * 5.2 The device will have customizable settings
 
-7. **Manufacturing**
+6. **Manufacturing**
+      * 6.1 The product will be made of mainly standard components
 
-8. **Safety**
+7. **Safety**
       * 7.1 The product will operate at safe voltages
       * 7.2 The product will not have exposed wires or components
   
@@ -69,5 +76,6 @@ The new product design will be based on a filter with the addition of sensors ba
 
 ## Open Questions
 
-* Can we move...? (create open questions)
-* Can we improve...? 
+* Can we make the entire device recyclable?
+* How easy can we make the device to install?
+* How fast can we get the device to detect leaks?
