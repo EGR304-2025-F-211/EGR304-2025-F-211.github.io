@@ -56,9 +56,11 @@ The new product design will be based on a filter with the addition of sensors ba
       * 3.3 The product shall come packaged with a user manual (P6)
     
 5. **Customization**
-      * 4.1 The product shall have different modes of operation (P6)
-      * 4.2 The product shall have customizable settings (P4)
+      * 4.1 The product shall have different modes of operation based on user input (P6)
+      * 4.2 The product shall have customizable display settings (P2)
       * 4.3 The product shall have accessibility features (P6)
+      * 4.4 The product shall have the capability for multiple language options (P4)
+      * 4.5 The product shall have the capability to pair with smart home systems (P1)
 
 6. **Manufacturing**
       * 5.1 The product shall be made of mainly standard components (P8)
@@ -68,7 +70,9 @@ The new product design will be based on a filter with the addition of sensors ba
 7. **Safety**
       * 6.1 The product shall operate at safe voltages (P10)
       * 6.2 The product shall not have exposed wires or components (P10)
-      * 6.3 The product shall be child/pet safe (P8)
+      * 6.3 The product shall be child/pet safe (P6)
+      * 6.4 The product shall have proper hazard labeling (P8)
+      * 6.5 The product 
   
 ## Requirement Criteria Specifications
 
