@@ -18,7 +18,7 @@ This product aims to design a device capable of saving water, electricity, and t
 ## Stakeholders
 
 - **Target group** Residents of the Phoenix area who own homes.
-- **Target purchaser** Target group profile with special attention to Full Nest I and Full Nest II mothers.
+- **Target purchaser** Target group profile with special attention to Full Nest I and Full Nest II mothers. (change this)
 - **Customer service** Prefers easy-to-install, low maitenence, useful device.
 - **Marketing & Sales division** Looks for unique selling points around the user experience and installation process.
 - **Retailers** Prefer products that can withstand a wide range of storage conditions including variations in temperature, vibration, humidity, and atmospheric pressure, and have a strong and compact, theft, and vandalism-proof packaging. (Need to adjust)
@@ -29,7 +29,7 @@ This product aims to design a device capable of saving water, electricity, and t
 **User Story #1: Jenna**
 Jenna is a 33-year-old executive who regularly visits a bar for lunch to blow off some steam. The bar is often loud with people, but it is paramount that she can hold business conversations over the phone there. Then again, she does not want to miss out on the atmosphere and be able to hear the waiters as well. Her new Apple wireless earphones allow her to switch instantly between a mode where she can fully focus on the phone conversation and a mode where the phone call and environmental sound are seamlessly combined. They also allow her to rapidly adjust the volume on the earbuds themselves without having to take out her phone.
 
-Jenna occasionally visits the bar in the evenings. She is a big fan of the L.A. Lakers, and whenever they play, she streams the live footage through her phone. Her new earbuds allow her to easily switch to hearing everything around her and streaming the match commentary without having to ever take the earbuds out.  She sometimes gets compliments on how stylish the earbuds look on her, and she wouldn’t want to miss out on hearing those either.
+Jenna occasionally visits the bar in the evenings. She is a big fan of the L.A. Lakers, and whenever they play, she streams the live footage through her phone. Her new earbuds allow her to easily switch to hearing everything around her and streaming the match commentary without having to ever take the earbuds out.  She sometimes gets compliments on how stylish the earbuds look on her, and she wouldn’t want to miss out on hearing those either. (*must have 2 use cases, also we'll need to make a new use case 1)
 
 ## Aspects
 
