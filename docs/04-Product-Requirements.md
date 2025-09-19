@@ -51,17 +51,17 @@ The new product design will be based on a filter with the addition of sensors ba
       * 2.2 The product shall have several microcontrollers communicating with one another (P6)
       * 2.3 The product shall be able to detect issues and troubleshoot them (P8)
       * 2.4 The product shall have a "sleep" mode between user sessions to save electricity (P8)
-      * 2.5 The product
+      * 2.5 The product 
   
 3. **Interactivity & User Experience**
       * 3.1 The product shall be straightforward and simple to operate (P8)
       * 3.2 The product shall have indicators for power and operation (P10)
       * 3.3 The product shall come packaged with a user manual (P6)
       * 3.4 The product shall have an illuminated interface for ease of use (P6)
-      * 3.5 The product 
+      * 3.5 The product shall have a large interface so it can be operated with one hand (P6)
     
 5. **Customization**
-      * 4.1 The product shall have different modes of operation based on user input (P6)
+      * 4.1 The product shall have different modes of operation during sessions based on user input (P6)
       * 4.2 The product shall have customizable display settings (P2)
       * 4.3 The product shall have accessibility features (P6)
       * 4.4 The product shall have the capability for multiple language options (P4)
@@ -70,9 +70,9 @@ The new product design will be based on a filter with the addition of sensors ba
 6. **Manufacturing**
       * 5.1 The product shall be made of mainly standard components (P8)
       * 5.2 The product shall be made of non-carcinogenic materials (P8)
-      * 5.3 The product shall be recycleable (P6)
+      * 5.3 The product shall be recycleable (P4)
       * 5.4 The product shall be made of materials that do not easily degrade under standard conditions (P10)
-      * 5.5 The product 
+      * 5.5 The product shall be made of material that is easy to grip for better handling (P6)
 
 7. **Safety**
       * 6.1 The product shall operate at safe voltages (P10)
