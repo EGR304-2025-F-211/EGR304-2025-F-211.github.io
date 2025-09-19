@@ -68,7 +68,7 @@ The new product design will be based on a filter with the addition of sensors ba
 7. **Safety**
       * 6.1 The product shall operate at safe voltages (P10)
       * 6.2 The product shall not have exposed wires or components (P10)
-      * 6.3 The product shall have child/pet safety features (P8)
+      * 6.3 The product shall be child/pet safe (P8)
   
 ## Requirement Criteria Specifications
 
@@ -76,6 +76,7 @@ The new product design will be based on a filter with the addition of sensors ba
 * 1.1.2 - The device must be able to read user input and effectively execute tasks.
 * 1.1.3 - Must be able to communicate with an app or program to log data
 * 1.1.4 - Must have dimensions less than 6x6x6"
+* 1.1.5 - Must have a lifetime of over a month
 
 ## Open Questions
 
@@ -83,3 +84,4 @@ The new product design will be based on a filter with the addition of sensors ba
 * How easy can we make the device to install?
 * How long can we make the filters' lifespan?
 * What will we use to detect water flow and pollutants?
+* How will we measure the device's effectiveness?
