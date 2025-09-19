@@ -72,3 +72,4 @@ The new product design will be based on a filter with the addition of sensors ba
 * Can we make the entire device recyclable?
 * How easy can we make the device to install?
 * How long can we make the filters' lifespan?
+* What will we use to detect water flow and pollutants?
