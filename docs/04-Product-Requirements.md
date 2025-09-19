@@ -6,7 +6,7 @@ tags:
 ---
 
 ## Introduction
-Homeowners across Phoenix strive to minimize their water bills, and provide their house with a high quality, clean, water supply. Arizona tap water is known for its hardness, and scarcity, so a system to monitor both water quality and water usage would be a useful device for the average homeowner.
+Homeowners across Phoenix strive to minimize their water bills and provide their homes with a high-quality, clean water supply. Arizona tap water is known for its hardness and scarcity, so a system to monitor both water quality and water usage would be a useful device for the average homeowner. Whole-house water supply filters are the only main way to fix this problem. However, we believe with modifying the supply system to make it more intelligent by adding real-time monitoring, an alert system, and water shut-off controls, we can help many Arizona homeowners.
 
 ## Project Objective
 
