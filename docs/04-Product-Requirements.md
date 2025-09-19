@@ -6,13 +6,11 @@ tags:
 ---
 
 ## Introduction
-Homeowners across Phoenix strive to minimize their water bills, and provide their house with a high quality, clean, water supply. Arizona tap water is known for its hardness, and scarcity, so a system to monitor both water quality and water usage would likely be a useful device for the average homeowner.
+Homeowners across Phoenix strive to minimize their water bills, and provide their house with a high quality, clean, water supply. Arizona tap water is known for its hardness, and scarcity, so a system to monitor both water quality and water usage would be a useful device for the average homeowner.
 
 ## Project Objective
 
-(This project aims to investigate and develop smart adaptive technologies, an improved user experience, better fit, improved product design, and product customization options for the next-generation AirPods. The target is to maintain global dominance in the wireless earphone market, drive up AirPod sales to 100 million+ units sold with a 60% global market share in 2021 and expand the user base more towards the luxury, professional, and fitness segments. We believe that adding smart interactions and adaptive audio filters alone will already expand our user base by 15%. With the new generation AirPods we aim to match at least the sound quality of our main competitor, the Sony WF-1000XM3, and include Active Noise Canceling that is also featured in Mifo, House of Marley, Bose, and Amazon Echo products. We will also obtain IPX4 sweat-resistant rating equal to Bose, House of Marley, and Amazon Echo earbuds, and aim to extend our range of colors, as seen in Urbanista and Jabra’s lifestyle products.) <--- I'm keeping this here for now so it can be a reference for what the project objective is meant to look like 👍
-
-This product aims to design a device capable of saving water, electricity, and time by using simple sensors placed in a home environment. The product created will offer new features that will push our product apart from the existing market of smart home devices. Whether this change is in price, function, or durability. This project aims to create a device that will be effective and efficient in the task it is designed for, and will streamline or improve a pre-existing function of a device/system in a standard home environment, and drive the cost of monthly utility bills by (an amount). Some target features we aim to include are sensors that will "read and react", a shutoff system, and a controller for a user interface. (Please change if needed)
+This product aims to design a device capable of saving water, electricity, and time by using simple sensors placed in a home environment. The product created will offer new features that will push our product apart from the existing market of smart home devices. Whether this change is in price, function, or durability. This project aims to create a device that will be effective and efficient in the task it is designed for, and will streamline or improve a pre-existing function of a device/system in a standard home environment, and drive the cost of monthly utility bills down. Some target features we aim to include are sensors that will "read and react", a shutoff system, and a controller for a user interface. (Please change if needed)
 
 ## Stakeholders
 
@@ -33,7 +31,7 @@ With his new water monitoring system Dan can leave the house with peace of mind 
 **User Story #2: Erin**
 Erin is a 42-year-old who owns a home in the pheonix area. During the summers Erin does her best to limit her water usage to keep her water bill low. Despite her best attempts it's difficult for Erin to get a gauge on just how much water she is using, and if her attempts to limit her usage are doing much at all. Because of this Erin installs a water monitoring system to get a better idea of the data.
 
-Using this system Erin can find out just how much water she is saving, and is thankful for the clarity that the system provides. As an added bonus Erin's home is now protected from problematic leaks which would certainly drive her bill up even more.
+Using this system Erin can find out just how much water she is saving, and is thankful for the clarity that the system provides. 
 
 ## Aspects
 
@@ -67,6 +65,7 @@ The new product design will be based on a filter with the addition of sensors ba
 
 * 1.1.1 - Regulate system power from 9 volts to 5 volts
 * 1.1.2 - Provide an over-amperage project to not exceed 1.5 amps.
+* 1.1.3 - 
 
 ## Open Questions
 
