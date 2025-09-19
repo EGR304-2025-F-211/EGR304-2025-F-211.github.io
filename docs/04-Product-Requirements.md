@@ -40,29 +40,29 @@ Using this system Erin can find out just how much water she is saving, and is th
 The new product design will be based on a filter with the addition of sensors based on the following requirements. The **P1 - P10** is the "code" to indicate the priority of the requirement, from low to high.
 
 1. **Hardware / Product Design**
-     * 1.1 The product shall be visually similar to others like it, for ease of use and familiarity.
-     * 1.2. The product shall be durable enough to withstand the elements of the earth.
-     * 1.3. The product shall be compact and able to be mounted in tight spaces.
+     * 1.1 The product shall be visually similar to others like it, for ease of use and familiarity. (P6)
+     * 1.2. The product shall be durable enough to withstand the elements of the earth. (P8)
+     * 1.3. The product shall be compact and able to be mounted in tight spaces. (P8)
   
 2. **Software / Functionality**
-      * 2.1 The product shall use several sensors to collect data to relay back to the user
-      * 2.2 The product shall have several microcontrollers communicating with one another
+      * 2.1 The product shall use several sensors to collect data to relay back to the user (P8)
+      * 2.2 The product shall have several microcontrollers communicating with one another (P8)
   
 3. **Interactivity & User Experience**
-      * 3.1 The product shall be straightforward and simple to operate
-      * 3.2 The product shall have indicators for power and operation
-      * 3.3 The product shall come packaged with a user manual
+      * 3.1 The product shall be straightforward and simple to operate (P8)
+      * 3.2 The product shall have indicators for power and operation (P10)
+      * 3.3 The product shall come packaged with a user manual (P6)
     
 5. **Customization**
-      * 4.1 The product shall have different modes of operation
-      * 4.2 The device shall have customizable settings
+      * 4.1 The product shall have different modes of operation (P6)
+      * 4.2 The device shall have customizable settings (P4)
 
 6. **Manufacturing**
-      * 5.1 The product shall be made of mainly standard components
+      * 5.1 The product shall be made of mainly standard components (P8)
 
 7. **Safety**
-      * 6.1 The product shall operate at safe voltages
-      * 6.2 The product shall not have exposed wires or components
+      * 6.1 The product shall operate at safe voltages (P10)
+      * 6.2 The product shall not have exposed wires or components (P10)
   
 ## Requirement Criteria Specifications
 
