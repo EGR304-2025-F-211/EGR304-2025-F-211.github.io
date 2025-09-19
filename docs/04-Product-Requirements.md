@@ -56,18 +56,18 @@ The new product design will be based on a filter with the addition of sensors ba
 3. **Interactivity & User Experience**
       * 3.1 The product shall be straightforward and simple to operate
       * 3.2 The product shall have...
-      * 3.3 The product will have visual feedback for clarity (change)
+      * 3.3 The product shall have visual feedback for clarity (change)
     
 5. **Customization**
-      * 5.1 The product will have different modes of operation
-      * 5.2 The device will have customizable settings
+      * 5.1 The product shall have different modes of operation
+      * 5.2 The device shall have customizable settings
 
 6. **Manufacturing**
-      * 6.1 The product will be made of mainly standard components
+      * 6.1 The product shall be made of mainly standard components
 
 7. **Safety**
-      * 7.1 The product will operate at safe voltages
-      * 7.2 The product will not have exposed wires or components
+      * 7.1 The product shall operate at safe voltages
+      * 7.2 The product shall not have exposed wires or components
   
 ## Requirement Criteria Specifications
 
