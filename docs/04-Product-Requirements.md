@@ -51,7 +51,7 @@ The new product design will be based on a filter with the addition of sensors ba
       * 2.2 The product shall have several microcontrollers communicating with one another (P6)
       * 2.3 The product shall be able to detect issues and troubleshoot them (P8)
       * 2.4 The product shall have a "sleep" mode between user sessions to save electricity (P8)
-      * 2.5 The product 
+      * 2.5 The product shall be able to work in inside and outside conditions (P4) 
   
 3. **Interactivity & User Experience**
       * 3.1 The product shall be straightforward and simple to operate (P8)
