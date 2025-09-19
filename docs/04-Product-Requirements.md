@@ -40,6 +40,7 @@ The new product design will be based on a filter with the addition of sensors ba
 1. **Hardware / Product Design**
      * 1.1 The product shall be visually similar to others like it, for ease of use and familiarity.
      * 1.2. The product shall be durable enough to withstand the elements of the earth.
+     * 1.3. The product shall be compact and able to be mounted in tight spaces.
   
 2. **Software / Functionality**
       * 2.1 The product shall use several sensors to collect data to relay back to the user
@@ -66,7 +67,7 @@ The new product design will be based on a filter with the addition of sensors ba
 * 1.1.1 - The Device must filter water and include a sensing function to read water content.
 * 1.1.2 - The device must be able to read user input and effectively execute tasks.
 * 1.1.3 - Must be able to communicate with an app or program to log data
-* 1.1.4 - 
+* 1.1.4 - Must have dimensions less than 6x6x6"
 
 ## Open Questions
 
