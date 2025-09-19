@@ -70,9 +70,9 @@ The new product design will be based on a filter with the addition of sensors ba
 6. **Manufacturing**
       * 5.1 The product shall be made of mainly standard components (P8)
       * 5.2 The product shall be made of non-carcinogenic materials (P8)
-      * 5.3 The product shall be recycleable (P4)
+      * 5.3 The product shall be recyclable (P4)
       * 5.4 The product shall be made of materials that do not easily degrade under standard conditions (P10)
-      * 5.5 The product shall be made of material that is easy to grip for better handling (P6)
+      * 5.5 The product shall be made of a material that is easy to grip for better handling (P6)
 
 7. **Safety**
       * 6.1 The product shall operate at safe voltages (P10)
