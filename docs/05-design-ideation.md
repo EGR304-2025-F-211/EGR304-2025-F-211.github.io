@@ -16,8 +16,12 @@ For each user need and product requirement, brainstorm 5 different product featu
 
 |                   requirement / need |             feature              | detail                                                                      |
 | -----------------------------------: | :------------------------------: | --------------------------------------------------------------------------- |
-| product provides clear notifications |              buzzer              | the device provides different sounding tones and patterns for each function |
-| product provides clear notifications |             speaker              | the device can emit full waveforms                                          |
+| The device has a battery-charge indicator |              RGB LED              | the device has a single RGB LED to reflect charge. Green light means full charge, yellow meaning half charge, and red being almost dead. |
+| The device has a battery-charge indicator |             LCD              | A LCD screen displays device charge as a percentage. |
+| The device has a battery-charge indicator |             LED              | A red LED blinks to indicate low battery, but is otherwise inactive. |
+| The device has a battery-charge indicator |             Buzzer              | The device beeps when low on charge. |
+| The device has a battery-charge indicator |             LEDs              | The device has a row of 3 LEDs, if all 3 are lit the device is fully charged, if 2 are lit it is at half charge, and if one is lit the device is low charge. |
+
 
 ## Step Three
 
