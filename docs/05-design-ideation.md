@@ -111,6 +111,11 @@ For each user need and product requirement, brainstorm 5 different product featu
 | The device can be remotely operated | Radio transceiver | The device has a radio reciver and can be controlled remotely regardless of wifi. |
 | The device can be remotely operated | Wifi receiver | The device connects to the home wifi. |
 | The device can be remotely operated | Microphone | The device can receive voice commands. |
+| The device is durable | Metal casing | The device is enclosed in a strong metal case to prevent imact damage or damage from falls. |
+| The device is durable | shock absorbing interior | The device is filled with shock absorbant materials to prevent internal components being damaged if dropped. |
+| The device is durable | Suspended interanals | The device has its internal electronics suspended in the center of its casing by multiple shock absorbers, if it is dropped only the case will be damaged. |
+| The device is durable | Simple electronics | The device will have as few moving parts as possible to reduce wear due to movement. |
+| The device is durable | Gold | The device's electronics will all be made with pure gold to avoid corrosion and oxidization. |
 
 
 
