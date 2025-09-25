@@ -91,12 +91,17 @@ For each user need and product requirement, brainstorm 5 different product featu
 | The device can be easily and safely cleaned (dusted, wiped, washed, etc.) | Chemical Resistant Materials | The device can withstand cleaners  |
 | The device can be easily and safely cleaned (dusted, wiped, washed, etc.) | Wipe Down surface |  The device has a wipeable surface |
 | The device can be easily and safely cleaned (dusted, wiped, washed, etc.) | Minimalist Design |  The device has minimal vents and openings |
-|  |  |   |
-|  |  |   |
-|  |  |   |
-|  |  |   |
-|  |  |   |
-|  |  |   |
+| The device can be easily operated by the user  | Mobile App | The device connects to a mobile app to record data and start/stop functions  |
+| The device can be easily operated by the user  | On Surface Display | LED surface that displays data with user selected menu  |
+| The device can be easily operated by the user  | Website | Website that allows you to track data recived from the device  |
+| The device can be easily operated by the user  | Error LEDS | LEDS that display specific errors that the device may encounter  |
+| The device can be easily operated by the user  | Function LEDS | LEDS that allow the user to know which functions are on/off  |
+| The device is proficient electronically | Surge Protection | The device can reroute excess voltage through a ground connection |
+| The device is proficient electronically | Battery | The device can charge and run on the provided battery|
+| The device is proficient electronically | Optimized Power Usage | The device draws little to no voltage during operation |
+| The device is proficient electronically  | High Data Transfer | Data aquired by the device is quickly and efficently communicated |
+| The device is proficient electronically  | Efficient Functions | Device functions are operated at low and efficient power |
+| | | |
 
 
 
