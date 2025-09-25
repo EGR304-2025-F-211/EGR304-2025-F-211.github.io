@@ -101,7 +101,12 @@ For each user need and product requirement, brainstorm 5 different product featu
 | The device is proficient electronically | Optimized Power Usage | The device draws little to no voltage during operation |
 | The device is proficient electronically  | High Data Transfer | Data aquired by the device is quickly and efficiently communicated |
 | The device is proficient electronically  | Efficient Functions | Device functions are operated at low and efficient power |
-| | | |
+| The device is universal | Minimalist | The outer shell of the device in minimalistic and flows with homeowner's water lines |
+| The device is universal | Seamless | The device seamlessly connects with homeowners water lines |
+| The device is universal | Universal | The device can adapt and connect to any preexisting water lines |
+| The device is universal | Aesthetic | The device once installed does't look unordinary |
+| The device is universal | Not Locationally Dependant | The device can be connected wherever the homeowner decides |
+|  |  |  |
 
 
 
