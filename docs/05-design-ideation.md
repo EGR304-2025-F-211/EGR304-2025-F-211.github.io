@@ -66,6 +66,33 @@ For each user need and product requirement, brainstorm 5 different product featu
 | The device’s electronics are protected against overheating |             Water cooling               | The device has a water cooling system. |
 | The device’s electronics are protected against overheating |             Overheating mode               | The device will automatically shut down when temperatures are too high. |
 | The device’s electronics are protected against overheating |             Heatsink               | The device will have large heatsinks to prevent overheating. |
+| The device can easily be repaired by a homeowner |      Tool Kit     |  The device has an included tool kit | 
+| The device can easily be repaired by a homeowner |      Removal of Openings     |  The device has less operating ports for simplicity  |
+| The device can easily be repaired by a homeowner |       Modular Components    | The device has Plug in play components |
+| The device can easily be repaired by a homeowner |     Diagnostic Mode      |  The device alerts the user where the issue is |
+| The device can easily be repaired by a homeowner |       Instructions    |  The device has a clear set of instructions |
+|  |  |   |
+|  |  |   | 
+|  |  |   |
+|  |  |   |
+|  |  |   | 
+|  |  |   |
+|  |  |   |
+|  |  |   |
+|  |  |   |
+|  |  |   |
+|  |  |   |
+|  |  |   |
+|  |  |   |
+|  |  |   |
+|  |  |   |
+|  |  |   |
+|  |  |   |
+|  |  |   |
+|  |  |   |
+|  |  |   |
+|  |  |   |
+|  |  |   |
 
 
 
