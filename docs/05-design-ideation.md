@@ -41,7 +41,16 @@ For each user need and product requirement, brainstorm 5 different product featu
 | The device does not pose any significant safety risks to operate or handle |             Ground fault protection              | The device has ground fault protection. |
 | The device does not pose any significant safety risks to operate or handle |             Warning labels              | The device has obvious warning labels near hazardous parts. |
 | The device does not pose any significant safety risks to operate or handle |             Flame-retardant              | The device is made of non-flamable materials, and has measures in place to prevent sparking. |
-
+| The device has illuminated controls for operation in the dark |             Touch-Screen              | The device is controlled via a touchscreen, which provides its own illumination. |
+| The device has illuminated controls for operation in the dark |             LED              | The device has a white LED that toggles on in the dark to provide illumination to its controls. |
+| The device has illuminated controls for operation in the dark |             Backlit buttons              | The device's buttons dials, and switches are all backlit. |
+| The device has illuminated controls for operation in the dark |             Voice commands              | The device can receive voice commands, so the user doesn't need to see the controls. |
+| The device has illuminated controls for operation in the dark |             App              | The device has it's own app, so it can be used remotely without having to see. |
+| The device includes a tutorial for first-time users |             User manuel              | The device comes with a physical instruction pamphlet. |
+| The device includes a tutorial for first-time users |             Video tutorial              | The device has a qr code with a link to an online instructonal video. |
+| The device includes a tutorial for first-time users |             Built in intstructions              | The device has instructional labels and information near the controls. |
+| The device includes a tutorial for first-time users |             LCD              | The device displays instructions for inital setup via a built in LCD screen. |
+| The device includes a tutorial for first-time users |             Speaker              | The device guides the user through setup via spoken audio recordings. |
 
 ## Step Three
 
