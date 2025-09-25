@@ -7,12 +7,11 @@ tags:
 
 ## Intro/overview
 
-Lorem markdownum gradus, qui largis, nec pater pleno: fatum. Adspexit cursus
-cur, aut in adhuc crimina **habebat**: pro.
+The design ideation section includes the collection of team 211's process to come up with an actual product.
 
 ## Generating Ideas
 
-For each user need and product requirement, brainstorm 5 different product features that could be used to satisfy that requirement.
+We have selected 20 different user needs and generated 5 different ideas for each user need. This equates too roughly 100 different ideas based on the 20 user needs.
 
 |                   requirement / need |             feature              | detail                                                                      |
 | -----------------------------------: | :------------------------------: | --------------------------------------------------------------------------- |
