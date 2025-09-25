@@ -106,7 +106,11 @@ For each user need and product requirement, brainstorm 5 different product featu
 | The device is universal | Universal | The device can adapt and connect to any preexisting water lines |
 | The device is universal | Aesthetic | The device once installed does't look unordinary |
 | The device is universal | Not Locationally Dependant | The device can be connected wherever the homeowner decides |
-|  |  |  |
+| The device can be remotely operated | IR Remote | The device can recieve IR signals from a included remote. |
+| The device can be remotely operated | App | The device connects to a phone app to poerate remotely. |
+| The device can be remotely operated | Radio transceiver | The device has a radio reciver and can be controlled remotely regardless of wifi. |
+| The device can be remotely operated | Wifi receiver | The device connects to the home wifi. |
+| The device can be remotely operated | Microphone | The device can receive voice commands. |
 
 
 
