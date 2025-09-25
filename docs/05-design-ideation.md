@@ -56,6 +56,11 @@ For each user need and product requirement, brainstorm 5 different product featu
 | The device can be easily disassembled |             Snap connections               | The device contains no screws or bolts and simply snaps together and apart. |
 | The device can be easily disassembled |             Allen key               | The device comes with a allen key for assembly and disassembly |
 | The device can be easily disassembled |             Hex socket cap screws               | The device exclusivly has hex socket cap screws so no wrenches or screwdrivers are required. |
+| The device can be easily moved by homeowner |             Wheels               | The device has wheels mounted to the bottom. |
+| The device can be easily moved by homeowner |             Handles               | The device has easy to grasp handles for lifing. |
+| The device can be easily moved by homeowner |             Lightweight               | The device is light, making it easy to lift. |
+| The device can be easily moved by homeowner |             Modularity               | The device can be taken apart and moved in seperate pieces |
+| The device can be easily moved by homeowner |             Low friction base               | The device has a slippery base to allow it to be pushed around. |
 
 
 ## Step Three
