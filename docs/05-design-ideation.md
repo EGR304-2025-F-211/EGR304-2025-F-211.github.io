@@ -51,6 +51,12 @@ For each user need and product requirement, brainstorm 5 different product featu
 | The device includes a tutorial for first-time users |             Built in intstructions              | The device has instructional labels and information near the controls. |
 | The device includes a tutorial for first-time users |             LCD              | The device displays instructions for inital setup via a built in LCD screen. |
 | The device includes a tutorial for first-time users |             Speaker              | The device guides the user through setup via spoken audio recordings. |
+| The device can be easily disassembled |             Standard screws and bolts              | The device is assembled with standard screw/bolt types and sizes. |
+| The device can be easily disassembled |             Modularity               | The device can be dissasembled into several smaller modules. |
+| The device can be easily disassembled |             Snap connections               | The device contains no screws or bolts and simply snaps together and apart. |
+| The device can be easily disassembled |             Allen key               | The device comes with a allen key for assembly and disassembly |
+| The device can be easily disassembled |             Hex socket cap screws               | The device exclusivly has hex socket cap screws so no wrenches or screwdrivers are required. |
+
 
 ## Step Three
 
