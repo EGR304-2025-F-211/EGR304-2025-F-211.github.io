@@ -97,9 +97,9 @@ For each user need and product requirement, brainstorm 5 different product featu
 | The device can be easily operated by the user  | Error LEDS | LEDS that display specific errors that the device may encounter  |
 | The device can be easily operated by the user  | Function LEDS | LEDS that allow the user to know which functions are on/off  |
 | The device is proficient electronically | Surge Protection | The device can reroute excess voltage through a ground connection |
-| The device is proficient electronically | Battery | The device can charge and run on the provided battery|
+| The device is proficient electronically | Battery | The device can charge and run on the provided battery |
 | The device is proficient electronically | Optimized Power Usage | The device draws little to no voltage during operation |
-| The device is proficient electronically  | High Data Transfer | Data aquired by the device is quickly and efficently communicated |
+| The device is proficient electronically  | High Data Transfer | Data aquired by the device is quickly and efficiently communicated |
 | The device is proficient electronically  | Efficient Functions | Device functions are operated at low and efficient power |
 | | | |
 
