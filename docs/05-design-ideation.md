@@ -61,6 +61,13 @@ For each user need and product requirement, brainstorm 5 different product featu
 | The device can be easily moved by homeowner |             Lightweight               | The device is light, making it easy to lift. |
 | The device can be easily moved by homeowner |             Modularity               | The device can be taken apart and moved in seperate pieces |
 | The device can be easily moved by homeowner |             Low friction base               | The device has a slippery base to allow it to be pushed around. |
+| The device’s electronics are protected against overheating |             Fan               | The device has a internal fan for cooling. |
+| The device’s electronics are protected against overheating |             Heat resistant               | The device is made of heat resistant materials. |
+| The device’s electronics are protected against overheating |             Water cooling               | The device has a water cooling system. |
+| The device’s electronics are protected against overheating |             Overheating mode               | The device will automatically shut down when temperatures are too high. |
+| The device’s electronics are protected against overheating |             Heatsink               | The device will have large heatsinks to prevent overheating. |
+
+
 
 
 ## Step Three
