@@ -71,21 +71,21 @@ For each user need and product requirement, brainstorm 5 different product featu
 | The device can easily be repaired by a homeowner |       Modular Components    | The device has Plug in play components |
 | The device can easily be repaired by a homeowner |     Diagnostic Mode      |  The device alerts the user where the issue is |
 | The device can easily be repaired by a homeowner |       Instructions    |  The device has a clear set of instructions |
-|  |  |   |
-|  |  |   | 
-|  |  |   |
-|  |  |   |
-|  |  |   | 
-|  |  |   |
-|  |  |   |
-|  |  |   |
-|  |  |   |
-|  |  |   |
-|  |  |   |
-|  |  |   |
-|  |  |   |
-|  |  |   |
-|  |  |   |
+| The device can run in harsh weather conditions | Sealed Components | The devices' internal components are blcoked off |
+| The device can run in harsh weather conditions | Weather Proof Strips |  The device is sealed with rubber strips along openings | 
+| The device can run in harsh weather conditions | Wide Operating Temperature |  The device can operate between 20 to 120 degrees Fareignheight |
+| The device can run in harsh weather conditions | Impact Resistance |  The device has a concealed outer casing that is shock absorbent |
+| The device can run in harsh weather conditions | Environmental Sensors |  The device has a thermometer and can trigger heat alerts | 
+| The device does not require significant user input to function | Single Button Operation | The device has minimal buttons for User input  |
+| The device does not require significant user input to function | Hands-free Operation |  The device requires no operation by the user |
+| The device does not require significant user input to function | Automatic Error Recovery | The device repairs errors on its own  |
+| The device does not require significant user input to function | Preset Programs |  The device has presets already programmed |
+| The device does not require significant user input to function | Learning Algorithms |  The device learns over time and can adapt |
+| The device runs quietly | Vibration Dampening | The device has vibration-absorbing materials to reduce external vibrations  |
+| The device runs quietly | Sound Proofing |  The device seperates noisy components into a seperate chamber |
+| The device runs quietly | Optimised Airflow |  The device has quiet fans  |
+| The device runs quietly | Acoustic Enclosure |  The device has an acoustic enclosure to eliminate outside noise |
+| The device runs quietly | Quiet Mode Setting |  The device has a quiet mode that shuts down noisy components |
 |  |  |   |
 |  |  |   |
 |  |  |   |
