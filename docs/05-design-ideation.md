@@ -86,13 +86,18 @@ For each user need and product requirement, brainstorm 5 different product featu
 | The device runs quietly | Optimised Airflow |  The device has quiet fans  |
 | The device runs quietly | Acoustic Enclosure |  The device has an acoustic enclosure to eliminate outside noise |
 | The device runs quietly | Quiet Mode Setting |  The device has a quiet mode that shuts down noisy components |
+| The device can be easily and safely cleaned (dusted, wiped, washed, etc.) | Smooth & Seamless Casing | The device has a smooth body and seamless edges  |
+| The device can be easily and safely cleaned (dusted, wiped, washed, etc.) | Easy Access Points | The device has openings to clean  |
+| The device can be easily and safely cleaned (dusted, wiped, washed, etc.) | Chemical Resistant Materials | The device can withstand cleaners  |
+| The device can be easily and safely cleaned (dusted, wiped, washed, etc.) | Wipe Down surface |  The device has a wipeable surface |
+| The device can be easily and safely cleaned (dusted, wiped, washed, etc.) | Minimalist Design |  The device has minimal vents and openings |
 |  |  |   |
 |  |  |   |
 |  |  |   |
 |  |  |   |
 |  |  |   |
 |  |  |   |
-|  |  |   |
+
 
 
 
