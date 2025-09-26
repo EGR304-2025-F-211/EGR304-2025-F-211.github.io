@@ -135,30 +135,30 @@ We have selected 20 different user needs and generated 5 different ideas for eac
 | The device is easy to store |             Deconstructable design              | The device dismantles into several seperate pieces to make it easier to store. | Structural |
 | The device is easy to store |             Box shaped housing              | The device has a box shaped outer housing, so it can be stored as is. | Structural |
 | The device has child-safety features |             Rounded corners              | The device has rounded corners and no jagged edges. | Structural |
-| The device has child-safety features |             Lock              | The device has a location to place a lock on a control pannel. | TESTCATAGORY |
-| The device has child-safety features |             Keypad              | The device requires a pin to open/operate. | TESTCATAGORY |
+| The device has child-safety features |             Lock              | The device has a location to place a lock on a control pannel. | User interface |
+| The device has child-safety features |             Keypad              | The device requires a pin to open/operate. | User interface |
 | The device has child-safety features |             No small pieces              | The device does not have parts small enough for a child to consume. | Structural |
 | The device has child-safety features |             Mounting device              | The device has a part that can be used to mount to walls and ceilings, ensuring a child cannot reach or remove the device. | Structural |
-| The device has a lifetime of at least three months being used consistently |             Brushless motors              | The device will have exclusivly brushless motors to reduce wear. | TESTCATAGORY |
-| The device has a lifetime of at least three months being used consistently |             Sleep mode              | When not in use the device will go into sleep mode, using only the bare minimum functions to reduce use and wear. | TESTCATAGORY |
-| The device has a lifetime of at least three months being used consistently |             Wall powered              | The device will not have a battery, so there will be no need to replace batteries. | TESTCATAGORY |
-| The device has a lifetime of at least three months being used consistently |             High quality parts             | The device will be made with higher quality components to avoid wearing down as quickly | TESTCATAGORY |
-| The device has a lifetime of at least three months being used consistently |             Component redundancies              | The device will have multiples of the same components to continue operation in the case of failure. | TESTCATAGORY |
-| The device does not pose any significant safety risks to operate or handle |             Low voltage              | The device operates entirely below 24 volts. | TESTCATAGORY |
+| The device has a lifetime of at least three months being used consistently |             Brushless motors              | The device will have exclusivly brushless motors to reduce wear. | Electrical |
+| The device has a lifetime of at least three months being used consistently |             Sleep mode              | When not in use the device will go into sleep mode, using only the bare minimum functions to reduce use and wear. | Software |
+| The device has a lifetime of at least three months being used consistently |             Wall powered              | The device will not have a battery, so there will be no need to replace batteries. | Electrical |
+| The device has a lifetime of at least three months being used consistently |             High quality parts             | The device will be made with higher quality components to avoid wearing down as quickly | Electrical |
+| The device has a lifetime of at least three months being used consistently |             Component redundancies              | The device will have multiples of the same components to continue operation in the case of failure. | Electrical |
+| The device does not pose any significant safety risks to operate or handle |             Low voltage              | The device operates entirely below 24 volts. | Electrical |
 | The device does not pose any significant safety risks to operate or handle |             Buzzer              | The device will emit an alarm sound via a buzzer if it detects any sort of hazardous failure. | Indication |
-| The device does not pose any significant safety risks to operate or handle |             Ground fault protection              | The device has ground fault protection. | TESTCATAGORY |
+| The device does not pose any significant safety risks to operate or handle |             Ground fault protection              | The device has ground fault protection. | Electrical |
 | The device does not pose any significant safety risks to operate or handle |             Warning labels              | The device has obvious warning labels near hazardous parts. | Indication |
-| The device does not pose any significant safety risks to operate or handle |             Flame-retardant              | The device is made of non-flamable materials, and has measures in place to prevent sparking. | TESTCATAGORY |
-| The device has illuminated controls for operation in the dark |             Touch-Screen              | The device is controlled via a touchscreen, which provides its own illumination. | TESTCATAGORY |
-| The device has illuminated controls for operation in the dark |             LED              | The device has a white LED that toggles on in the dark to provide illumination to its controls. | TESTCATAGORY |
-| The device has illuminated controls for operation in the dark |             Backlit buttons              | The device's buttons dials, and switches are all backlit. | TESTCATAGORY |
-| The device has illuminated controls for operation in the dark |             Voice commands              | The device can receive voice commands, so the user doesn't need to see the controls. | TESTCATAGORY |
-| The device has illuminated controls for operation in the dark |             App              | The device has it's own app, so it can be used remotely without having to see. | TESTCATAGORY |
+| The device does not pose any significant safety risks to operate or handle |             Flame-retardant              | The device is made of non-flamable materials, and has measures in place to prevent sparking. | Material |
+| The device has illuminated controls for operation in the dark |             Touch-Screen              | The device is controlled via a touchscreen, which provides its own illumination. | User interface |
+| The device has illuminated controls for operation in the dark |             LED              | The device has a white LED that toggles on in the dark to provide illumination to its controls. | User interface |
+| The device has illuminated controls for operation in the dark |             Backlit buttons              | The device's buttons dials, and switches are all backlit. | Electrical |
+| The device has illuminated controls for operation in the dark |             Voice commands              | The device can receive voice commands, so the user doesn't need to see the controls. | User interface |
+| The device has illuminated controls for operation in the dark |             App              | The device has it's own app, so it can be used remotely without having to see. | Software |
 | The device includes a tutorial for first-time users |             User manuel              | The device comes with a physical instruction pamphlet. | Additional Device |
 | The device includes a tutorial for first-time users |             Video tutorial              | The device has a qr code with a link to an online instructonal video. | Additional Device |
-| The device includes a tutorial for first-time users |             Built in intstructions              | The device has instructional labels and information near the controls. | TESTCATAGORY |
-| The device includes a tutorial for first-time users |             LCD              | The device displays instructions for inital setup via a built in LCD screen. | TESTCATAGORY |
-| The device includes a tutorial for first-time users |             Speaker              | The device guides the user through setup via spoken audio recordings. | TESTCATAGORY |
+| The device includes a tutorial for first-time users |             Built in intstructions              | The device has instructional labels and information near the controls. | Instructional |
+| The device includes a tutorial for first-time users |             LCD              | The device displays instructions for inital setup via a built in LCD screen. | Instructional |
+| The device includes a tutorial for first-time users |             Speaker              | The device guides the user through setup via spoken audio recordings. | Instructional |
 | The device can be easily disassembled |             Standard screws and bolts              | The device is assembled with standard screw/bolt types and sizes. | Structural |
 | The device can be easily disassembled |             Modularity               | The device can be dissasembled into several smaller modules. | Structural |
 | The device can be easily disassembled |             Snap connections               | The device contains no screws or bolts and simply snaps together and apart. | Structural |
@@ -169,60 +169,60 @@ We have selected 20 different user needs and generated 5 different ideas for eac
 | The device can be easily moved by homeowner |             Lightweight               | The device is light, making it easy to lift. | Structural |
 | The device can be easily moved by homeowner |             Modularity               | The device can be taken apart and moved in seperate pieces | Structural |
 | The device can be easily moved by homeowner |             Low friction base               | The device has a slippery base to allow it to be pushed around. | Structural |
-| The device’s electronics are protected against overheating |             Fan               | The device has a internal fan for cooling. | TESTCATAGORY |
-| The device’s electronics are protected against overheating |             Heat resistant               | The device is made of heat resistant materials. | TESTCATAGORY |
-| The device’s electronics are protected against overheating |             Water cooling               | The device has a water cooling system. | TESTCATAGORY |
-| The device’s electronics are protected against overheating |             Overheating mode               | The device will automatically shut down when temperatures are too high. | TESTCATAGORY |
+| The device’s electronics are protected against overheating |             Fan               | The device has a internal fan for cooling. | Electrical |
+| The device’s electronics are protected against overheating |             Heat resistant               | The device is made of heat resistant materials. | Material |
+| The device’s electronics are protected against overheating |             Water cooling               | The device has a water cooling system. | Electrical |
+| The device’s electronics are protected against overheating |             Overheating mode               | The device will automatically shut down when temperatures are too high. | Software |
 | The device’s electronics are protected against overheating |             Heatsink               | The device will have large heatsinks to prevent overheating. | Structural |
-| The device can easily be repaired by a homeowner |      Tool Kit     |  The device has an included tool kit | TESTCATAGORY |
+| The device can easily be repaired by a homeowner |      Tool Kit     |  The device has an included tool kit | Additional Device |
 | The device can easily be repaired by a homeowner |      Removal of Openings     |  The device has less operating ports for simplicity  | Structural |
-| The device can easily be repaired by a homeowner |       Modular Components    | The device has Plug in play components | TESTCATAGORY |
+| The device can easily be repaired by a homeowner |       Modular Components    | The device has Plug in play components | Utility |
 | The device can easily be repaired by a homeowner |     Diagnostic Mode      |  The device alerts the user where the issue is | Indication |
-| The device can easily be repaired by a homeowner |       Instructions    |  The device has a clear set of instructions | Additional Device |
+| The device can easily be repaired by a homeowner |       Instructions    |  The device has a clear set of instructions | Instructional |
 | The device can run in harsh weather conditions | Sealed Components | The devices' internal components are blocked off | Structural |
 | The device can run in harsh weather conditions | Weather Proof Strips |  The device is sealed with rubber strips along openings | Structural |
 | The device can run in harsh weather conditions | Wide Operating Temperature |  The device can operate between 20 to 120 degrees Fareignheight | Material |
 | The device can run in harsh weather conditions | Impact Resistance |  The device has a concealed outer casing that is shock absorbent | Structural |
-| The device can run in harsh weather conditions | Environmental Sensors |  The device has a thermometer and can trigger heat alerts | TESTCATAGORY |
-| The device does not require significant user input to function | Single Button Operation | The device has minimal buttons for User input  | TESTCATAGORY |
-| The device does not require significant user input to function | Hands-free Operation |  The device requires no operation by the user | TESTCATAGORY |
-| The device does not require significant user input to function | Automatic Error Recovery | The device repairs errors on its own  | TESTCATAGORY |
-| The device does not require significant user input to function | Preset Programs |  The device has presets already programmed | TESTCATAGORY |
-| The device does not require significant user input to function | Learning Algorithms |  The device learns over time and can adapt | TESTCATAGORY |
+| The device can run in harsh weather conditions | Environmental Sensors |  The device has a thermometer and can trigger heat alerts | Electrical |
+| The device does not require significant user input to function | Single Button Operation | The device has minimal buttons for User input  | User interface |
+| The device does not require significant user input to function | Hands-free Operation |  The device requires no operation by the user | Software |
+| The device does not require significant user input to function | Automatic Error Recovery | The device repairs errors on its own  | Software |
+| The device does not require significant user input to function | Preset Programs |  The device has presets already programmed | Software |
+| The device does not require significant user input to function | Learning Algorithms |  The device learns over time and can adapt | Software |
 | The device runs quietly | Vibration Dampening | The device has vibration-absorbing materials to reduce external vibrations  | Structural |
 | The device runs quietly | Sound Proofing |  The device seperates noisy components into a seperate chamber | Structural |
-| The device runs quietly | Optimised Airflow |  The device has quiet fans  | TESTCATAGORY |
+| The device runs quietly | Optimised Airflow |  The device has quiet fans  | Electrical |
 | The device runs quietly | Acoustic Enclosure |  The device has an acoustic enclosure to eliminate outside noise | Structural |
-| The device runs quietly | Quiet Mode Setting |  The device has a quiet mode that shuts down noisy components | TESTCATAGORY |
+| The device runs quietly | Quiet Mode Setting |  The device has a quiet mode that shuts down noisy components | Software |
 | The device can be easily and safely cleaned (dusted, wiped, washed, etc.) | Smooth & Seamless Casing | The device has a smooth body and seamless edges  | Structural |
 | The device can be easily and safely cleaned (dusted, wiped, washed, etc.) | Easy Access Points | The device has openings to clean  | Structural |
 | The device can be easily and safely cleaned (dusted, wiped, washed, etc.) | Chemical Resistant Materials | The device can withstand cleaners  | Material |
 | The device can be easily and safely cleaned (dusted, wiped, washed, etc.) | Wipe Down surface |  The device has a wipeable surface | Structural |
 | The device can be easily and safely cleaned (dusted, wiped, washed, etc.) | Minimalist Design |  The device has minimal vents and openings | Structural |
-| The device can be easily operated by the user  | Mobile App | The device connects to a mobile app to record data and start/stop functions  | TESTCATAGORY |
-| The device can be easily operated by the user  | On Surface Display | LED surface that displays data with user selected menu  | TESTCATAGORY |
-| The device can be easily operated by the user  | Website | Website that allows you to track data recived from the device  | TESTCATAGORY |
+| The device can be easily operated by the user  | Mobile App | The device connects to a mobile app to record data and start/stop functions  | Software |
+| The device can be easily operated by the user  | On Surface Display | LED surface that displays data with user selected menu  | User interface |
+| The device can be easily operated by the user  | Website | Website that allows you to track data recived from the device  | Software |
 | The device can be easily operated by the user  | Error LEDS | LEDS that display specific errors that the device may encounter  | Indication |
 | The device can be easily operated by the user  | Function LEDS | LEDS that allow the user to know which functions are on/off  | Indication |
-| The device is proficient electronically | Surge Protection | The device can reroute excess voltage through a ground connection | TESTCATAGORY |
-| The device is proficient electronically | Battery | The device can charge and run on the provided battery | TESTCATAGORY |
-| The device is proficient electronically | Optimized Power Usage | The device draws little to no voltage during operation | TESTCATAGORY |
-| The device is proficient electronically  | High Data Transfer | Data aquired by the device is quickly and efficiently communicated | TESTCATAGORY |
-| The device is proficient electronically  | Efficient Functions | Device functions are operated at low and efficient power | TESTCATAGORY |
+| The device is proficient electronically | Surge Protection | The device can reroute excess voltage through a ground connection | Electrical |
+| The device is proficient electronically | Battery | The device can charge and run on the provided battery | Electrical |
+| The device is proficient electronically | Optimized Power Usage | The device draws little to no voltage during operation | Electrical |
+| The device is proficient electronically  | High Data Transfer | Data aquired by the device is quickly and efficiently communicated | Software |
+| The device is proficient electronically  | Efficient Functions | Device functions are operated at low and efficient power | Electrical |
 | The device is universal | Minimalist | The outer shell of the device in minimalistic and flows with homeowner's water lines | Structural |
-| The device is universal | Seamless | The device seamlessly connects with homeowners water lines | TESTCATAGORY |
-| The device is universal | Universal | The device can adapt and connect to any preexisting water lines | TESTCATAGORY |
+| The device is universal | Seamless | The device seamlessly connects with homeowners water lines | Utility |
+| The device is universal | Universal | The device can adapt and connect to any preexisting water lines | Utility |
 | The device is universal | Aesthetic | The device once installed does't look unordinary | Structural |
-| The device is universal | Not Locationally Dependant | The device can be connected wherever the homeowner decides | TESTCATAGORY |
+| The device is universal | Not Locationally Dependant | The device can be connected wherever the homeowner decides | Utility |
 | The device can be remotely operated | IR Remote | The device can recieve IR signals from a included remote. | Additional Device |
-| The device can be remotely operated | App | The device connects to a phone app to poerate remotely. | TESTCATAGORY |
+| The device can be remotely operated | App | The device connects to a phone app to operate remotely. | Software |
 | The device can be remotely operated | Radio transceiver | The device has a radio reciver and can be controlled remotely regardless of wifi. | Additional Device |
-| The device can be remotely operated | Wifi receiver | The device connects to the home wifi. | TESTCATAGORY |
-| The device can be remotely operated | Microphone | The device can receive voice commands. | TESTCATAGORY |
+| The device can be remotely operated | Wifi receiver | The device connects to the home wifi. | Software |
+| The device can be remotely operated | Microphone | The device can receive voice commands. | User interface |
 | The device is durable | Metal casing | The device is enclosed in a strong metal case to prevent imact damage or damage from falls. | Structural |
 | The device is durable | shock absorbing interior | The device is filled with shock absorbant materials to prevent internal components being damaged if dropped. | Structural |
 | The device is durable | Suspended interanals | The device has its internal electronics suspended in the center of its casing by multiple shock absorbers, if it is dropped only the case will be damaged. | Structural |
-| The device is durable | Simple electronics | The device will have as few moving parts as possible to reduce wear due to movement. | TESTCATAGORY |
+| The device is durable | Simple electronics | The device will have as few moving parts as possible to reduce wear due to movement. | Electrical |
 | The device is durable | Gold | The device's electronics will all be made with pure gold to avoid corrosion and oxidization. | Material |
 
 
