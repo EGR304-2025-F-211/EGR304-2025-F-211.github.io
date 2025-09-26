@@ -231,5 +231,29 @@ We have selected 20 different user needs and generated 5 different ideas for eac
 
 Add your different product concepts stuff here
 
-## Step Six (video link)
-Embedded a YouTube video that covers the 
+
+## Step Five
+
+Team 211 Brainstorming
+Process: The process utilized in the brainstorming process was trial and error. Ideas would be thrown out and then communicated on to see if the group agrees/disagrees.
+Participation: All team members participated in the brainstorming process.
+
+Meeting: The brainstorming process was held over a call (via Discord). This allowed the team to communicate in real time and bounce ideas off each other. This also allowed the team to collect proper ideas and document decisions.
+
+Idea Collection: To create our ideas for the prototypes our group referenced our list of features, the “EGR304 Fall 2025 Project Description”, and existing products on the market.
+We then brainstormed possible devices that could be made, while fulfilling the requirements of the project description, and our list of user needs.
+
+Sources: 
+https://embedded-systems-design.bitbucket.io/304/course-info/project-description/
+https://egr304-2025-f-211.github.io/03-User-Needs-and%20Benchmarking/
+
+External resources:
+Our group looked on websites like Amazon, for existing home devices, similar to the type we needed to create for the project. We used these products as inspiration and guidance into what devices a typical homeowner might want.
+
+How we grouped features:
+We grouped our features into groups depending on which aspect of the device they related to. 
+To rank our different groups our team discussed which of the 9 categories were likely the most important to the quality, functionality, and design of our product. Eventually settling on the following list in order from most important to least.
+User interface, Indication, Electrical, Software, Utility, Structural, Material, and Initial Device.
+
+Application of rankings to top ideas:
+Using the ordered list of feature groups we were able to narrow in on what specifically to prioritize when designing our prototypes.
