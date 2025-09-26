@@ -238,8 +238,9 @@ https://github.com/user-attachments/assets/e8a54972-897c-4b90-bbf9-9de8bb487ede
 
 [(Full quality link)]([url](https://drive.google.com/file/d/1I3JVbMhnt8HroNrLFbyfjXVeOtjqZ6Ac/view?usp=sharing))
 
-# Prototype 3:
+# Prototype 3: Vector-Imaged locking Trash Can
 
+<img width="2845" height="2845" alt="Vector Image-1" src="https://github.com/user-attachments/assets/0af3fc26-0ea2-4e32-bd1e-86c66730118a" />
 
 
 ## Step Five
@@ -257,7 +258,7 @@ We then brainstormed possible devices that could be made, while fulfilling the r
 
 **Sources: **
 https://embedded-systems-design.bitbucket.io/304/course-info/project-description/
-https://egr304-2025-f-211.github.io/03-User-Needs-and%20Benchmarking/
+https://egr304-2025-f-211.github.io/03-User-Needs-and%20Benchmarking/ 
 
 **External resources:**
 Our group looked on websites like Amazon, for existing home devices, similar to the type we needed to create for the project. We used these products as inspiration and guidance into what devices a typical homeowner might want.
