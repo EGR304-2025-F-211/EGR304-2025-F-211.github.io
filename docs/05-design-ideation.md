@@ -231,7 +231,7 @@ We have selected 20 different user needs and generated 5 different ideas for eac
 
 # Prototype 1: Universal Water Line monitor
 
-<img width="1359" height="1041" alt="image" src="https://github.com/user-attachments/assets/3f00a29b-b320-4acc-9d83-9e6cd0442beb" />
+<img width="1260" height="931" alt="image" src="https://github.com/user-attachments/assets/94194316-411c-4ed5-aa2b-2d83af2d5021" />
 
 # Prototype 2: Plant-Tastic plant monitoring device
 https://github.com/user-attachments/assets/e8a54972-897c-4b90-bbf9-9de8bb487ede
