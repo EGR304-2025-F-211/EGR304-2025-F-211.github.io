@@ -236,7 +236,8 @@ We have selected 20 different user needs and generated 5 different ideas for eac
 # Prototype 2: Plant-Tastic plant monitoring device
 https://github.com/user-attachments/assets/e8a54972-897c-4b90-bbf9-9de8bb487ede
 
-[(Full quality link)]([url](https://drive.google.com/file/d/1I3JVbMhnt8HroNrLFbyfjXVeOtjqZ6Ac/view?usp=sharing))
+(Full quality link: https://drive.google.com/file/d/1I3JVbMhnt8HroNrLFbyfjXVeOtjqZ6Ac/view?usp=sharing)
+
 
 # Prototype 3: Vector-Imaged locking Trash Can
 
