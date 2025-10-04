@@ -2,6 +2,4 @@
 title: Team Block Diagram
 ---
 
-
-
-![EGR304_BlockDiagram drawio](https://github.com/user-attachments/assets/c0f4f752-f7f8-4be2-b521-2cec04cd0ddc)
+![EGR304_BlockDiagram drawio(1)](https://github.com/user-attachments/assets/68d1834d-3d87-4068-a6de-6eac5ae7946f)
