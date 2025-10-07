@@ -7,3 +7,8 @@ title: Team Block Diagram
 Hafsa Kaysan - Pressure Sensor and Speaker
    
 ![Individual Block Diagram - Hafsa Kaysan](https://github.com/user-attachments/assets/28e9964e-62f9-4762-8e63-55fa9b132c5e)
+
+
+
+Levi Addink - Temperature and IR sensor
+![IndividualBlock](https://github.com/user-attachments/assets/4e20ac00-bc31-446a-a29c-528ce98e151c)
