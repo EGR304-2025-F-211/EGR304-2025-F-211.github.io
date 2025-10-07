@@ -1,4 +1,4 @@
----
+![IndividualBlock(FIXED)](https://github.com/user-attachments/assets/a9730b25-a644-4390-b370-c08cb0ca17e6)---
 title: Team Block Diagram
 ---
 ![EGR304_BlockDiagram](https://github.com/user-attachments/assets/670a326f-5530-4035-aef1-9d47d9abfe00)
@@ -12,4 +12,4 @@ Hafsa Kaysan - Pressure Sensor and Speaker
 
 Levi Addink - Temperature and IR sensor
 
-![IndividualBlock](https://github.com/user-attachments/assets/4e20ac00-bc31-446a-a29c-528ce98e151c)
+![Uploading Indiv<?xml version="1.0" encoding="UTF-8"?>
