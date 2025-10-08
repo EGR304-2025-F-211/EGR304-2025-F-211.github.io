@@ -12,3 +12,10 @@ Hafsa Kaysan - Pressure Sensor and Speaker
 Levi Addink - Temperature and IR sensor
 
 ![IndividualBlock(FIXED)](https://github.com/user-attachments/assets/819ed131-4656-4f2e-b006-b2c662dc5d8a)
+
+
+
+Michael Kim - Purity Voltage Divider and Solenoid Valve
+
+<img width="826" height="581" alt="Individual_ Block Diagram drawio" src="https://github.com/user-attachments/assets/2e4ea78b-fdfd-4a78-a9e8-f738fe43839a" />
+
