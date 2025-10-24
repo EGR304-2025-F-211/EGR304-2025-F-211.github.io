@@ -19,7 +19,7 @@ _**Appendix Table 1**: Team Member Communication Modes_
 
 |Name                 | First Choice Communication | Second Choice Communication | Third Choice Communication |
 |---------------------|----------------------------|-----------------------------|----------------------------|
-|Levi Adddink |  Discord | Text | Email |
+|Levi Addink |  Discord | Text | Email |
 |Kelton Jensen |  Discord | Text | Email |
 |Hafsa Kaysan |  Discord | Email | Text |
 |Michael Kim |  Discord | Email | Text |
