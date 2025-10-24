@@ -1,4 +1,4 @@
----
+![Team flow chart drawio](https://github.com/user-attachments/assets/e40feb32-c52b-4a55-8806-fd0f38013c89)---
 title: Software Proposal
 ---
 
@@ -16,16 +16,13 @@ _Italic Text_
 * Bullet Point 3
 
 ## Images
-
-![image caption](https://idealab.asu.edu/assets/images/research/jumper1.png)
-
-![dead bug circuit](Image01.jpg){style width:"350" height:"300;"}
+<img width="1396" height="942" alt="Team flow chart drawio" src="https://github.com/user-attachments/assets/1a8791cd-0bd6-4c67-8b75-56308352aa24" />
+[PDF Download](https://github.com/user-attachments/files/23134408/Team.flow.chart.drawio-1.pdf)
 **Figure 2:** Early PCB working design
 
 
 ![showcase](ImageShowcase.png)
 **Figure 3:** Innovation Showcase Spring '25, where the products were a STEM-themed display that demonstrates a single scientific/engineering concept with the intended user of K-12 students interested in learning about science, technology, engineering, or math.
-
 
 ## Results
 
