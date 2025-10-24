@@ -3,6 +3,7 @@ title: Software Proposal
 ---
 
 ## Introduction
+Team 211 is proposing a solution for households' aquaponics systems. With sensors and actuators, the aim is to integrate smart technology into these systems to allow the user a more stress-free and autonomous experience. To allow a system like this to run, the team chose to utilize MPLab IDE to send code through the Microchip PIC Nano. The system runs off of a hub and spoke system, so their is a central board that talks to the other 3 boards, which allow a smooth code and purpose for each board. 
 
 **Bold Text**
 _Italic Text_
@@ -10,7 +11,7 @@ _Italic Text_
 
 ## Research Question
 
-* Bullet Point 1
+* Bullet point 1
 * Bullet Point 2
 * Bullet Point 3
 
