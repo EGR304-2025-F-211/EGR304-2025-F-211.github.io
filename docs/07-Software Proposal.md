@@ -1,4 +1,3 @@
-![Team flow chart drawio](https://github.com/user-attachments/assets/e40feb32-c52b-4a55-8806-fd0f38013c89)---
 title: Software Proposal
 ---
 
