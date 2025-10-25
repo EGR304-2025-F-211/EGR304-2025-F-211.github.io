@@ -10,8 +10,7 @@ Hafsa Kaysan - Pressure Sensor and Speaker
 
 
 Levi Addink - Temperature and IR sensor
-
-![IndividualBlock(FIXED)](https://github.com/user-attachments/assets/819ed131-4656-4f2e-b006-b2c662dc5d8a)
+<img width="701" height="651" alt="IndividualBlock drawio" src="https://github.com/user-attachments/assets/8f004741-7c10-4343-b5d9-9b3fabe04650" />
 
 
 
