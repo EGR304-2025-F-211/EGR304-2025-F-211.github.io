@@ -8,9 +8,9 @@ title: Software Proposal
 
 ## Research Question
 
-* Can the team utilize sensors and actuators in the project to obtain...? (finish this later)
-* Will using the programming software MPLab sufficient for our teams setup?
-* How will the team keep the code working?
+* Will the code be intuitive enough for any user to utilize the features? 
+* Will using the programming software MPLab be sufficient for our team's setup?
+* How will the code handle all the functions, and for how long?
 
 ## Images
 <img width="1396" height="942" alt="Team flow chart drawio" src="https://github.com/user-attachments/assets/1a8791cd-0bd6-4c67-8b75-56308352aa24" /> **Figure 1:** Program Process   |
@@ -24,7 +24,7 @@ title: Software Proposal
 1. Numbered Point 3
 
 ## Conclusions and Future Work
-To conclude team 211... In the future... (finish this later)
+To conclude, team 211... In the future... (finish this later)
 
 
 ## External Links
