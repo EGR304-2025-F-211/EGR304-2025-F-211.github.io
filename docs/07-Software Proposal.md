@@ -1,4 +1,4 @@
-title: Software Proposal
+Software Proposal
 ---
 
 ## Introduction
