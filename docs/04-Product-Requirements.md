@@ -6,7 +6,7 @@ tags:
 ---
 
 ## Introduction
-Homeowners across Phoenix strive to minimize their water bills and provide their homes with a high-quality, clean water supply. Arizona tap water is known for its hardness and scarcity, so a system to monitor both water quality and water usage would be a useful device for the average homeowner. Whole-house water supply filters are the only main way to fix this problem. However, we believe with modifying the supply system to make it more intelligent by adding real-time monitoring, an alert system, and water controls, we can help many Arizona homeowners.
+Plant owners across Phoenix want to keep their plants happy and healthy, but sometimes it can be difficult to monitor your plants with your hectic life. We plan to make a device that can monitor indoor houseplants, hands free and automatically. We believe this type of device could help save time, effort, and water, as well as alleviating a repetitive task from the plant owner, and ensuring that their plants remain healthy and watered with minimal effort.
 
 ## Project Objective
 
@@ -14,26 +14,26 @@ This product aims to design a device capable of saving water, electricity, and t
 
 ## Stakeholders
 
-- **Target group**: Residents of the Phoenix area who own homes.
-- **Target purchaser**: Target group profile with special attention to homeowners with high water usage or environmental concerns.
+- **Target group**: Residents of the Phoenix area who own plants.
+- **Target purchaser**: Target group profile with special attention to indoor gardeners.
 - **Customer service**: Prefers easy-to-install, low maitenence, useful device.
 - **Marketing & Sales division**: Looks for unique selling points around the user experience and installation process.
-- **Retailers**: Prefer smart home-type products with an emphasis on reducing environmental impact.
+- **Retailers**: Prefer smart home-type products with an aquaponics.
 
 
 ## Use Cases
 
 **User Story #1: Dan**
 
-Dan is a 67-year-old retired accountant who owns a small home with a lawn and garden. Dan has an automated sprinkler system to provide his plants with plenty of water during the hot Arizona summers. For the sake of his water bill, Dan wants to monitor his water usage, but more importantly, his water quality. Dan wants to make sure both he and his plants have healthy, clean water to drink.
+Dan is a 67-year-old retired accountant who owns a small home with a lawn, garden, and a handfull of indoor houseplants. During his busy life Dan sometimes forgets whether or not he has watered his indoor plants, leading to over or under watering, causing his plants to wither. Dan purchases and installs an automated system to monitor his indoor plants for him, and is relieved that his indoor plants begin to flourish once again.
 
-Because of this, Dan purchased our water monitoring system and can rest assured that both he and his plants are receiving high-quality water. Dan can also use the device to monitor his water usage to determine how best to care for his garden.
+This sytem allows Dan to attend to other objectives in his day to day life, with the peace of mind knowing his plants are cared for.
 
 **User Story #2: Erin**
 
-Erin is a 42-year-old who owns a home in the Phoenix area. During the summer, Erin does her best to limit her water usage to keep her water bill low. Despite her best attempts, it's difficult for Erin to get a gauge on just how much water she is using, and if her attempts to limit her usage are doing much at all. Because of this, Erin installs a water monitoring system to get a better idea of the data.
+Erin is a 42-year-old who owns a potted plant in the Phoenix area. The particular plant Erin owns requires a consistantly moist environment, which is difficult to maintain in the dry summer heat. Additionally Erin often has to leave the house for long periods of time, leaving the plant. Erin installs a plant monitoring system to keep her plant watered while she out and about, and no longer has to worry about getting home in time to water in consistantly.
 
-Using this system, Erin can find out just how much water she is saving, and is thankful for the clarity that the system provides. 
+Using this system, Erin can keep her plant healthy and watered, with much less constant maintainence, only checking in every so often to refill the tank.
 
 ## Aspects
 
