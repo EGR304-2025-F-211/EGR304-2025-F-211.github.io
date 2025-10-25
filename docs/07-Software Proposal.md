@@ -4,8 +4,6 @@ title: Software Proposal
 ## Introduction
 **Team 211** is proposing a solution for households' aquaponics systems. With sensors and actuators, the aim is to integrate smart technology into these systems to allow the user a more stress-free and autonomous experience. To allow a system like this to run, the team chose to utilize **_MPLab IDE_** to send code through the **_Microchip PIC Nano_**. The system runs off of a hub and spoke system, so their is a central board that talks to the other 3 boards, which allow a smooth code and purpose for each board. 
 
-
-
 ## Research Question
 
 * Will the code be intuitive enough for any user to utilize the features? 
@@ -17,22 +15,6 @@ title: Software Proposal
 [PDF Download](https://github.com/user-attachments/files/23135384/Team211flowchart.drawio.pdf)  |
 [Draw.io Download](https://github.com/user-attachments/files/23134432/Team.flow.chart.drawio.1.xml) |<br>
 
-## Results
 
-1. Numbered Point 1
-1. Numbered Point 2
-1. Numbered Point 3
-
-## Conclusions and Future Work
-To conclude, team 211... In the future... (finish this later)
-
-
-## External Links
-
-[example link to idealab](https://idealab.asu.edu)
-
-
-
-## References
 
 
