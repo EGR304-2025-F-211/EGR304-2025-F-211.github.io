@@ -10,7 +10,8 @@ Hafsa Kaysan - IR Reflective Sensor and Pressure Sensor
 
 Levi Addink - Moisture Sensor and Photoresistor
 
-<img width="701" height="651" alt="IndividualBlock drawio" src="https://github.com/user-attachments/assets/8f004741-7c10-4343-b5d9-9b3fabe04650" />
+<img width="1160" height="674" alt="image" src="https://github.com/user-attachments/assets/b50e0e3e-5e28-41c8-8242-ae38d1c3993e" />
+
 
 
 
