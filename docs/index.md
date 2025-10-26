@@ -30,6 +30,6 @@ Team 211 is a 4-person team consisting of Levi, Hafsa, Kelton, and Michael. Each
 | **Team Member**        |**Ind Datasheet Links** |
 | ---------------------- | -----------------------|
 | Levi Addink                | [Blobiathan.GitHub](https://blobiathan.github.io/) |
-| Kelton Jensen                | [kjensen37.GitHub](https://kjensen37.github.io/) |
-| Hafsa Kaysan                | [HFSKSN.GitHub](https://hfsksn.github.io/) |
+| Kelton Jensen              | [kjensen37.GitHub](https://kjensen37.github.io/EGR304DataSheetKeltonJensen.github.io/) |
+| Hafsa Kaysan               | [HFSKSN.GitHub](https://hfsksn.github.io/) |
 | Michael Kim                | [mjkim21-dev.GitHub](https://mjkim21-dev.github.io/) |
