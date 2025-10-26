@@ -14,6 +14,7 @@ Levi Addink - Moisture Sensor and Photoresistor
 
 
 Michael Kim - Speaker and Solenoid Valve 
-<img width="816" height="571" alt="Individual_ Block Diagram drawio" src="https://github.com/user-attachments/assets/079b2dec-1ff0-4cf9-8c28-43883dc1a31e" />
+<img width="816" height="571" alt="BlockDiagramMK drawio" src="https://github.com/user-attachments/assets/c274bcd8-be13-4b36-a9e1-b74b147fc320" />
+
 
 
