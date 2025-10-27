@@ -1,6 +1,6 @@
 ## Team Block Diagram
 
-![EGR304_BlockDiagram](https://github.com/user-attachments/assets/a13ce594-81ad-42e7-a76c-3e93f7c38cac)
+![EGR304_BlockDiagram](https://github.com/user-attachments/assets/18459cab-38af-4d16-9440-977b9d4ad11a)
 
 
 **Figure 1:** Team Block Diagram and Connections. PDF version [*here*](https://github.com/user-attachments/files/23169693/EGR304_BlockDiagram.pdf)
