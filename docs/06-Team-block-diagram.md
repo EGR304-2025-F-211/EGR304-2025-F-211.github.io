@@ -21,7 +21,7 @@ Michael Kim - Speaker and Solenoid Valve
 <img width="816" height="571" alt="BlockDiagramMK drawio" src="https://github.com/user-attachments/assets/c274bcd8-be13-4b36-a9e1-b74b147fc320" />
 
 Kelton Jensen - Main Hub
-[Individual Block Diagram](IndividualBlockKeltonJensen.drawio.png)
+Individual Block Diagram [](IndividualBlockKeltonJensen.drawio.png)
 
 **Figure 4:** Kelton Jensen's [Main Hub Subsystem](https://kjensen37.github.io/EGR304DataSheetKeltonJensen.github.io/01-Block-Diagram/Block-Diagram)
 
