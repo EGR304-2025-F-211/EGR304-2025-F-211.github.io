@@ -5,7 +5,7 @@ tags:
 - tag2
 ---
 
-## Intro/overview
+## Overview
 
 The design ideation section includes the process by which Team 211 came up with an actual product. This section talks about our design ideation process and the collection of data we underwent when brainstorming designs for our future product. We then include some early prototypes, sketches, and vector images. To further explain ideation. At the end is the page bringing it all together.
 
