@@ -3,7 +3,7 @@
 ![EGR304_BlockDiagram](https://github.com/user-attachments/assets/18459cab-38af-4d16-9440-977b9d4ad11a)
 
 
-**Figure 1:** Team Block Diagram and Connections. PDF version [*here*](https://github.com/user-attachments/files/23172375/EGR304_BlockDiagram1.pdf))
+**Figure 1:** Team Block Diagram and Connections. PDF version [*here*](https://github.com/user-attachments/files/23172375/EGR304_BlockDiagram1.pdf)
 
 
 ## Individual Block Diagrams
