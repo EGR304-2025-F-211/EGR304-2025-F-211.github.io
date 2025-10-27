@@ -19,6 +19,7 @@
 
 
 <img width="816" height="580" alt="BlockDiagramMK drawio" src="https://github.com/user-attachments/assets/3d9b558c-71a1-4c89-93b5-05d7f5e468ab" />
+
 **Figure 4:** Michael Kim's [Solenoid and Speaker Subsystem](https://mjkim21-dev.github.io/01-Block-Diagram/Block-Diagram/)
 
 
