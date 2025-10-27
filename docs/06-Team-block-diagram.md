@@ -18,11 +18,12 @@
 **Figure 3:** Levi Addink's [Moisture and Sunlight Sensor Subsystem](https://blobiathan.github.io/01-Block-Diagram/Block-Diagram/)
 
 
-Michael Kim - Speaker and Solenoid Valve 
-<img width="816" height="571" alt="BlockDiagramMK drawio" src="https://github.com/user-attachments/assets/c274bcd8-be13-4b36-a9e1-b74b147fc320" />
+<img width="718" height="539" alt="image" src="https://github.com/user-attachments/assets/f4809ac9-ff4d-4041-b146-b9e10a71be04" />
+**Figure 4:** Michael Kim's [Solenoid and Speaker Subsystem](https://mjkim21-dev.github.io/01-Block-Diagram/Block-Diagram/)
+
 
 Kelton Jensen - Main Hub
 <img width="1096" height="566" alt="IndividualBlockKJensen drawio" src="https://github.com/user-attachments/assets/9cb3d08f-1d7d-4577-a411-75ddedfb1be7" />
 
 
-**Figure 4:** Kelton Jensen's [Main Hub Subsystem](https://kjensen37.github.io/EGR304DataSheetKeltonJensen.github.io/01-Block-Diagram/Block-Diagram)
+**Figure 5:** Kelton Jensen's [Main Hub Subsystem](https://kjensen37.github.io/EGR304DataSheetKeltonJensen.github.io/01-Block-Diagram/Block-Diagram)
