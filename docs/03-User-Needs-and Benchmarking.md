@@ -14,7 +14,7 @@ The goal of benchmarking is to find a viable product that allows the user to sav
 - Refrigerator
 - Water Heaters
 
-## Voices of the Customers Benchmarking
+## Voice of the Customer Benchmarking
 
 ### Search #1
 
