@@ -1,4 +1,4 @@
-Team Block Diagram
+**Team Block Diagram**
 
 The team's Block Diagram as a PDF download is available [*here*](EGR304_BlockDiagram.drawio.pdf)
 
