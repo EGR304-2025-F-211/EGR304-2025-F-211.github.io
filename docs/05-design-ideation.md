@@ -1,5 +1,5 @@
 ---
-title: 05-Design Ideation
+title: Design Ideation
 tags:
 - tag1
 - tag2
