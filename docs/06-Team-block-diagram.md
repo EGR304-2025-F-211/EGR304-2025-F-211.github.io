@@ -3,7 +3,7 @@
 ![EGR304_BlockDiagram](https://github.com/user-attachments/assets/18459cab-38af-4d16-9440-977b9d4ad11a)
 
 
-**Figure 1:** Team Block Diagram and Connections. PDF version [*here*](https://github.com/user-attachments/files/23169693/EGR304_BlockDiagram.pdf)
+**Figure 1:** Team Block Diagram and Connections. PDF version [*here*](https://github.com/user-attachments/files/23172375/EGR304_BlockDiagram1.pdf))
 
 
 ## Individual Block Diagrams
@@ -25,6 +25,5 @@
 
 
 <img width="1096" height="566" alt="IndividualBlockKJensen drawio" src="https://github.com/user-attachments/assets/9cb3d08f-1d7d-4577-a411-75ddedfb1be7" />
-
 
 **Figure 5:** Kelton Jensen's [Main Hub Subsystem](https://kjensen37.github.io/EGR304DataSheetKeltonJensen.github.io/01-Block-Diagram/Block-Diagram)
