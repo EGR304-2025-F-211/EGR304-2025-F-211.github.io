@@ -7,6 +7,7 @@ The team's Block Diagram as a PDF download is available [*here*](EGR304_BlockDia
 ## Individual Block Diagrams
    
 ![Individual Block Diagram - Hafsa Kaysan](https://github.com/user-attachments/assets/68446eef-9c85-439c-91f2-38c06625a7d2)
+
 **Figure 1:** Hafsa Kaysan's [IR Reflective Sensor and Pressure Sensor Subsystem](https://hfsksn.github.io/01-Block-Diagram/Block-Diagram/)
 
 
