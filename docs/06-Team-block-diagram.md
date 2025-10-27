@@ -11,9 +11,10 @@ The team's Block Diagram as a PDF download is available [*here*](EGR304_BlockDia
 **Figure 1:** Hafsa Kaysan's [IR Reflective Sensor and Pressure Sensor Subsystem](https://hfsksn.github.io/01-Block-Diagram/Block-Diagram/)
 
 
-<img width="701" height="651" alt="IndividualBlock drawio(1)" src="https://github.com/user-attachments/assets/f3753c98-baa2-40f2-812f-e01c88b9288d" />
+<img width="701" height="651" alt="IndividualBlock drawio(2)" src="https://github.com/user-attachments/assets/b9a94b49-cf8b-4e9f-b243-70ce703b8647" />
 
 **Figure 2:** Levi Addink's [Moisture and Sunlight Sensor Subsystem](https://blobiathan.github.io/01-Block-Diagram/Block-Diagram/)
+
 
 
 Michael Kim - Speaker and Solenoid Valve 
