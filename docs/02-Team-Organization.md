@@ -1,5 +1,5 @@
 ---
-title: 02-Team Organization
+title: Team Organization
 tags:
 - tag1
 - tag2
