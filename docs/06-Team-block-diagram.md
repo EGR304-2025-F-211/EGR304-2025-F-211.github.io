@@ -18,8 +18,7 @@
 **Figure 3:** Levi Addink's [Moisture and Sunlight Sensor Subsystem](https://blobiathan.github.io/01-Block-Diagram/Block-Diagram/)
 
 
-<img width="718" height="539" alt="image" src="https://github.com/user-attachments/assets/f4809ac9-ff4d-4041-b146-b9e10a71be04" />
-
+<img width="816" height="580" alt="BlockDiagramMK drawio" src="https://github.com/user-attachments/assets/3d9b558c-71a1-4c89-93b5-05d7f5e468ab" />
 **Figure 4:** Michael Kim's [Solenoid and Speaker Subsystem](https://mjkim21-dev.github.io/01-Block-Diagram/Block-Diagram/)
 
 
