@@ -55,7 +55,7 @@ The goal of benchmarking is to find a viable product that allows the user to sav
 
 ### Selected Product:
 1: [GoveeLife WiFi Refrigerator Thermometer with Alarm]([url](https://www.amazon.com/GoveeLife-Refrigerator-Thermometer-Wireless-Temperature/dp/B0DZCQFZB6?crid=YRJ3I5DLS9SQ&dib=eyJ2IjoiMSJ9.aFPV6ggxqoOpsnJKexIKRBHREkxZENPmAFywm1wWfsxtlCcwxVDCY47OfyiFV5tdS3mzFhouHEr4KRwiOo407bZ2FYHfOAZ6yxF979Ombg5G7zKZlKmmVD2MQLtRq1aJLi28TbGRlMnxHwIHhAyPKrS3Jj1AX8QKpULTW-JW13U9kaWW5qRWH7i5dSae1wivhYCz_fESxvn7C0w7qXtst-pxpySaEPl4QObjQ7rYz565JjiBhqhd7HEYe-Z0vIZFcplA66ca00ngbWubeQIBhIOcJDgwl4BdeacTUiA2Q8k.UgIcCqMXeZlqcKuhlupMM-C1iPVbOWozSOFP402DvTg&dib_tag=se&keywords=refrigerator%2Bmonitoring%2Bdevice&qid=1757726473&sprefix=refrigerator%2Bmon%2Caps%2C214&sr=8-6&th=1))
-![61t3i7iKw6L _SL1500_](https://github.com/user-attachments/assets/b934f293-a0b4-4c51-9b86-4ae3ccc47112)
+![61t3i7iKw6L _SL1500_](temperatureSensor.jpg)
 
 - Price: $30
 - Vendor: Amazon
@@ -85,7 +85,7 @@ The goal of benchmarking is to find a viable product that allows the user to sav
 
 ### Selected Product:
 1: [GoveeLife Upgraded Smart Water Leak Detector]([url](https://www.amazon.com/GoveeLife-Upgraded-Detector-Ultra-Long-Basement/dp/B0DQLFC3Q6?crid=2D7W4C3LUN966&dib=eyJ2IjoiMSJ9.KEm0dO1vve0ZTavA8cWMYmXGS3vxWCRDQQWEZDi8oPQEJmXsPuwixpxKU-IzwghacTlF5E6ElqFku6ixQ4zsgibiYsoMx3i6RaeR6_rKjJ4Aynnu0KPWxRXF2kUq4Z2NS1Qn2DkBph0_qgwFCvssGm2HH1zDiJrOr-JT22DJq83QGwKqrhVii2WR4_pSub_6KplLOcNDitWGz884i7vCLwG9_o5d4OwierfqupJW0tQ.9Zqck2Qsq5_9I_q2RLEgrtobg9axcgJIiDYz29WoDcU&dib_tag=se&keywords=home%2Bsmart%2Bsensor&qid=1757728079&sprefix=home%2Bsmart%2Bsenso%2Caps%2C203&sr=8-3&th=1))
-![61ocRSrpStL _AC_SL1500_](https://github.com/user-attachments/assets/7273d9ae-8240-42b2-9caa-98104b56c303)
+![61ocRSrpStL _AC_SL1500_](leakSensor.jpg)
 
 - Price: $56
 - Vendor: Amazon
@@ -108,7 +108,7 @@ The goal of benchmarking is to find a viable product that allows the user to sav
 | I never got around to installing or testing the actual sensor. The gateway emits a high-pitched noise when the blue light is on (always once connected to wi-fi) that was unbearable (turn up the volume on the video, it's subtle, but very annoying). This may be ok for some people if the gateway is in a room that isn't accessed often, but my gateway would have been in an area that we spend at leased some time exercising in. I ordered the H5058's instead and they seem to work fine. | Product should be non-obtrusive |
 
 2: [Smart Home Energy Monitor Supports Home Assistant]([url](https://www.amazon.com/Supports-Assistant-Real-Time-Consumption-Electricity/dp/B0DJNV3GPR?crid=2569RJYODRGP0&dib=eyJ2IjoiMSJ9.zMca8Y-99-LFzNkju0oACII_9jhcgYmJZW1N92pK7iRQ-xTDsappKRrZVWTit3Z8omEA-WOCt5T4K6n3GvddOlgaoIpZHBLPqVwnJzIGWP8.PNSUaYfsWAv2aGQ8wpgba-JO52f12dmeo4mez0CVogE&dib_tag=se&keywords=home%2Bsmart%2Bdevice&qid=1757729330&sprefix=home%2Bsmart%2Bdevic%2Caps%2C206&sr=8-55&xpid=iHsb7JPfnHgIn&th=1))
-![71H84Z2uP6L _AC_SL1500_](https://github.com/user-attachments/assets/6992c8cd-44ba-40b3-ae2f-d4b93db54ec9)
+![71H84Z2uP6L _AC_SL1500_](powerSensor.jpg)
 
 - Price: $161
 - Vendor: Amazon
@@ -139,7 +139,7 @@ The goal of benchmarking is to find a viable product that allows the user to sav
 
 ### Selected Product:
 1: [Moen Flo Smart Water Monitor and Automatic Shutoff Sensor]([url](https://www.amazon.com/Moen-900-001-4-Inch-Smart-Shutoff/dp/B00C03D01Q?crid=1SRV67KY9URZB&dib=eyJ2IjoiMSJ9.G3S89Hnk4DUecVklWoAV0kaqQ3p1rxVxfDJ4dS8LxoCvVoLONeJr05sexaXj3FhIjRyEZsnRXEj7xd8g0qHnU0dVH56JInRRJ7XGankbAl8-9Gi-6Zn85Wh0UchTGLznSvPCzUnrgX9AVrli2ENQl8sEl4ADdTcwWGOybD3paoSH9PiSeRNBtP3VRtGD_jdqvqkQtWG3WdDGjHS8KhfvwilgDair0YF7xRvWmh7NUiA.nPXkLy6loiXe0pbSxMVmntXSnEZGsp_U2aYA8K_rtsU&dib_tag=se&keywords=smart%2Bsensor%2Bdevice&qid=1757804887&sprefix=smart%2Bsensor%2Bdevic%2Caps%2C228&sr=8-68&xpid=7aGqHns8psuR6&th=1))
-![71NO-bIFYLL _AC_SL1500_](https://github.com/user-attachments/assets/24926fc8-d225-4a62-9146-db1aec60ad16)
+![71NO-bIFYLL _AC_SL1500_](WaterValve.jpg)
 
 - Price: $549
 - Vendor: Amazon
