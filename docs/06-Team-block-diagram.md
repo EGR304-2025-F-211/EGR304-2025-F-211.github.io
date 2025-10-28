@@ -3,7 +3,7 @@
 ![EGR304_BlockDiagram](image/teamFlowChart.png)
 
 
-**Figure 1:** Team Block Diagram and Connections. PDF version [*here*](https://github.com/user-attachments/files/23172375/EGR304_BlockDiagram1.pdf)
+**Figure 1:** Team Block Diagram and Connections. PDF version [*here*](pdf/EGR304_BlockDiagram1.pdf)
 
 
 ## Individual Block Diagrams
