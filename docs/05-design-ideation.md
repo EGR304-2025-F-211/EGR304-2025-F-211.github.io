@@ -230,7 +230,7 @@ We have selected 20 different user needs and generated 5 different ideas for eac
 ## Step Four
 
 # Prototype 1: Universal Water Line monitor
-![Pipe](pipeDesign.png)
+![Pipe](image/pipeDesign.png)
 
 # Prototype 2: Plant-Tastic plant monitoring device
 ![Video](Plant-TasticV2.mp4)
@@ -240,7 +240,7 @@ We have selected 20 different user needs and generated 5 different ideas for eac
 
 # Prototype 3: Vector-Imaged locking Trash Can
 
-![Trash](trashDesign.png)
+![Trash](image/trashDesign.png)
 
 
 ## Step Five
