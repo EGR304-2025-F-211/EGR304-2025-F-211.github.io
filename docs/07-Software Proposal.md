@@ -11,8 +11,8 @@ Software Proposal
 
 ## Software Diagram
 ![TeamLogicFlowChart](image/TeamLogicFlowChart.png) **Figure 1:** Program Process   |
-[PDF Download](https://github.com/user-attachments/files/23135384/Team211flowchart.drawio.pdf)  |
-[Draw.io Download](https://github.com/user-attachments/files/23134432/Team.flow.chart.drawio.1.xml) |<br>
+[PDF Download](pdf/Team211flowchart.drawio.pdf)  |
+[Draw.io Download](pdf/Team.flow.chart.drawio.1.xml) |<br>
 
 
 
