@@ -10,7 +10,7 @@ Software Proposal
 * How will the code handle all the functions, and for how long?
 
 ## Software Diagram
-<img width="1396" height="942" alt="Team flow chart drawio" src="https://github.com/user-attachments/assets/1a8791cd-0bd6-4c67-8b75-56308352aa24" /> **Figure 1:** Program Process   |
+![TeamLogicFlowChart](image/TeamLogicFlowChart.png) **Figure 1:** Program Process   |
 [PDF Download](https://github.com/user-attachments/files/23135384/Team211flowchart.drawio.pdf)  |
 [Draw.io Download](https://github.com/user-attachments/files/23134432/Team.flow.chart.drawio.1.xml) |<br>
 
