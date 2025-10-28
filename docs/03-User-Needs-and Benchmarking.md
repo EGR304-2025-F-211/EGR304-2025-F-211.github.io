@@ -25,7 +25,7 @@ The goal of benchmarking is to find a viable product that allows the user to sav
 ### Selected Product:
 1: [Lutron Maestro Motion Sensor Light Switch]([url](https://www.amazon.com/Lutron-Maestro-Required-Single-Pole-MS-OPS2-WH/dp/B005WM3ALC?crid=1J29X3CK4KA4O&dib=eyJ2IjoiMSJ9.-Vrw-JDL5Rz2KBpMS8vHz4m-4uND2N1Hkuy3LXPZsU_voi4d323hK7KJPB9mddbCRpRNicksUMfRbnLqp-yb9hC624UQoqTkSM_fwNg-s6Lim6cg5RSqMn5iH4ikqhLKENnu175V9qacg2aB36oSO7BrcVgZO93bN7Ul_lHku0KxKxAA4rE3O8-8QmKBuC5tW2POPF5MX8hsFvr3ZqCWDGYw5TLLIkl6Ee2s9Fs62fE0qZeiZPVIY1I_ezhRaDOCwbemWqb6ThYTKYkP-d3c_pH5TS2udqzulsMwzUNppC4.nn9WGRSyUHaw8xc21oPj1G1AOn8-BNuLWcA2I_QXhjg&dib_tag=se&keywords=auto%2Blight%2Bswitch&qid=1757723745&sprefix=auto%2Blight%2Bswitch%2Caps%2C307&sr=8-6&th=1))
 
-![71UAXeOzYpL _AC_SX679_](https://github.com/user-attachments/assets/05b3823e-6fe7-44c6-9fb5-7a3109e915a7)
+![71UAXeOzYpL _AC_SX679_](motionSensor.jpg)
 
 - Price: $23
 - Vendor: Amazon
