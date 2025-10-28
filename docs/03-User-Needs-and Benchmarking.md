@@ -165,10 +165,10 @@ The goal of benchmarking is to find a viable product that allows the user to sav
 
 
 Inital list of user needs: 
-[InitialUserNeeds.pdf](InitialUserNeeds-2.pdf)
+[InitialUserNeeds.pdf](pdf/InitialUserNeeds-2.pdf)
 
 Sorted user needs:
-[SortedUserNeeds2.pdf](SortedUserNeeds2-1.pdf)
+[SortedUserNeeds2.pdf](pdf/SortedUserNeeds2-1.pdf)
 
 **User needs ranking:**
 ![UserRankings](image/metaRankings.png)
