@@ -11,14 +11,17 @@
 ![Individual Block Diagram - Hafsa Kaysan](image/HafsaFlowChart.png)
 
 **Figure 2:** Hafsa Kaysan's [IR Reflective Sensor and Pressure Sensor Subsystem](https://hfsksn.github.io/01-Block-Diagram/Block-Diagram/)
+___
 
 ![Individual Block Diagram - Levi Addink](image/LeviFlowChart.png)
 
 **Figure 3:** Levi Addink's [Moisture and Sunlight Sensor Subsystem](https://blobiathan.github.io/01-Block-Diagram/Block-Diagram/)
+___
 
 ![Individual Block Diagram - Michael Kim](image/MichaelFlowChart.png)
 
 **Figure 4:** Michael Kim's [Solenoid and Speaker Subsystem](https://mjkim21-dev.github.io/01-Block-Diagram/Block-Diagram/)
+___
 
 ![Individual Block Diagram - Kelton Jensen](image/KeltonFlowChart.png)
 
