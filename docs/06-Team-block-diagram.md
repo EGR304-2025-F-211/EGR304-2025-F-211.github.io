@@ -23,6 +23,6 @@ ___
 **Figure 4:** Michael Kim's [Solenoid and Speaker Subsystem](https://mjkim21-dev.github.io/01-Block-Diagram/Block-Diagram/)
 ___
 
-![Individual Block Diagram - Kelton Jensen](image/KeltonFlowChart.drawio.png)
+![Individual Block Diagram - Kelton Jensen](image/KeltonJFlowChart.drawio.png)
 
 **Figure 5:** Kelton Jensen's [Main Hub Subsystem](https://kjensen37.github.io/EGR304DataSheetKeltonJensen.github.io/01-Block-Diagram/Block-Diagram)
