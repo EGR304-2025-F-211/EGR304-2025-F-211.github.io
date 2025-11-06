@@ -1,7 +1,15 @@
-## Team Block Diagram
+---
+title: Team Block Diagram
+tags:
+- tag1
+- tag2
+---
+
+## Overview
+
+...
 
 ![EGR304_BlockDiagram](image/TeamBlockDiagram.png)
-
 
 **Figure 1:** Team Block Diagram and Connections. PDF version [*here*](pdf/TeamBlockDiagram.pdf)
 
