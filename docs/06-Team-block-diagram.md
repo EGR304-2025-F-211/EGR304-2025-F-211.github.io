@@ -7,7 +7,7 @@ tags:
 
 ## Overview
 
-Team 211's device consists of four unique subsystems each with a PIC microcontroller to fulfill its desired function as an automated irrigation system, as shown by these block diagrams. The main hub, built by Kelton, will provide a shared power from a wall mounted power supply and communication between the boards while also displaying information through an LCD screen with a rotary encoder for user input and screen selection. 
+Team 211's device consists of four unique subsystems each with a PIC microcontroller to fulfill its desired function as an automated irrigation system, as shown by these block diagrams. The main hub, designed by Kelton, will provide a shared power from a wall mounted power supply and communication between the boards using 8 pin connectors while also displaying information through an LCD screen with a rotary encoder for user input and screen selection. To detect any failures in the irrigation system or to alert the user that the water storage tank connected to the device is running low, Hafsa's subsystem is designed to read, translate, and send information from a pressure sensor connected to the tubing and an IR sensor mounted inside the tank to Kelton's board. 
 
 ![EGR304_BlockDiagram](image/TeamBlockDiagram.png)
 
