@@ -1,6 +1,6 @@
 ## Team Block Diagram
 
-![EGR304_BlockDiagram](image/teamFlowChart.png)
+![EGR304_BlockDiagram](image/EGR304_BlockDiagram.drawio.png)
 
 
 **Figure 1:** Team Block Diagram and Connections. PDF version [*here*](pdf/EGR304_BlockDiagram1.pdf)
