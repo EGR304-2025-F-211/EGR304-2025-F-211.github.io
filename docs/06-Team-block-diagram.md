@@ -16,7 +16,7 @@ tags:
 
 ## Individual Block Diagrams
    
-![Individual Block Diagram - Hafsa Kaysan](image/HafsaFlowChart.png)
+![Individual Block Diagram - Hafsa Kaysan](image/HafsaFlowChartV2.png)
 
 **Figure 2:** Hafsa Kaysan's [IR Reflective Sensor and Pressure Sensor Subsystem](https://hfsksn.github.io/01-Block-Diagram/Block-Diagram/)
 ___
