@@ -34,3 +34,8 @@ ___
 ![Individual Block Diagram - Michael Kim](image/BlockDiagramMK2.drawio.png)
 
 **Figure 5:** Michael Kim's [Solenoid and Speaker Subsystem](https://mjkim21-dev.github.io/01-Block-Diagram/Block-Diagram/)
+
+___
+
+## Connections Table
+![ConnectionsTable](ConnectionsTable.webp)
