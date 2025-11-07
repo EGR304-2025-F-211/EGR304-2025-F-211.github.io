@@ -38,4 +38,4 @@ ___
 ___
 
 ## Connections Table
-![ConnectionsTable](ConnectionsTable.webp)
+![ConnectionsTable](image/ConnectionsTable.webp)
