@@ -39,3 +39,21 @@ ___
 
 ## Connections Table
 ![ConnectionsTable](image/ConnectionsTable.webp)
+
+
+## Message structure
+In the intrest of not overcomplicated our messages between boards, out team opted to use simple digital and analog signals for commmunication. The main hub board will be doing most of the logic, while the other boards will be gathering the data. Because of this we felt it would be redundant and unnecessary to send signals more complicated than just simple analog and digital singals, which can be easily interpreted by the hub board.
+
+Digital singals were used as inputs and outputs when indicating a boolean state, such as telling the speaker to activate or deactivate. Analog signals were used only as inputs for the main hub, and were used to send variable sensor data ranging such as light level or IR sensor distance.
+
+## Top 5 software changes
+The biggest significant software changes were the following
+
+1. The motor was removed from Micheal's board
+Because the motor was no longer part of Micheal's board, in the software we disregarded steps involving it. There would be no moisture level check to see if it was too high or too low, and there would be no motorized response to those values as well. This was not a very complicated issue to resolve at it only required removing existing operations, and not adding new ones.
+
+2. The mositure sensor was removed from Levi's board
+Due to the moisture sensor being dropped from Levi's board we simply changed the hub board to no longer expect any moisture values. Again this was a simple solution as it only required removing existing operations.
+
+Although there are meant to be 5 software changes in this list, there were actually no additonal software changes besides the prior ones mentioned.
+
