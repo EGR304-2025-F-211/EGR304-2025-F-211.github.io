@@ -26,7 +26,7 @@ ___
 **Figure 3:** Hafsa Kaysan's [IR Reflective Sensor and Pressure Sensor Subsystem](https://hfsksn.github.io/01-Block-Diagram/Block-Diagram/)
 ___
 
-![Individual Block Diagram - Levi Addink](image/LeviBD2.0.png)
+![Individual Block Diagram - Levi Addink](image/LeviBD3.0.png)
 
 **Figure 4:** Levi Addink's [Moisture and Sunlight Sensor Subsystem](https://blobiathan.github.io/01-Block-Diagram/Block-Diagram/)
 ___
