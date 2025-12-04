@@ -236,6 +236,8 @@ We have selected 20 different user needs and generated 5 different ideas for eac
 
 # Prototype 2: Plant-Tastic plant monitoring device
 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/mH-J3orDRtE/0.jpg)](https://www.youtube.com/watch?v=mH-J3orDRtE)
+
 [![Video]
 (https://img.youtube.com/vi/mH-J3orDRtE/maxresdefault.jpg)]
 (https://www.youtube.com/watch?v=mH-J3orDRtE)
