@@ -1,4 +1,4 @@
-Software Proposal
+Software Design
 ---
 
 ## Introduction
