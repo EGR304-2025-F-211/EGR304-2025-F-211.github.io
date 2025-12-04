@@ -17,7 +17,7 @@ Professor Nichols<br>
 </center>
 
 ## Final Project Picture
-![FinalPic](image/FinalProjectPic.webp)
+![FinalPic](image/FinalPCB.jpg)
 
 ## Team Introduction
 Team 211 is a 4-person team consisting of Levi, Hafsa, Kelton, and Michael, students in the class EGR 304 under professor Kevin Nichols at Arizona State University. The team is working on an **_Automated Plant Irrigation System_** that utilizes sensors and actuators. This project allows for an autonomous garden system and also allows for maximum plant care.
