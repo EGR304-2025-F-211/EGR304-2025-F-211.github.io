@@ -5,7 +5,7 @@ tags:
 - tag2
 ---
 <center>
-<font size="8">Organization, Charter, and Repository<br>
+<font size="8">Automated Plant Irrigation System<br>
 <font size="5">Team 211<br>
 **Submission: December 08, 2025**<br>
 Fall 2025<br>
