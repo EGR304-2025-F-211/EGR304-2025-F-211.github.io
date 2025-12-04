@@ -81,13 +81,12 @@ The new product design will be based on a filter with the addition of sensors ba
       * 6.4 The product shall have proper hazard labeling (P8)
       * 6.5 The product shall be able to alert the user if there is an issue to prevent damage or harm (P8)
   
-## Requirement Criteria Specifications
-
-* 1.1.1 - The device must filter water and include a sensing function to read water content.
-* 1.1.2 - The device must be able to read user input and effectively execute tasks.
-* 1.1.3 - Must be able to communicate with an app or program to log data
-* 1.1.4 - Must have dimensions less than 6x6x6"
-* 1.1.5 - Must have a lifetime of over a month
+8. **Requirement Criteria Specifications**
+    * 1.1.1 - The device must filter water and include a sensing function to read water content.
+    * 1.1.2 - The device must be able to read user input and effectively execute tasks.
+    * 1.1.3 - Must be able to communicate with an app or program to log data
+    * 1.1.4 - Must have dimensions less than 6x6x6"
+    * 1.1.5 - Must have a lifetime of over a month
 
 ## Open Questions
 
