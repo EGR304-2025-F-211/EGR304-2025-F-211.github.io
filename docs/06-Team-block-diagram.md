@@ -7,7 +7,7 @@ tags:
 
 ## Overview
 
-Team 211's device consists of four unique subsystems each with a PIC microcontroller to fulfill its desired function as an automated irrigation system, as shown by these block diagrams. The main hub, designed by Kelton, will provide a shared power from a wall mounted power supply and communication between the boards using 8 pin connectors while also displaying information through an LCD screen with a rotary encoder for user input and screen selection. To detect any failures in the irrigation system or to alert the user that the water storage tank connected to the device is running low, Hafsa's subsystem is designed to read, translate, and send information from a pressure sensor connected to the tubing and an IR sensor mounted inside the tank to Kelton's board. Levi's board uses a photoresistor nearby the plant and a moisture sensor in the soil to detect whether or not the plant is getting enough sunlight and when the plant needs more water and send that data to Kelton's board. Michael's subsystem recieves information from Kelton's board about the other sensors based on their state and activates or deactivates a solenoid valve in the tubing if the plant soil is too dry and a speaker alarm if their are failures in the system.
+Team 211's device consists of four unique subsystems, each with a PIC microcontroller to fulfill its desired function as an automated irrigation system, as shown by these block diagrams. The main hub, designed by Kelton, will provide shared power from a wall-mounted power supply and communication between the boards using 8-pin connectors while also displaying information through an LCD screen with a rotary encoder for user input and screen selection. To detect any failures in the irrigation system or to alert the user that the water storage tank connected to the device is running low, Hafsa's subsystem is designed to read, translate, and send information from a pressure sensor connected to the tubing and an IR sensor mounted inside the tank to Kelton's board. Levi's board uses a photoresistor near the plant and a moisture sensor in the soil to detect whether or not the plant is getting enough sunlight and when the plant needs more water, and sends that data to Kelton's board. Michael's subsystem recieves information from Kelton's board about the other sensors based on their state and activates or deactivates a solenoid valve in the tubing if the plant soil is too dry and a speaker alarm if there are failures in the system.
 
 ![EGR304_BlockDiagram](image/UpdatedTeamDiagram2.png)
 
@@ -42,18 +42,18 @@ ___
 
 
 ## Message structure
-In the intrest of not overcomplicated our messages between boards, out team opted to use simple digital and analog signals for commmunication. The main hub board will be doing most of the logic, while the other boards will be gathering the data. Because of this we felt it would be redundant and unnecessary to send signals more complicated than just simple analog and digital singals, which can be easily interpreted by the hub board.
+In the interest of not overcomplicating our messages between boards, our team opted to use simple digital and analog signals for communication. The main hub board will be doing most of the logic, while the other boards will be gathering the data. Because of this, we felt it would be redundant and unnecessary to send signals more complicated than just simple analog and digital signals, which can be easily interpreted by the hub board.
 
-Digital singals were used as inputs and outputs when indicating a boolean state, such as telling the speaker to activate or deactivate. Analog signals were used only as inputs for the main hub, and were used to send variable sensor data ranging such as light level or IR sensor distance.
+Digital signals were used as inputs and outputs when indicating a Boolean state, such as telling the speaker to activate or deactivate. Analog signals were used only as inputs for the main hub, and were used to send variable sensor data ranging such as light level or IR sensor distance.
 
 ## Top 5 software changes
 The biggest significant software changes were the following
 
-1. The motor was removed from Micheal's board
-Because the motor was no longer part of Micheal's board, in the software we disregarded steps involving it. There would be no moisture level check to see if it was too high or too low, and there would be no motorized response to those values as well. This was not a very complicated issue to resolve at it only required removing existing operations, and not adding new ones.
+1. The motor was removed from Michael's board
+Because the motor was no longer part of Michael's board, in the software, we disregarded steps involving it. There would be no moisture level check to see if it was too high or too low, and there would be no motorized response to those values as well. This was not a very complicated issue to resolve, as it only required removing existing operations and not adding new ones.
 
-2. The mositure sensor was removed from Levi's board
-Due to the moisture sensor being dropped from Levi's board we simply changed the hub board to no longer expect any moisture values. Again this was a simple solution as it only required removing existing operations.
+2. The moisture sensor was removed from Levi's board
+Due to the moisture sensor being dropped from Levi's board, we simply changed the hub board to no longer expect any moisture values. Again, this was a simple solution as it only required removing existing operations.
 
-Although there are meant to be 5 software changes in this list, there were actually no additonal software changes besides the prior ones mentioned.
+Although there are meant to be 5 software changes in this list, there were actually no additional software changes besides the prior ones mentioned.
 
