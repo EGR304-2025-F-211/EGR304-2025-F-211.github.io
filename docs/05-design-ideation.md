@@ -122,6 +122,8 @@ We have selected 20 different user needs and generated 5 different ideas for eac
 
 ## Step Three
 
+(Added catagories)
+
 |                   requirement / need |             feature              |             detail              |             catagory              |
 | -----------------------------------: | :------------------------------: | :------------------------------: | ------------------------------ |
 | The device has a battery-charge indicator |              RGB LED              | the device has a single RGB LED to reflect charge. Green light means full charge, yellow means half charge, and red being almost dead. | Indication |
