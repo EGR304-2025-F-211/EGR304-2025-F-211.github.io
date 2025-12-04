@@ -122,7 +122,7 @@ We have selected 20 different user needs and generated 5 different ideas for eac
 
 ## Step Three
 
-(Added catagories)
+Added catagories to the user needs:
 
 |                   requirement / need |             feature              |             detail              |             catagory              |
 | -----------------------------------: | :------------------------------: | :------------------------------: | ------------------------------ |
@@ -267,6 +267,7 @@ https://egr304-2025-f-211.github.io/03-User-Needs-and%20Benchmarking/
 **External resources:**
 Our group looked on websites like Amazon for existing home devices, similar to the type we needed to create for the project. We used these products as inspiration and guidance for what devices a typical homeowner might want.
 
+## Grouping and sorting:
 **How we grouped features:**
 We grouped our features into groups depending on which aspect of the device they related to. 
 To rank our different groups, our team discussed which of the 9 categories were likely the most important to the quality, functionality, and design of our product. Eventually settling on the following list in order from most important to least.
