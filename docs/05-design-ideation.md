@@ -239,7 +239,7 @@ Video:
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/mH-J3orDRtE/0.jpg)](https://www.youtube.com/watch?v=mH-J3orDRtE)
 
-(Full quality link: https://drive.google.com/file/d/1I3JVbMhnt8HroNrLFbyfjXVeOtjqZ6Ac/view?usp=sharing)
+(Full quality link: [link](https://drive.google.com/file/d/1I3JVbMhnt8HroNrLFbyfjXVeOtjqZ6Ac/view?usp=sharing))
 
 
 # Prototype 3: Vector-Imaged locking Trash Can
