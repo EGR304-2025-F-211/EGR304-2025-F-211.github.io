@@ -41,41 +41,41 @@ The new product design will be based on a filter with the addition of sensors ba
 
 1. **Hardware / Product Design**
      * 1.1 The product shall be visually similar to others like it, for ease of use and familiarity. (P6)
-     * 1.2 The product shall be durable enough to withstand the elements of the earth. (P8)
-     * 1.3 The product shall be compact and able to be mounted in tight spaces. (P8)
-     * 1.4 The product shall be designed to be waterproof (P10)
-     * 1.5 The product shall produce consistent results under standard conditions (P10)
+     * 1.2 The product shall be durable enough to withstand the elements of the earth ie: dust. (P8)
+     * 1.3 The product shall be compact and able to be mounted in tight space, no more than 1/2 cubic foot footprint. (P8)
+     * 1.4 The product shall be designed to be waterproof, can be half submerged while continuing to function (P10)
+     * 1.5 The product shall produce consistent results under standard conditions, 90% success rate (P10)
   
 2. **Software / Functionality**
-      * 2.1 The product shall use several sensors to collect data to relay back to the user (P8)
-      * 2.2 The product shall have several microcontrollers communicating with one another (P6)
-      * 2.3 The product shall be able to detect issues and troubleshoot them (P8)
-      * 2.4 The product shall have a "sleep" mode between user sessions to save electricity (P8)
+      * 2.1 The product shall use several sensors to collect data to relay back to the user, no less than 4 (P8)
+      * 2.2 The product shall have several microcontrollers communicating with one another, no less than 4 (P6)
+      * 2.3 The product shall be able to detect issues and troubleshoot them, should be able to detect at least 80% of errors automatically (P8)
+      * 2.4 The product shall have a "sleep" mode between user sessions to save electricity, should have at least 20% less power consumption (P8)
       * 2.5 The product shall be able to work in inside and outside conditions (P4) 
   
 3. **Interactivity & User Experience**
-      * 3.1 The product shall be straightforward and simple to operate (P8)
+      * 3.1 The product shall be straightforward and simple to operate, no more than 3 input devices (P8)
       * 3.2 The product shall have indicators for power and operation (P10)
       * 3.3 The product shall come packaged with a user manual (P6)
       * 3.4 The product shall have an illuminated interface for ease of use (P6)
       * 3.5 The product shall have a large interface so it can be operated with one hand (P6)
     
 5. **Customization**
-      * 4.1 The product shall have different modes of operation during sessions based on user input (P6)
-      * 4.2 The product shall have customizable display settings (P2)
+      * 4.1 The product shall have different modes of operation during sessions based on user input, at least two (P6)
+      * 4.2 The product shall have customizable display settings, at least three (P2)
       * 4.3 The product shall have accessibility features (P6)
-      * 4.4 The product shall have the capability for multiple language options (P4)
+      * 4.4 The product shall have the capability for multiple language options, miniumum two(P4)
       * 4.5 The product shall have the capability to pair with smart home systems (P1)
 
 6. **Manufacturing**
-      * 5.1 The product shall be made of mainly standard components (P8)
+      * 5.1 The product shall be made of mainly standard components, no less than 80% of components (P8)
       * 5.2 The product shall be made of non-carcinogenic materials (P8)
-      * 5.3 The product shall be recyclable (P4)
+      * 5.3 The product shall be recyclable, no less than 30% recyclable parts (P4)
       * 5.4 The product shall be made of materials that do not easily degrade under standard conditions (P10)
       * 5.5 The product shall be made of a material that is easy to grip for better handling (P6)
 
 7. **Safety**
-      * 6.1 The product shall operate at safe voltages (P10)
+      * 6.1 The product shall operate at safe voltages, no more than 12 volts (P10)
       * 6.2 The product shall not have exposed wires or components (P10)
       * 6.3 The product shall be child/pet safe (P6)
       * 6.4 The product shall have proper hazard labeling (P8)
