@@ -7,6 +7,7 @@ The following are the top 10 most important things that our team learned from wo
 1. **ECAD Experience:**
 
 Many of our group members had not used, or only lightly used ECAD software prior to this class. Throughout the class we discovered how to select the needed components, route connections, and create and assign custom footprints and symbols. Throughout this class we have gained the skills to use ECAD properly to make a functional PCB, this will likely be helpful in future classes, and possibly in future career paths.
+\n
 
 
 2. **Github Documentation skills:**
