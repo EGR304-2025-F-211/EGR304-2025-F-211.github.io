@@ -10,9 +10,9 @@ Software Design
 * How will the code handle all the functions, and for how long?
 
 ## Software Diagram
-![TeamLogicFlowChart](image/TeamFlowChartV2.png) **Figure 1:** Program Process   |
-[PDF Download](pdf/TeamFlowChartV2.pdf)  |
-[Draw.io Download](image/TeamFlowChartV2.xml) |<br>
+![TeamLogicFlowChart](image/TeamFlowChartV3.png) **Figure 1:** Program Process   |
+[PDF Download](pdf/TeamFlowChartV3.pdf)  |
+[Draw.io Download](image/TeamFlowChartV3.xml) |<br>
 
 
 
