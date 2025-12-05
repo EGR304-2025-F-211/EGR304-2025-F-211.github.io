@@ -10,9 +10,19 @@ Many of our group members had not used, or only lightly used ECAD software prior
 
 2. **Github Documentation skills:**
 
-Our group learned how to coordinate the use of github to make our documentation for this project. This required us to be able to follow the assignments guidelines to make a legible and originized document, this included adding tables, images, videos, titles, and links. As some of us had not used github in this matter, it was a new skill that we had to learn to complete assignments in this class.
+Our group learned how to coordinate the use of github to make our documentation for this project. This required us to be able to follow the assignments guidelines to make a legible and organized document, this included adding tables, images, videos, titles, and links. As some of us had not used github in this matter, it was a new skill that we had to learn to complete assignments in this class.
 
-3. **
+3. **Collaboration:**
+
+Since all of our boards had to be able to communicate with each other, collaboration was an important part of this project. Our group had to ensure that our pins for the ribbon cables matched up, and that we were all on the same page when it came to communication protocols between boards. This is a good skill to have learned throughout the project, as no matter what field you end up in, there is likely to be a lot of collaborative efforts between individuals.
+
+4. **Prototyping:**
+
+To ensure that our boards worked before sending in the order for manufacturing, many labs were done throughout this class to allow us to understand how to use the electrical components we were given. This allowed us to be sure that our designs would work before the PCBs were created. Because of this, all of our boards more or less worked right after assembly, with only minor hiccups in the process. Prototyping is a useful skill, and ensures that time, money, and effort is not wasted on a malfunctioning device.
+
+5. **Altering analog signals with op-amps:**
+
+One of the main requirements for this assignment was amplifying or altering an analog signal in some way to make it a clearer signal for the PSOC to read. This involved connecting the analog signal to an OpAmp in different configurations with different resistor values to get the desired result. Signal processing is a fundamental part of electronic devices, and so, is a useful skill to learn.
 
 
 
