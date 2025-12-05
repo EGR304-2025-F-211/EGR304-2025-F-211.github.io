@@ -244,7 +244,7 @@ Video:
 
 # Prototype 3: Vector-Imaged locking Trash Can
 
-![Trash](image/trashDesign.png)
+![Trash](image/trashDesign2.png)
 
 
 ## Step Five
