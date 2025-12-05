@@ -29,5 +29,5 @@ Our group decided to go beyond the standard requirements for the assignment, ins
 
 3. **Do well on the github assignments:**
 
-The github documentation assignments in this class are plentiful. There's a lot to do and the github assignments are actually worth significantly more than actually having a working device pointswise. Because of this it's very important to make sure you do well on the github assignments, since the cumulative github document is actually graded twice throughout the semester, any mistake made in previous sections have the potential to influence your grade multiple times.
+The github documentation assignments in this class are plentiful. There's a lot to do and the github assignments are actually worth significantly more than actually having a working device pointswise. Because of this it's very important to make sure you do well on the github assignments. Since the cumulative github document is actually graded twice throughout the semester, any mistake made in previous sections have the potential to influence your grade multiple times.
 
