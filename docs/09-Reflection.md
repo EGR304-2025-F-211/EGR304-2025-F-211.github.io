@@ -45,7 +45,16 @@ One requirement of this project was that all 4 of our boards had to be able to c
 During the PCB design process we learned about several important aspects of PCB design. Some examples being, trace width, decoupling capacitors, annular width, and how to ensure that our designs aligned with the manufacturing requirements. This knowledge will likely be useful in later classes and is helpful for understanding what exactly goes into the design of a PCB to ensure that it works properly.
 <br><br>
 
-9.
+9. **Workload allocation:**
+
+Since this assignment was a group project, our group had to develop our skills of allocating different parts of the assignment to each other. Each of us had to make sure we were communicating well with other group members and planning out who would do what and when. As many classes and occupations involve division of labor, this skill is yet another useful one to hone.
+<br><br>
+
+10. **Creating Improvements from Feedback:**
+
+Throughout this project our group was given feedback several times. A large part of this project was taking that feedback and using it to improve and refine our design and documentation. The ability to revise and improve is another useful skill that this project helped to teach.
+<br><br>
+
 
 
 
