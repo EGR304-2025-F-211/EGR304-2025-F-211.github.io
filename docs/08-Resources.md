@@ -2,6 +2,9 @@ Resources
 ---
 
 ### Team member board pictures:
+
+![TeamLogicFlowChart](image/TeamFlowChartV3.png)
+
 [LeviBoard](image/LeviBoardPic.jpg)
 [MichaelBoard](image/MichaelBoardPic.jpg)
 [HafsaBoard](image/HafsaBoardPic.jpg)
