@@ -20,7 +20,7 @@ The goal of benchmarking is to find a viable product that allows the user to sav
 
 **Keywords:** "auto light switch"
 
-**Search Results [Link](https://www.amazon.com/s?k=auto+light+switch&crid=1J29X3CK4KA4O&sprefix=auto+light+switch%2Caps%2C307):** 
+**Search Results [Link](https://www.amazon.com/s?k=auto+light+switch&crid=1J29X3CK4KA4O&sprefix=auto+light+switch%2Caps%2C307)** 
 
 ### Selected Product:
 1: [Lutron Maestro Motion Sensor Light Switch](https://www.amazon.com/Lutron-Maestro-Required-Single-Pole-MS-OPS2-WH/dp/B005WM3ALC?crid=1J29X3CK4KA4O&dib=eyJ2IjoiMSJ9.-Vrw-JDL5Rz2KBpMS8vHz4m-4uND2N1Hkuy3LXPZsU_voi4d323hK7KJPB9mddbCRpRNicksUMfRbnLqp-yb9hC624UQoqTkSM_fwNg-s6Lim6cg5RSqMn5iH4ikqhLKENnu175V9qacg2aB36oSO7BrcVgZO93bN7Ul_lHku0KxKxAA4rE3O8-8QmKBuC5tW2POPF5MX8hsFvr3ZqCWDGYw5TLLIkl6Ee2s9Fs62fE0qZeiZPVIY1I_ezhRaDOCwbemWqb6ThYTKYkP-d3c_pH5TS2udqzulsMwzUNppC4.nn9WGRSyUHaw8xc21oPj1G1AOn8-BNuLWcA2I_QXhjg&dib_tag=se&keywords=auto%2Blight%2Bswitch&qid=1757723745&sprefix=auto%2Blight%2Bswitch%2Caps%2C307&sr=8-6&th=1)
@@ -51,7 +51,7 @@ The goal of benchmarking is to find a viable product that allows the user to sav
 
 **Keywords:** "refrigerator monitoring device"
 
-**Search Results [Link](https://www.amazon.com/s?k=refrigerator+monitoring+device&crid=YRJ3I5DLS9SQ&sprefix=refrigerator+mon%2Caps%2C214&ref=nb_sb_ss_saint-en-prefix-wq_2_16):** 
+**Search Results [Link](https://www.amazon.com/s?k=refrigerator+monitoring+device&crid=YRJ3I5DLS9SQ&sprefix=refrigerator+mon%2Caps%2C214&ref=nb_sb_ss_saint-en-prefix-wq_2_16)** 
 
 ### Selected Product:
 1: [GoveeLife WiFi Refrigerator Thermometer with Alarm](https://www.amazon.com/GoveeLife-Refrigerator-Thermometer-Wireless-Temperature/dp/B0DZCQFZB6?crid=YRJ3I5DLS9SQ&dib=eyJ2IjoiMSJ9.aFPV6ggxqoOpsnJKexIKRBHREkxZENPmAFywm1wWfsxtlCcwxVDCY47OfyiFV5tdS3mzFhouHEr4KRwiOo407bZ2FYHfOAZ6yxF979Ombg5G7zKZlKmmVD2MQLtRq1aJLi28TbGRlMnxHwIHhAyPKrS3Jj1AX8QKpULTW-JW13U9kaWW5qRWH7i5dSae1wivhYCz_fESxvn7C0w7qXtst-pxpySaEPl4QObjQ7rYz565JjiBhqhd7HEYe-Z0vIZFcplA66ca00ngbWubeQIBhIOcJDgwl4BdeacTUiA2Q8k.UgIcCqMXeZlqcKuhlupMM-C1iPVbOWozSOFP402DvTg&dib_tag=se&keywords=refrigerator%2Bmonitoring%2Bdevice&qid=1757726473&sprefix=refrigerator%2Bmon%2Caps%2C214&sr=8-6&th=1)
@@ -82,7 +82,7 @@ The goal of benchmarking is to find a viable product that allows the user to sav
 
 **Keywords:** home smart sensor
 
-**Search Results [Link](https://www.amazon.com/s?k=home+smart+sensor&crid=2D7W4C3LUN966&sprefix=home+smart+senso%2Caps%2C203&ref=nb_sb_noss_2):** 
+**Search Results [Link](https://www.amazon.com/s?k=home+smart+sensor&crid=2D7W4C3LUN966&sprefix=home+smart+senso%2Caps%2C203&ref=nb_sb_noss_2)** 
 
 ### Selected Product:
 1: [GoveeLife Upgraded Smart Water Leak Detector](https://www.amazon.com/GoveeLife-Upgraded-Detector-Ultra-Long-Basement/dp/B0DQLFC3Q6?crid=2D7W4C3LUN966&dib=eyJ2IjoiMSJ9.KEm0dO1vve0ZTavA8cWMYmXGS3vxWCRDQQWEZDi8oPQEJmXsPuwixpxKU-IzwghacTlF5E6ElqFku6ixQ4zsgibiYsoMx3i6RaeR6_rKjJ4Aynnu0KPWxRXF2kUq4Z2NS1Qn2DkBph0_qgwFCvssGm2HH1zDiJrOr-JT22DJq83QGwKqrhVii2WR4_pSub_6KplLOcNDitWGz884i7vCLwG9_o5d4OwierfqupJW0tQ.9Zqck2Qsq5_9I_q2RLEgrtobg9axcgJIiDYz29WoDcU&dib_tag=se&keywords=home%2Bsmart%2Bsensor&qid=1757728079&sprefix=home%2Bsmart%2Bsenso%2Caps%2C203&sr=8-3&th=1)
@@ -138,7 +138,7 @@ The goal of benchmarking is to find a viable product that allows the user to sav
 
 **Keywords:** "smart sensor device"
 
-**Search Results [Link](https://www.amazon.com/s?k=smart+sensor+device&page=4&crid=1SRV67KY9URZB&qid=1757804881&sprefix=smart+sensor+devic%2Caps%2C228&xpid=7aGqHns8psuR6&ref=sr_pg_4):** 
+**Search Results [Link](https://www.amazon.com/s?k=smart+sensor+device&page=4&crid=1SRV67KY9URZB&qid=1757804881&sprefix=smart+sensor+devic%2Caps%2C228&xpid=7aGqHns8psuR6&ref=sr_pg_4)** 
 
 ### Selected Product:
 1: [Moen Flo Smart Water Monitor and Automatic Shutoff Sensor](https://www.amazon.com/Moen-900-001-4-Inch-Smart-Shutoff/dp/B00C03D01Q?crid=1SRV67KY9URZB&dib=eyJ2IjoiMSJ9.G3S89Hnk4DUecVklWoAV0kaqQ3p1rxVxfDJ4dS8LxoCvVoLONeJr05sexaXj3FhIjRyEZsnRXEj7xd8g0qHnU0dVH56JInRRJ7XGankbAl8-9Gi-6Zn85Wh0UchTGLznSvPCzUnrgX9AVrli2ENQl8sEl4ADdTcwWGOybD3paoSH9PiSeRNBtP3VRtGD_jdqvqkQtWG3WdDGjHS8KhfvwilgDair0YF7xRvWmh7NUiA.nPXkLy6loiXe0pbSxMVmntXSnEZGsp_U2aYA8K_rtsU&dib_tag=se&keywords=smart%2Bsensor%2Bdevice&qid=1757804887&sprefix=smart%2Bsensor%2Bdevic%2Caps%2C228&sr=8-68&xpid=7aGqHns8psuR6&th=1)
