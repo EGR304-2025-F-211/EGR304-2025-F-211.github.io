@@ -2,6 +2,17 @@ Reflection
 ---
 
 ## Lessons Learned
+The following are the top 10 most important things that our team learned from working on this project.
+
+1. **ECAD Experience:**
+Many of our group members had not used, or only lightly used ECAD software prior to this class. Throughout the class we discovered how to select the needed components, route connections, and create and assign custom footprints and symbols. Throughout this class we have gained the skills to use ECAD properly to make a functional PCB, this will likely be helpful in future classes, and possibly in future career paths.
+
+2. **Github Documentation skills:**
+Our group learned how to coordinate the use of github to make our documentation for this project. This required us to be able to follow the assignments guidelines to make a legible and originized document, this included adding tables, images, videos, titles, and links. As some of us had not used github in this matter, it was a new skill that we had to learn to complete assignments in this class.
+
+3. **
+
+
 
 ## Recommendations for future students
 The following are our top 5 reccomendations for future students taking this class.
