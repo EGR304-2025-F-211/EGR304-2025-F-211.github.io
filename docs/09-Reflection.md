@@ -30,9 +30,23 @@ To ensure that our boards worked before sending in the order for manufacturing, 
 One of the main requirements for this assignment was amplifying or altering an analog signal in some way to make it a clearer signal for the PSOC to read. This involved connecting the analog signal to an OpAmp in different configurations with different resistor values to get the desired result. Signal processing is a fundamental part of electronic devices, and so, is a useful skill to learn.
 <br><br>
 
-6. **design ideation:**
+6. **Design ideation:**
 
-Given a broad goal our group was tasked with fufilling a requiremnt, in this case, "an innovative solution for the home that utilizes simple sensors -- amplified, filtered, and digitized -- in order to help streamline a process, save resources, or eliminate manual steps". Our team had to be able to take this prompt, create several possible solutions, and eventually settle on a design. This is a skill that ties in with general problem solving abilities, which is yet another useful skill to develop.
+Given a broad goal our group was tasked with fulfilling a requirement, in this case, "an innovative solution for the home that utilizes simple sensors -- amplified, filtered, and digitized -- in order to help streamline a process, save resources, or eliminate manual steps". Our team had to be able to take this prompt, create several possible solutions, and eventually settle on a design. This is a skill that ties in with general problem solving abilities, which is yet another useful skill to develop.
+<br><br>
+
+7. **Communication between multiple microcontrollers:**
+
+One requirement of this project was that all 4 of our boards had to be able to communicate with each other. To accomplish this, our group had to decide on what sort of communication protocol we wanted to use, and then implement it.
+<br><br>
+
+8. **PCB design principals:**
+
+During the PCB design process we learned about several important aspects of PCB design. Some examples being, trace width, decoupling capacitors, annular width, and how to ensure that our designs aligned with the manufacturing requirements. This knowledge will likely be useful in later classes and is helpful for understanding what exactly goes into the design of a PCB to ensure that it works properly.
+<br><br>
+
+9.
+
 
 
 ## Recommendations for future students
