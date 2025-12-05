@@ -12,7 +12,7 @@ Software Design
 ## Software Diagram
 ![TeamLogicFlowChart](image/TeamFlowChartV2.png) **Figure 1:** Program Process   |
 [PDF Download](pdf/TeamFlowChartV2.pdf)  |
-[Draw.io Download](image/TeamFlowChart.xml) |<br>
+[Draw.io Download](image/TeamFlowChartV2.xml) |<br>
 
 
 
