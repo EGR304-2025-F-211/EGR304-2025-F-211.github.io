@@ -20,7 +20,7 @@ Since all of our boards had to be able to communicate with each other, collabora
 
 To ensure that our boards worked before sending in the order for manufacturing, many labs were done throughout this class to allow us to understand how to use the electrical components we were given. This allowed us to be sure that our designs would work before the PCBs were created. Because of this, all of our boards more or less worked right after assembly, with only minor hiccups in the process. Prototyping is a useful skill, and ensures that time, money, and effort is not wasted on a malfunctioning device.
 
-5. **Altering analog signals with op-amps:**
+5. **Filtering analog signals with op-amps:**
 
 One of the main requirements for this assignment was amplifying or altering an analog signal in some way to make it a clearer signal for the PSOC to read. This involved connecting the analog signal to an OpAmp in different configurations with different resistor values to get the desired result. Signal processing is a fundamental part of electronic devices, and so, is a useful skill to learn.
 
