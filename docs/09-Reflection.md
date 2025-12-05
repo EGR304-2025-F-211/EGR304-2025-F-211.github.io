@@ -30,6 +30,11 @@ To ensure that our boards worked before sending in the order for manufacturing, 
 One of the main requirements for this assignment was amplifying or altering an analog signal in some way to make it a clearer signal for the PSOC to read. This involved connecting the analog signal to an OpAmp in different configurations with different resistor values to get the desired result. Signal processing is a fundamental part of electronic devices, and so, is a useful skill to learn.
 <br><br>
 
+6. **design ideation:**
+
+Given a broad goal our group was tasked with fufilling a requiremnt, in this case, "an innovative solution for the home that utilizes simple sensors -- amplified, filtered, and digitized -- in order to help streamline a process, save resources, or eliminate manual steps". Our team had to be able to take this prompt, create several possible solutions, and eventually settle on a design. This is a skill that ties in with general problem solving abilities, which is yet another useful skill to develop.
+
+
 ## Recommendations for future students
 The following are our top 5 reccomendations for future students taking this class.
 
