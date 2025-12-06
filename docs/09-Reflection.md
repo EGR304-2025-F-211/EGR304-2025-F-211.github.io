@@ -76,3 +76,6 @@ Our group decided to go beyond the standard requirements for the assignment, ins
 The github documentation assignments in this class are plentiful. There's a lot to do and the github assignments are actually worth significantly more than actually having a working device pointswise. Because of this it's very important to make sure you do well on the github assignments. Since the cumulative github document is actually graded twice throughout the semester, any mistake made in previous sections have the potential to influence your grade multiple times.
 <br><br>
 
+4. **Be adaptable:**
+
+Throughout the project plans change and sometimes you are forced to adjust. To do well you must be able to reorganize and find new ways to accomplish the assignment. For example, during our project the Peralta mills stopped working and we had to quickly make sure our designs were set up properly for production by JLCPB. Additionally we also changed a large amount of our final design as the assignment went on, starting from a water filtration device and pivoting to an aquaponics setup. Being adaptable is key to success when things change quickly.
