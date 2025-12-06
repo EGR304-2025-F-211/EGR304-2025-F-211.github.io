@@ -16,7 +16,7 @@ Team 211's device consists of four unique subsystems, each with a PIC microcontr
 
 ## Individual Block Diagrams
 
-![Individual Block Diagram - Kelton Jensen](image/KeltonFlowChart.drawio.png)
+![Individual Block Diagram - Kelton Jensen](image/IndividualBlockKJ.png)
 
 **Figure 2:** Kelton Jensen's [Main Hub Subsystem](https://kjensen37.github.io/EGR304DataSheetKeltonJensen.github.io/01-Block-Diagram/Block-Diagram)
 ___
