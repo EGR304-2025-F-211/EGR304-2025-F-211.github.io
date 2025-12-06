@@ -80,4 +80,6 @@ The github documentation assignments in this class are plentiful. There's a lot 
 
 Throughout the project plans change and sometimes you are forced to adjust. To do well you must be able to reorganize and find new ways to accomplish the assignment. For example, during our project the Peralta mills stopped working and we had to quickly make sure our designs were set up properly for production by JLCPB. Additionally we also changed a large amount of our final design as the assignment went on, starting from a water filtration device and pivoting to an aquaponics setup. Being adaptable is key to success when things change quickly.
 
+5. **Add failsafes to the PCB:**
 
+Make sure that your PCB has lots of failsafes. Extra headers, jumpers, test points, etc. There's only one shot at getting the PCB working, and any sort of backup you design into the board is something you will thank yourself for later. Even if the board becomes a bit more cluttered it's likely worth it. Our team ran into almost no issues with our PCBs, but we each had several failsafes. In the event that one of our boards did have some sort of issue, it was likely that our backups would have allowed us to still get things working.
