@@ -59,7 +59,7 @@ Throughout this project our group was given feedback several times. A large part
 
 
 ## Recommendations for future students
-The following are our top 5 reccomendations for future students taking this class.
+The following are our top 5 recommendations for future students taking this class.
 
 1. **Make sure your PCB has correctly sized drill holes:**
 
@@ -79,3 +79,5 @@ The github documentation assignments in this class are plentiful. There's a lot 
 4. **Be adaptable:**
 
 Throughout the project plans change and sometimes you are forced to adjust. To do well you must be able to reorganize and find new ways to accomplish the assignment. For example, during our project the Peralta mills stopped working and we had to quickly make sure our designs were set up properly for production by JLCPB. Additionally we also changed a large amount of our final design as the assignment went on, starting from a water filtration device and pivoting to an aquaponics setup. Being adaptable is key to success when things change quickly.
+
+
