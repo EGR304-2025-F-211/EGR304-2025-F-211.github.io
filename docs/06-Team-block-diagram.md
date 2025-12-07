@@ -11,7 +11,7 @@ Team 211's device consists of four unique subsystems, each with a PIC microcontr
 
 ![EGR304_BlockDiagram](image/Digram211.png)
 
-**Figure 1:** Team Block Diagram and Connections. PDF version [*here*](pdf/TeamBlockDiagram.pdf)
+**Figure 1:** Team Block Diagram and Connections. PDF version [*here*](pdf/NewTeamBDiagram.pdf)
 
 
 ## Individual Block Diagrams
